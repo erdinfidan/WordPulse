@@ -1,0 +1,679 @@
+{
+    "sets": [
+        {
+            "id": "conjunctions_contrast",
+            "name": "Karşıtlık Bağlaçları",
+            "description": "Although, however, despite gibi karşıtlık bildiren bağlaçlar",
+            "icon": "⚖️",
+            "category": "conjunctions",
+            "words": [
+                {
+                    "text": "although",
+                    "meaning": "-e rağmen"
+                },
+                {
+                    "text": "though",
+                    "meaning": "-e rağmen"
+                },
+                {
+                    "text": "even though",
+                    "meaning": "-mesine rağmen"
+                },
+                {
+                    "text": "while",
+                    "meaning": "-e rağmen / iken"
+                },
+                {
+                    "text": "whereas",
+                    "meaning": "-e karşın"
+                },
+                {
+                    "text": "despite",
+                    "meaning": "-e rağmen"
+                },
+                {
+                    "text": "in spite of",
+                    "meaning": "-e rağmen"
+                },
+                {
+                    "text": "however",
+                    "meaning": "ancak, fakat"
+                },
+                {
+                    "text": "nevertheless",
+                    "meaning": "yine de"
+                },
+                {
+                    "text": "nonetheless",
+                    "meaning": "yine de"
+                },
+                {
+                    "text": "on the contrary",
+                    "meaning": "aksine"
+                },
+                {
+                    "text": "on the other hand",
+                    "meaning": "öte yandan"
+                },
+                {
+                    "text": "even if",
+                    "meaning": "-se bile"
+                },
+                {
+                    "text": "much as",
+                    "meaning": "-e rağmen"
+                },
+                {
+                    "text": "despite the fact that",
+                    "meaning": "-e rağmen"
+                },
+                {
+                    "text": "in contrast (to)",
+                    "meaning": "-nın aksine"
+                },
+                {
+                    "text": "contrary to",
+                    "meaning": "-nın aksine"
+                }
+            ]
+        },
+        {
+            "id": "conjunctions_cause",
+            "name": "Sebep-Sonuç Bağlaçları",
+            "description": "Because, therefore, so gibi sebep-sonuç bildiren bağlaçlar",
+            "icon": "🔗",
+            "category": "conjunctions",
+            "words": [
+                {
+                    "text": "because",
+                    "meaning": "çünkü"
+                },
+                {
+                    "text": "since",
+                    "meaning": "-dığı için"
+                },
+                {
+                    "text": "as",
+                    "meaning": "çünkü"
+                },
+                {
+                    "text": "now that",
+                    "meaning": "madem ki"
+                },
+                {
+                    "text": "given that",
+                    "meaning": "... göz önüne alındığında"
+                },
+                {
+                    "text": "in that",
+                    "meaning": "çünkü"
+                },
+                {
+                    "text": "for",
+                    "meaning": "çünkü"
+                },
+                {
+                    "text": "seeing that",
+                    "meaning": "madem ki"
+                },
+                {
+                    "text": "so",
+                    "meaning": "bu yüzden"
+                },
+                {
+                    "text": "therefore",
+                    "meaning": "bu nedenle"
+                },
+                {
+                    "text": "thus",
+                    "meaning": "böylece"
+                },
+                {
+                    "text": "hence",
+                    "meaning": "bu yüzden"
+                },
+                {
+                    "text": "consequently",
+                    "meaning": "sonuç olarak"
+                },
+                {
+                    "text": "as a result",
+                    "meaning": "sonuç olarak"
+                },
+                {
+                    "text": "accordingly",
+                    "meaning": "buna uygun olarak / buna bağlı olarak"
+                },
+                {
+                    "text": "because of",
+                    "meaning": "-den dolayı"
+                },
+                {
+                    "text": "due to",
+                    "meaning": "-den dolayı"
+                },
+                {
+                    "text": "owing to",
+                    "meaning": "-den dolayı"
+                },
+                {
+                    "text": "on account of",
+                    "meaning": "-den dolayı"
+                },
+                {
+                    "text": "thanks to",
+                    "meaning": "sayesinde"
+                },
+                {
+                    "text": "in view of",
+                    "meaning": "... göz önüne alındığında"
+                },
+                {
+                    "text": "as a result of",
+                    "meaning": "-nın sonucu olarak"
+                },
+                {
+                    "text": "so…that",
+                    "meaning": "o kadar … ki"
+                },
+                {
+                    "text": "such…that",
+                    "meaning": "öyle ... ki"
+                }
+            ]
+        },
+        {
+            "id": "conjunctions_purpose",
+            "name": "Amaç Bağlaçları",
+            "description": "To, in order to, so that gibi amaç bildiren bağlaçlar",
+            "icon": "🎯",
+            "category": "conjunctions",
+            "words": [
+                {
+                    "text": "to",
+                    "meaning": "-mek için"
+                },
+                {
+                    "text": "in order to",
+                    "meaning": "-mek için"
+                },
+                {
+                    "text": "so as to",
+                    "meaning": "-mek için"
+                },
+                {
+                    "text": "so that",
+                    "meaning": "-sın diye"
+                },
+                {
+                    "text": "in order that",
+                    "meaning": "-sın diye"
+                },
+                {
+                    "text": "for fear that",
+                    "meaning": "-korkusuyla"
+                },
+                {
+                    "text": "lest",
+                    "meaning": "-mesin diye"
+                },
+                {
+                    "text": "with a view to",
+                    "meaning": "-mek amacıyla"
+                },
+                {
+                    "text": "with the aim of",
+                    "meaning": "-mek amacıyla"
+                },
+                {
+                    "text": "for the purpose of",
+                    "meaning": "-mek amacıyla"
+                },
+                {
+                    "text": "in an effort to",
+                    "meaning": "-mek için/çabasıyla"
+                },
+                {
+                    "text": "so as not to",
+                    "meaning": "-memek için"
+                },
+                {
+                    "text": "in order not to",
+                    "meaning": "-memek için"
+                }
+            ]
+        },
+        {
+            "id": "conjunctions_condition",
+            "name": "Koşul Bağlaçları",
+            "description": "If, unless, provided that gibi koşul bildiren bağlaçlar",
+            "icon": "❓",
+            "category": "conjunctions",
+            "words": [
+                {
+                    "text": "if",
+                    "meaning": "eğer"
+                },
+                {
+                    "text": "unless",
+                    "meaning": "-mezse / -madıkça"
+                },
+                {
+                    "text": "in case",
+                    "meaning": "-sı diye / ihtimaline karşı"
+                },
+                {
+                    "text": "provided that",
+                    "meaning": "... şartıyla"
+                },
+                {
+                    "text": "providing that",
+                    "meaning": "... koşuluyla"
+                },
+                {
+                    "text": "as long as",
+                    "meaning": "-dığı sürece"
+                },
+                {
+                    "text": "on condition that",
+                    "meaning": "... şartıyla"
+                },
+                {
+                    "text": "whether…or not",
+                    "meaning": "olsa da olmasa da"
+                }
+            ]
+        },
+        {
+            "id": "conjunctions_time",
+            "name": "Zaman Bağlaçları",
+            "description": "When, while, before, after gibi zaman bildiren bağlaçlar",
+            "icon": "⏰",
+            "category": "conjunctions",
+            "words": [
+                {
+                    "text": "when",
+                    "meaning": "-diğinde"
+                },
+                {
+                    "text": "while",
+                    "meaning": "-iken"
+                },
+                {
+                    "text": "once",
+                    "meaning": "bir kez ...ince"
+                },
+                {
+                    "text": "after",
+                    "meaning": "-den sonra"
+                },
+                {
+                    "text": "before",
+                    "meaning": "-meden önce"
+                },
+                {
+                    "text": "since",
+                    "meaning": "-den beri"
+                },
+                {
+                    "text": "as soon as",
+                    "meaning": "-ar ... -maz"
+                },
+                {
+                    "text": "until",
+                    "meaning": "-e kadar"
+                },
+                {
+                    "text": "by the time",
+                    "meaning": "-e kadar, -dığı zamana kadar"
+                },
+                {
+                    "text": "whenever",
+                    "meaning": "ne zaman ...sa"
+                }
+            ]
+        },
+        {
+            "id": "conjunctions_addition",
+            "name": "Ekleme Bağlaçları",
+            "description": "Moreover, furthermore, also gibi ekleme bildiren bağlaçlar",
+            "icon": "➕",
+            "category": "conjunctions",
+            "words": [
+                {
+                    "text": "moreover",
+                    "meaning": "ayrıca"
+                },
+                {
+                    "text": "furthermore",
+                    "meaning": "buna ek olarak"
+                },
+                {
+                    "text": "in addition",
+                    "meaning": "ek olarak"
+                },
+                {
+                    "text": "besides",
+                    "meaning": "ayrıca, üstelik"
+                },
+                {
+                    "text": "also",
+                    "meaning": "ayrıca"
+                },
+                {
+                    "text": "as well as",
+                    "meaning": "yanı sıra"
+                }
+            ]
+        },
+        {
+            "id": "conjunctions_comparison",
+            "name": "Karşılaştırma Bağlaçları",
+            "description": "As...as, than, more...than gibi karşılaştırma bildiren bağlaçlar",
+            "icon": "⚡",
+            "category": "conjunctions",
+            "words": [
+                {
+                    "text": "as…as",
+                    "meaning": "kadar / gibi"
+                },
+                {
+                    "text": "than",
+                    "meaning": "-den / -dan"
+                },
+                {
+                    "text": "more…than",
+                    "meaning": "...den daha çok"
+                },
+                {
+                    "text": "less…than",
+                    "meaning": "...den daha az"
+                },
+                {
+                    "text": "the more…the more",
+                    "meaning": "ne kadar … o kadar"
+                }
+            ]
+        },
+        {
+            "id": "conjunctions_example",
+            "name": "Örnek Verme Bağlaçları",
+            "description": "For example, such as, namely gibi örnek bildiren bağlaçlar",
+            "icon": "💡",
+            "category": "conjunctions",
+            "words": [
+                {
+                    "text": "for example",
+                    "meaning": "örneğin"
+                },
+                {
+                    "text": "for instance",
+                    "meaning": "mesela"
+                },
+                {
+                    "text": "such as",
+                    "meaning": "gibi"
+                },
+                {
+                    "text": "namely",
+                    "meaning": "yani"
+                },
+                {
+                    "text": "that is",
+                    "meaning": "yani"
+                },
+                {
+                    "text": "in other words",
+                    "meaning": "başka bir deyişle"
+                }
+            ]
+        },
+        {
+            "id": "academic_verbs",
+            "name": "Akademik Fiiller",
+            "description": "YÖKDİL ve akademik metinlerde sık kullanılan fiiller",
+            "icon": "📚",
+            "category": "verbs",
+            "words": [
+                {
+                    "text": "analyze",
+                    "meaning": "analiz etmek"
+                },
+                {
+                    "text": "examine",
+                    "meaning": "incelemek"
+                },
+                {
+                    "text": "investigate",
+                    "meaning": "araştırmak"
+                },
+                {
+                    "text": "demonstrate",
+                    "meaning": "göstermek, kanıtlamak"
+                },
+                {
+                    "text": "illustrate",
+                    "meaning": "örneklemek, göstermek"
+                },
+                {
+                    "text": "emphasize",
+                    "meaning": "vurgulamak"
+                },
+                {
+                    "text": "indicate",
+                    "meaning": "belirtmek"
+                },
+                {
+                    "text": "suggest",
+                    "meaning": "önermek, ima etmek"
+                },
+                {
+                    "text": "propose",
+                    "meaning": "önermek"
+                },
+                {
+                    "text": "argue",
+                    "meaning": "savunmak, iddia etmek"
+                },
+                {
+                    "text": "claim",
+                    "meaning": "iddia etmek"
+                },
+                {
+                    "text": "assert",
+                    "meaning": "ileri sürmek"
+                },
+                {
+                    "text": "maintain",
+                    "meaning": "sürdürmek, iddia etmek"
+                },
+                {
+                    "text": "establish",
+                    "meaning": "kurmak, oluşturmak"
+                },
+                {
+                    "text": "determine",
+                    "meaning": "belirlemek"
+                },
+                {
+                    "text": "identify",
+                    "meaning": "tanımlamak, belirlemek"
+                },
+                {
+                    "text": "reveal",
+                    "meaning": "ortaya çıkarmak"
+                },
+                {
+                    "text": "demonstrate",
+                    "meaning": "göstermek"
+                },
+                {
+                    "text": "contribute",
+                    "meaning": "katkıda bulunmak"
+                },
+                {
+                    "text": "enhance",
+                    "meaning": "geliştirmek, artırmak"
+                }
+            ]
+        },
+        {
+            "id": "common_phrasal_verbs",
+            "name": "Yaygın Phrasal Verbs",
+            "description": "Günlük ve akademik dilde sık kullanılan phrasal verbs",
+            "icon": "🔄",
+            "category": "phrasal_verbs",
+            "words": [
+                {
+                    "text": "carry out",
+                    "meaning": "gerçekleştirmek, yürütmek"
+                },
+                {
+                    "text": "point out",
+                    "meaning": "belirtmek, işaret etmek"
+                },
+                {
+                    "text": "bring about",
+                    "meaning": "neden olmak, meydana getirmek"
+                },
+                {
+                    "text": "come up with",
+                    "meaning": "bulmak, ortaya çıkarmak"
+                },
+                {
+                    "text": "set up",
+                    "meaning": "kurmak, oluşturmak"
+                },
+                {
+                    "text": "take into account",
+                    "meaning": "dikkate almak"
+                },
+                {
+                    "text": "deal with",
+                    "meaning": "ele almak, ilgilenmek"
+                },
+                {
+                    "text": "focus on",
+                    "meaning": "odaklanmak"
+                },
+                {
+                    "text": "rely on",
+                    "meaning": "güvenmek, dayanmak"
+                },
+                {
+                    "text": "result in",
+                    "meaning": "sonuçlanmak"
+                },
+                {
+                    "text": "lead to",
+                    "meaning": "yol açmak"
+                },
+                {
+                    "text": "give rise to",
+                    "meaning": "neden olmak"
+                },
+                {
+                    "text": "account for",
+                    "meaning": "açıklamak, oluşturmak"
+                },
+                {
+                    "text": "refer to",
+                    "meaning": "atıfta bulunmak"
+                },
+                {
+                    "text": "consist of",
+                    "meaning": "oluşmak"
+                }
+            ]
+        },
+        {
+            "id": "academic_nouns",
+            "name": "Akademik İsimler",
+            "description": "YÖKDİL ve akademik metinlerde sık kullanılan isimler",
+            "icon": "📖",
+            "category": "nouns",
+            "words": [
+                {
+                    "text": "research",
+                    "meaning": "araştırma"
+                },
+                {
+                    "text": "study",
+                    "meaning": "çalışma, araştırma"
+                },
+                {
+                    "text": "analysis",
+                    "meaning": "analiz"
+                },
+                {
+                    "text": "evidence",
+                    "meaning": "kanıt"
+                },
+                {
+                    "text": "approach",
+                    "meaning": "yaklaşım"
+                },
+                {
+                    "text": "method",
+                    "meaning": "yöntem"
+                },
+                {
+                    "text": "theory",
+                    "meaning": "teori"
+                },
+                {
+                    "text": "concept",
+                    "meaning": "kavram"
+                },
+                {
+                    "text": "framework",
+                    "meaning": "çerçeve"
+                },
+                {
+                    "text": "perspective",
+                    "meaning": "bakış açısı"
+                },
+                {
+                    "text": "phenomenon",
+                    "meaning": "olgu, fenomen"
+                },
+                {
+                    "text": "aspect",
+                    "meaning": "yön, açı"
+                },
+                {
+                    "text": "factor",
+                    "meaning": "faktör, etken"
+                },
+                {
+                    "text": "impact",
+                    "meaning": "etki"
+                },
+                {
+                    "text": "implication",
+                    "meaning": "sonuç, ima"
+                },
+                {
+                    "text": "significance",
+                    "meaning": "önem, anlam"
+                },
+                {
+                    "text": "assumption",
+                    "meaning": "varsayım"
+                },
+                {
+                    "text": "hypothesis",
+                    "meaning": "hipotez"
+                },
+                {
+                    "text": "conclusion",
+                    "meaning": "sonuç"
+                },
+                {
+                    "text": "finding",
+                    "meaning": "bulgu"
+                }
+            ]
+        }
+    ]
+}
