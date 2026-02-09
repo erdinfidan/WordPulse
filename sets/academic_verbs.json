@@ -1,0 +1,86 @@
+{
+  "setId": "academic_verbs",
+  "version": "1.0.0",
+  "words": [
+    {
+      "text": "analyze",
+      "meaning": "analiz etmek"
+    },
+    {
+      "text": "examine",
+      "meaning": "incelemek"
+    },
+    {
+      "text": "investigate",
+      "meaning": "araştırmak"
+    },
+    {
+      "text": "demonstrate",
+      "meaning": "göstermek, kanıtlamak"
+    },
+    {
+      "text": "illustrate",
+      "meaning": "örneklemek, göstermek"
+    },
+    {
+      "text": "emphasize",
+      "meaning": "vurgulamak"
+    },
+    {
+      "text": "indicate",
+      "meaning": "belirtmek"
+    },
+    {
+      "text": "suggest",
+      "meaning": "önermek, ima etmek"
+    },
+    {
+      "text": "propose",
+      "meaning": "önermek"
+    },
+    {
+      "text": "argue",
+      "meaning": "savunmak, iddia etmek"
+    },
+    {
+      "text": "claim",
+      "meaning": "iddia etmek"
+    },
+    {
+      "text": "assert",
+      "meaning": "ileri sürmek"
+    },
+    {
+      "text": "maintain",
+      "meaning": "sürdürmek, iddia etmek"
+    },
+    {
+      "text": "establish",
+      "meaning": "kurmak, oluşturmak"
+    },
+    {
+      "text": "determine",
+      "meaning": "belirlemek"
+    },
+    {
+      "text": "identify",
+      "meaning": "tanımlamak, belirlemek"
+    },
+    {
+      "text": "reveal",
+      "meaning": "ortaya çıkarmak"
+    },
+    {
+      "text": "demonstrate",
+      "meaning": "göstermek"
+    },
+    {
+      "text": "contribute",
+      "meaning": "katkıda bulunmak"
+    },
+    {
+      "text": "enhance",
+      "meaning": "geliştirmek, artırmak"
+    }
+  ]
+}

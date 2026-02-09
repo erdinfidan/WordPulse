@@ -1,0 +1,58 @@
+{
+  "setId": "conjunctions_purpose",
+  "version": "1.0.0",
+  "words": [
+    {
+      "text": "to",
+      "meaning": "-mek için"
+    },
+    {
+      "text": "in order to",
+      "meaning": "-mek için"
+    },
+    {
+      "text": "so as to",
+      "meaning": "-mek için"
+    },
+    {
+      "text": "so that",
+      "meaning": "-sın diye"
+    },
+    {
+      "text": "in order that",
+      "meaning": "-sın diye"
+    },
+    {
+      "text": "for fear that",
+      "meaning": "-korkusuyla"
+    },
+    {
+      "text": "lest",
+      "meaning": "-mesin diye"
+    },
+    {
+      "text": "with a view to",
+      "meaning": "-mek amacıyla"
+    },
+    {
+      "text": "with the aim of",
+      "meaning": "-mek amacıyla"
+    },
+    {
+      "text": "for the purpose of",
+      "meaning": "-mek amacıyla"
+    },
+    {
+      "text": "in an effort to",
+      "meaning": "-mek için/çabasıyla"
+    },
+    {
+      "text": "so as not to",
+      "meaning": "-memek için"
+    },
+    {
+      "text": "in order not to",
+      "meaning": "-memek için"
+    }
+  ]
+}

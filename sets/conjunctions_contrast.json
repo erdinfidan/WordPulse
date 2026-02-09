@@ -1,0 +1,74 @@
+{
+  "setId": "conjunctions_contrast",
+  "version": "1.0.0",
+  "words": [
+    {
+      "text": "although",
+      "meaning": "-e rağmen"
+    },
+    {
+      "text": "though",
+      "meaning": "-e rağmen"
+    },
+    {
+      "text": "even though",
+      "meaning": "-mesine rağmen"
+    },
+    {
+      "text": "while",
+      "meaning": "-e rağmen / iken"
+    },
+    {
+      "text": "whereas",
+      "meaning": "-e karşın"
+    },
+    {
+      "text": "despite",
+      "meaning": "-e rağmen"
+    },
+    {
+      "text": "in spite of",
+      "meaning": "-e rağmen"
+    },
+    {
+      "text": "however",
+      "meaning": "ancak, fakat"
+    },
+    {
+      "text": "nevertheless",
+      "meaning": "yine de"
+    },
+    {
+      "text": "nonetheless",
+      "meaning": "yine de"
+    },
+    {
+      "text": "on the contrary",
+      "meaning": "aksine"
+    },
+    {
+      "text": "on the other hand",
+      "meaning": "öte yandan"
+    },
+    {
+      "text": "even if",
+      "meaning": "-se bile"
+    },
+    {
+      "text": "much as",
+      "meaning": "-e rağmen"
+    },
+    {
+      "text": "despite the fact that",
+      "meaning": "-e rağmen"
+    },
+    {
+      "text": "in contrast (to)",
+      "meaning": "-nın aksine"
+    },
+    {
+      "text": "contrary to",
+      "meaning": "-nın aksine"
+    }
+  ]
+}

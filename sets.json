@@ -1,0 +1,138 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2026-02-09",
+    "sets": [
+        {
+            "id": "conjunctions_contrast",
+            "name": "Karşıtlık Bağlaçları",
+            "description": "Although, however, despite gibi karşıtlık bildiren bağlaçlar",
+            "icon": "⚖️",
+            "category": "conjunctions",
+            "wordCount": 17,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/conjunctions_contrast.json",
+            "size": "1.2 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0"
+        },
+        {
+            "id": "conjunctions_cause",
+            "name": "Sebep-Sonuç Bağlaçları",
+            "description": "Because, therefore, so gibi sebep-sonuç bildiren bağlaçlar",
+            "icon": "🔗",
+            "category": "conjunctions",
+            "wordCount": 24,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/conjunctions_cause.json",
+            "size": "1.8 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0"
+        },
+        {
+            "id": "conjunctions_purpose",
+            "name": "Amaç Bağlaçları",
+            "description": "To, in order to, so that gibi amaç bildiren bağlaçlar",
+            "icon": "🎯",
+            "category": "conjunctions",
+            "wordCount": 13,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/conjunctions_purpose.json",
+            "size": "0.9 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0"
+        },
+        {
+            "id": "conjunctions_condition",
+            "name": "Koşul Bağlaçları",
+            "description": "If, unless, provided that gibi koşul bildiren bağlaçlar",
+            "icon": "❓",
+            "category": "conjunctions",
+            "wordCount": 8,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/conjunctions_condition.json",
+            "size": "0.6 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0"
+        },
+        {
+            "id": "conjunctions_time",
+            "name": "Zaman Bağlaçları",
+            "description": "When, while, before, after gibi zaman bildiren bağlaçlar",
+            "icon": "⏰",
+            "category": "conjunctions",
+            "wordCount": 10,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/conjunctions_time.json",
+            "size": "0.7 KB",
+            "difficulty": "beginner",
+            "version": "1.0.0"
+        },
+        {
+            "id": "conjunctions_addition",
+            "name": "Ekleme Bağlaçları",
+            "description": "Moreover, furthermore, also gibi ekleme bildiren bağlaçlar",
+            "icon": "➕",
+            "category": "conjunctions",
+            "wordCount": 6,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/conjunctions_addition.json",
+            "size": "0.5 KB",
+            "difficulty": "beginner",
+            "version": "1.0.0"
+        },
+        {
+            "id": "conjunctions_comparison",
+            "name": "Karşılaştırma Bağlaçları",
+            "description": "As...as, than, more...than gibi karşılaştırma bildiren bağlaçlar",
+            "icon": "⚡",
+            "category": "conjunctions",
+            "wordCount": 5,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/conjunctions_comparison.json",
+            "size": "0.4 KB",
+            "difficulty": "beginner",
+            "version": "1.0.0"
+        },
+        {
+            "id": "conjunctions_example",
+            "name": "Örnek Verme Bağlaçları",
+            "description": "For example, such as, namely gibi örnek bildiren bağlaçlar",
+            "icon": "💡",
+            "category": "conjunctions",
+            "wordCount": 6,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/conjunctions_example.json",
+            "size": "0.5 KB",
+            "difficulty": "beginner",
+            "version": "1.0.0"
+        },
+        {
+            "id": "academic_verbs",
+            "name": "Akademik Fiiller",
+            "description": "YÖKDİL ve akademik metinlerde sık kullanılan fiiller",
+            "icon": "📚",
+            "category": "verbs",
+            "wordCount": 20,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/academic_verbs.json",
+            "size": "1.5 KB",
+            "difficulty": "advanced",
+            "version": "1.0.0"
+        },
+        {
+            "id": "common_phrasal_verbs",
+            "name": "Yaygın Phrasal Verbs",
+            "description": "Günlük ve akademik dilde sık kullanılan phrasal verbs",
+            "icon": "🔄",
+            "category": "phrasal_verbs",
+            "wordCount": 15,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/common_phrasal_verbs.json",
+            "size": "1.1 KB",
+            "difficulty": "advanced",
+            "version": "1.0.0"
+        },
+        {
+            "id": "academic_nouns",
+            "name": "Akademik İsimler",
+            "description": "YÖKDİL ve akademik metinlerde sık kullanılan isimler",
+            "icon": "📖",
+            "category": "nouns",
+            "wordCount": 20,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/academic_nouns.json",
+            "size": "1.4 KB",
+            "difficulty": "advanced",
+            "version": "1.0.0"
+        }
+    ]
+}

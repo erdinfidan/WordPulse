@@ -1,0 +1,38 @@
+{
+  "setId": "conjunctions_condition",
+  "version": "1.0.0",
+  "words": [
+    {
+      "text": "if",
+      "meaning": "eğer"
+    },
+    {
+      "text": "unless",
+      "meaning": "-mezse / -madıkça"
+    },
+    {
+      "text": "in case",
+      "meaning": "-sı diye / ihtimaline karşı"
+    },
+    {
+      "text": "provided that",
+      "meaning": "... şartıyla"
+    },
+    {
+      "text": "providing that",
+      "meaning": "... koşuluyla"
+    },
+    {
+      "text": "as long as",
+      "meaning": "-dığı sürece"
+    },
+    {
+      "text": "on condition that",
+      "meaning": "... şartıyla"
+    },
+    {
+      "text": "whether…or not",
+      "meaning": "olsa da olmasa da"
+    }
+  ]
+}

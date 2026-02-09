@@ -1,0 +1,66 @@
+{
+  "setId": "common_phrasal_verbs",
+  "version": "1.0.0",
+  "words": [
+    {
+      "text": "carry out",
+      "meaning": "gerçekleştirmek, yürütmek"
+    },
+    {
+      "text": "point out",
+      "meaning": "belirtmek, işaret etmek"
+    },
+    {
+      "text": "bring about",
+      "meaning": "neden olmak, meydana getirmek"
+    },
+    {
+      "text": "come up with",
+      "meaning": "bulmak, ortaya çıkarmak"
+    },
+    {
+      "text": "set up",
+      "meaning": "kurmak, oluşturmak"
+    },
+    {
+      "text": "take into account",
+      "meaning": "dikkate almak"
+    },
+    {
+      "text": "deal with",
+      "meaning": "ele almak, ilgilenmek"
+    },
+    {
+      "text": "focus on",
+      "meaning": "odaklanmak"
+    },
+    {
+      "text": "rely on",
+      "meaning": "güvenmek, dayanmak"
+    },
+    {
+      "text": "result in",
+      "meaning": "sonuçlanmak"
+    },
+    {
+      "text": "lead to",
+      "meaning": "yol açmak"
+    },
+    {
+      "text": "give rise to",
+      "meaning": "neden olmak"
+    },
+    {
+      "text": "account for",
+      "meaning": "açıklamak, oluşturmak"
+    },
+    {
+      "text": "refer to",
+      "meaning": "atıfta bulunmak"
+    },
+    {
+      "text": "consist of",
+      "meaning": "oluşmak"
+    }
+  ]
+}

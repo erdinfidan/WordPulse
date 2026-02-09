@@ -1,0 +1,46 @@
+{
+  "setId": "conjunctions_time",
+  "version": "1.0.0",
+  "words": [
+    {
+      "text": "when",
+      "meaning": "-diğinde"
+    },
+    {
+      "text": "while",
+      "meaning": "-iken"
+    },
+    {
+      "text": "once",
+      "meaning": "bir kez ...ince"
+    },
+    {
+      "text": "after",
+      "meaning": "-den sonra"
+    },
+    {
+      "text": "before",
+      "meaning": "-meden önce"
+    },
+    {
+      "text": "since",
+      "meaning": "-den beri"
+    },
+    {
+      "text": "as soon as",
+      "meaning": "-ar ... -maz"
+    },
+    {
+      "text": "until",
+      "meaning": "-e kadar"
+    },
+    {
+      "text": "by the time",
+      "meaning": "-e kadar, -dığı zamana kadar"
+    },
+    {
+      "text": "whenever",
+      "meaning": "ne zaman ...sa"
+    }
+  ]
+}
