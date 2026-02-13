@@ -1,0 +1,18 @@
+{
+    "setId": "calisma_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "hello",
+            "meaning": "merhaba"
+        },
+        {
+            "text": "car",
+            "meaning": "araba"
+        },
+        {
+            "text": "table",
+            "meaning": "masa"
+        }
+    ]
+}

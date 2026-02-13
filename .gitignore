@@ -1,0 +1,25 @@
+# WordPulse Git Ignore
+
+# Local import folder (Yerel içe aktarma klasörü)
+import-core/
+
+# Python temporary files (Python geçici dosyaları)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local data files (Yerel veri dosyaları)
+words_to_import.txt
+import.json
+synonyms.json
+
+# Environments (Sanal ortamlar ve gizli değişkenler)
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Local IDE settings (Yerel editör ayarları)
+.vscode/
+.idea/

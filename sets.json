@@ -157,6 +157,20 @@
             "size": "1.5 KB",
             "difficulty": "intermediate",
             "version": "1.0.0"
+        },
+        {
+            "id": "calisma_1",
+            "name": "Çalışma 1",
+            "description": "İLK OKUL SETLERİ",
+            "icon": "📝",
+            "category": "EĞİTİM",
+            "subCategory": "İLK",
+            "wordCount": 3,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/calisma_1.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-13"
         }
     ]
 }
