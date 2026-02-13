@@ -1,0 +1,29 @@
+# WordPulse Kelime İçe Aktarma Dosyası
+# Format: set_id | kelime | anlam
+# Not: Kelime o sette zaten varsa anlamı güncellenir, yoksa yeni eklenir.
+
+set_3 | casually |  günlük, sıradan, gelişigüzel
+set_3 | instinctively |  içgüdüsel olarak, doğal olarak
+set_3 | irresponsibly |  sorumsuz
+set_3 | inequally |  eşit olmayan bir şekilde
+set_3 | obscurely |  anlaşılması zor biçimde
+set_3 | forcefully |  zorla, zor kullanarak
+set_3 | moderately |  ılımlı bir şekilde, ortalama
+set_3 | especially |  özellikle
+set_3 | inconveniently |  elverişsiz bir şekilde
+set_3 | conventionally |  geleneksel olarak
+set_3 | currently |  mevcut durumda
+set_3 | deficiently |  yetersizce, eksik olarak
+set_3 | carefully |  özenle
+set_3 | environmentally |  çevresel olarak
+set_3 | defensively |  savunur olarak, savunarak
+set_3 | drastically |  ani ve sert bir şekilde
+set_3 | attractively |  çekici bir şekilde
+set_3 | namely |  diğer bir deyişle, şöyle
+set_3 | inextricably |  ayrılmaz bir şekilde, iç içe
+set_3 | exclusively |  sadece, yalnızca, özel olarak
+set_3 | doubtfully |  şüpheli olarak
+set_3 | arguably |  tartışılabilir bir şekilde, iddiaya göre
+set_3 | exactly |  tamamen, tam olarak
+set_3 | convertibly |  dönüştürülebilir biçimde
+set_3 | considerably |  önemli ölçüde, oldukça
