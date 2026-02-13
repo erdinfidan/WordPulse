@@ -1,74 +1,82 @@
 {
-  "setId": "conjunctions_contrast",
-  "version": "1.0.0",
-  "words": [
-    {
-      "text": "although",
-      "meaning": "-e rağmen"
-    },
-    {
-      "text": "though",
-      "meaning": "-e rağmen"
-    },
-    {
-      "text": "even though",
-      "meaning": "-mesine rağmen"
-    },
-    {
-      "text": "while",
-      "meaning": "-e rağmen / iken"
-    },
-    {
-      "text": "whereas",
-      "meaning": "-e karşın"
-    },
-    {
-      "text": "despite",
-      "meaning": "-e rağmen"
-    },
-    {
-      "text": "in spite of",
-      "meaning": "-e rağmen"
-    },
-    {
-      "text": "however",
-      "meaning": "ancak, yine de"
-    },
-    {
-      "text": "nevertheless",
-      "meaning": "yine de"
-    },
-    {
-      "text": "nonetheless",
-      "meaning": "yine de"
-    },
-    {
-      "text": "on the contrary",
-      "meaning": "aksine"
-    },
-    {
-      "text": "on the other hand",
-      "meaning": "öte yandan"
-    },
-    {
-      "text": "even if",
-      "meaning": "-se bile"
-    },
-    {
-      "text": "much as",
-      "meaning": "-e rağmen"
-    },
-    {
-      "text": "despite the fact that",
-      "meaning": "-e rağmen"
-    },
-    {
-      "text": "in contrast (to)",
-      "meaning": "-nın aksine"
-    },
-    {
-      "text": "contrary to",
-      "meaning": "-nın aksine"
-    }
-  ]
+    "setId": "conjunctions_contrast",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Although / Though / Even though",
+            "meaning": "e rağmen"
+        },
+        {
+            "text": "Much as",
+            "meaning": "e rağmen"
+        },
+        {
+            "text": "Despite / In spite of",
+            "meaning": "e rağmen"
+        },
+        {
+            "text": "For all",
+            "meaning": "e rağmen"
+        },
+        {
+            "text": "Notwithstanding",
+            "meaning": "e rağmen"
+        },
+        {
+            "text": "Albeit",
+            "meaning": "olsa da"
+        },
+        {
+            "text": "However",
+            "meaning": "ancak, fakat"
+        },
+        {
+            "text": "But",
+            "meaning": "ama, fakat"
+        },
+        {
+            "text": "Yet",
+            "meaning": "ancak, yine de"
+        },
+        {
+            "text": "Still",
+            "meaning": "yine de"
+        },
+        {
+            "text": "Nonetheless / Nevertheless",
+            "meaning": "ancak, yine de"
+        },
+        {
+            "text": "Even so",
+            "meaning": "yine de"
+        },
+        {
+            "text": "Whereas / While",
+            "meaning": "iken (zıtlık)"
+        },
+        {
+            "text": "Whilst",
+            "meaning": "iken (zıtlık)"
+        },
+        {
+            "text": "Contrary to / In contrast to / As opposed to",
+            "meaning": "nın aksine"
+        },
+        {
+            "text": "By contrast",
+            "meaning": "aksine, tersine"
+        },
+        {
+            "text": "Conversely",
+            "meaning": "aksine"
+        },
+        {
+            "text": "Unlike",
+            "meaning": "den farklı olarak"
+        },
+        {
+            "text": "On the other hand",
+            "meaning": "diğer yandan"
+        }
+    ]
 }

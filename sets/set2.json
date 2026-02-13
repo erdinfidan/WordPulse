@@ -1,0 +1,106 @@
+{
+    "setId": "set2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "chronic",
+            "meaning": "kronik, devamlı, sürekli"
+        },
+        {
+            "text": "uninhabitable",
+            "meaning": "yaşama elverişsiz"
+        },
+        {
+            "text": "genetic",
+            "meaning": "genetik"
+        },
+        {
+            "text": "bizarre",
+            "meaning": "garip, tuhaf"
+        },
+        {
+            "text": "defensive",
+            "meaning": "savunan"
+        },
+        {
+            "text": "adaptable",
+            "meaning": "uyumlu, ayarlanabilir"
+        },
+        {
+            "text": "impoverished",
+            "meaning": "fakirleşmiş"
+        },
+        {
+            "text": "crucial",
+            "meaning": "çok önemli"
+        },
+        {
+            "text": "simply",
+            "meaning": "sade, yalın"
+        },
+        {
+            "text": "efficient",
+            "meaning": "etkili, verimli"
+        },
+        {
+            "text": "redundant",
+            "meaning": "lüzumsuz, gereksiz"
+        },
+        {
+            "text": "entitle",
+            "meaning": "yetkilendirilmiş, görevlendirilmiş"
+        },
+        {
+            "text": "mandatory",
+            "meaning": "zorunlu, mandater"
+        },
+        {
+            "text": "hidden",
+            "meaning": "gizli, saklı"
+        },
+        {
+            "text": "significant",
+            "meaning": "önemli"
+        },
+        {
+            "text": "doubtful",
+            "meaning": "şüpheli"
+        },
+        {
+            "text": "constructive",
+            "meaning": "yapıcı, olumlu"
+        },
+        {
+            "text": "complicating",
+            "meaning": "karışık"
+        },
+        {
+            "text": "obsolete",
+            "meaning": "eski, modası geçmiş"
+        },
+        {
+            "text": "controversial",
+            "meaning": "karşıtlıklı"
+        },
+        {
+            "text": "misleading",
+            "meaning": "yanıltıcı, aldatıcı"
+        },
+        {
+            "text": "instantaneous",
+            "meaning": "ani, anlık"
+        },
+        {
+            "text": "distinct",
+            "meaning": "belirgin, açık, bariz"
+        },
+        {
+            "text": "precious",
+            "meaning": "değerli, kıymetli"
+        },
+        {
+            "text": "susceptible",
+            "meaning": "hassas, savunmasız"
+        }
+    ]
+}

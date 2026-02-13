@@ -1,0 +1,106 @@
+{
+    "setId": "set3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "casually",
+            "meaning": "günlük, sıradan, gelişigüzel"
+        },
+        {
+            "text": "instinctively",
+            "meaning": "içgüdüsel olarak, doğal olarak"
+        },
+        {
+            "text": "irresponsibly",
+            "meaning": "sorumsuz"
+        },
+        {
+            "text": "inequally",
+            "meaning": "eşit olmayan bir şekilde"
+        },
+        {
+            "text": "obscurely",
+            "meaning": "anlaşılması zor biçimde"
+        },
+        {
+            "text": "forcefully",
+            "meaning": "zorla, zor kullanarak"
+        },
+        {
+            "text": "moderately",
+            "meaning": "ılımlı bir şekilde, ortalama"
+        },
+        {
+            "text": "especially",
+            "meaning": "özellikle"
+        },
+        {
+            "text": "inconveniently",
+            "meaning": "elverişsiz bir şekilde"
+        },
+        {
+            "text": "conventionally",
+            "meaning": "geleneksel olarak"
+        },
+        {
+            "text": "currently",
+            "meaning": "mevcut durumda"
+        },
+        {
+            "text": "deficiently",
+            "meaning": "yetersizce, eksik olarak"
+        },
+        {
+            "text": "carefully",
+            "meaning": "özenle"
+        },
+        {
+            "text": "environmentally",
+            "meaning": "çevresel olarak"
+        },
+        {
+            "text": "defensively",
+            "meaning": "savunur olarak, savunarak"
+        },
+        {
+            "text": "drastically",
+            "meaning": "ani ve sert bir şekilde"
+        },
+        {
+            "text": "attractively",
+            "meaning": "çekici bir şekilde"
+        },
+        {
+            "text": "namely",
+            "meaning": "diğer bir deyişle, şöyle"
+        },
+        {
+            "text": "inextricably",
+            "meaning": "ayrılmaz bir şekilde, iç içe"
+        },
+        {
+            "text": "exclusively",
+            "meaning": "sadece, yalnızca, özel olarak"
+        },
+        {
+            "text": "doubtfully",
+            "meaning": "şüpheli olarak"
+        },
+        {
+            "text": "arguably",
+            "meaning": "tartışılabilir bir şekilde, iddiaya göre"
+        },
+        {
+            "text": "exactly",
+            "meaning": "tamamen, tam olarak"
+        },
+        {
+            "text": "convertibly",
+            "meaning": "dönüştürülebilir biçimde"
+        },
+        {
+            "text": "considerably",
+            "meaning": "önemli ölçüde, oldukça"
+        }
+    ]
+}

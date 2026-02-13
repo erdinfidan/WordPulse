@@ -1,0 +1,106 @@
+{
+    "setId": "set1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "review",
+            "meaning": "gözden geçirmek, yeniden değerlendirmek"
+        },
+        {
+            "text": "hinder",
+            "meaning": "engellemek"
+        },
+        {
+            "text": "maintain",
+            "meaning": "sürdürmek, devam ettirmek"
+        },
+        {
+            "text": "jeopardize",
+            "meaning": "tehlikeye atmak"
+        },
+        {
+            "text": "confront",
+            "meaning": "karşı karşıya kalmak, yüzleşmek"
+        },
+        {
+            "text": "prohibit",
+            "meaning": "yasaklamak"
+        },
+        {
+            "text": "adjust",
+            "meaning": "ayarlamak"
+        },
+        {
+            "text": "imply",
+            "meaning": "ima etmek, kastetmek"
+        },
+        {
+            "text": "confuse",
+            "meaning": "kafasını karıştırmak"
+        },
+        {
+            "text": "herald",
+            "meaning": "müjdelemek, ilan etmek"
+        },
+        {
+            "text": "yield",
+            "meaning": "sebep olmak, ürün vermek"
+        },
+        {
+            "text": "detect",
+            "meaning": "keşfetmek, belirlemek"
+        },
+        {
+            "text": "suspect",
+            "meaning": "şüphelenmek"
+        },
+        {
+            "text": "quarrel",
+            "meaning": "tartışmak, münakaşa"
+        },
+        {
+            "text": "involve",
+            "meaning": "içermek, kapsamak"
+        },
+        {
+            "text": "create",
+            "meaning": "Oluşturmak, yaratmak"
+        },
+        {
+            "text": "curtail",
+            "meaning": "azaltmak, kısaltmak, engellemek"
+        },
+        {
+            "text": "exclude",
+            "meaning": "hariç tutmak, dahil etmemek"
+        },
+        {
+            "text": "plunder",
+            "meaning": "yağmalamak"
+        },
+        {
+            "text": "distract",
+            "meaning": "dikkatini dağıtmak"
+        },
+        {
+            "text": "consider",
+            "meaning": "göz önünde bulundurmak, hesaba katmak"
+        },
+        {
+            "text": "interrupt",
+            "meaning": "lafa karışmak, engellemek"
+        },
+        {
+            "text": "respond",
+            "meaning": "cevap vermek, tepki vermek"
+        },
+        {
+            "text": "realise",
+            "meaning": "fark etmek"
+        },
+        {
+            "text": "force",
+            "meaning": "baskı yapmak"
+        }
+    ]
+}

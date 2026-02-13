@@ -1,30 +1,5 @@
 {
-  "setId": "conjunctions_addition",
-  "version": "1.0.0",
-  "words": [
-    {
-      "text": "moreover",
-      "meaning": "ayrıca"
-    },
-    {
-      "text": "furthermore",
-      "meaning": "buna ek olarak"
-    },
-    {
-      "text": "in addition",
-      "meaning": "ek olarak"
-    },
-    {
-      "text": "besides",
-      "meaning": "ayrıca, üstelik"
-    },
-    {
-      "text": "also",
-      "meaning": "ayrıca"
-    },
-    {
-      "text": "as well as",
-      "meaning": "yanı sıra"
-    }
-  ]
+    "setId": "conjunctions_addition",
+    "version": "1.0.0",
+    "words": []
 }

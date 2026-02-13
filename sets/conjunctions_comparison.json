@@ -1,26 +1,5 @@
 {
-  "setId": "conjunctions_comparison",
-  "version": "1.0.0",
-  "words": [
-    {
-      "text": "as…as",
-      "meaning": "kadar / gibi"
-    },
-    {
-      "text": "than",
-      "meaning": "-den / -dan"
-    },
-    {
-      "text": "more…than",
-      "meaning": "...den daha çok"
-    },
-    {
-      "text": "less…than",
-      "meaning": "...den daha az"
-    },
-    {
-      "text": "the more…the more",
-      "meaning": "ne kadar … o kadar"
-    }
-  ]
+    "setId": "conjunctions_comparison",
+    "version": "1.0.0",
+    "words": []
 }
