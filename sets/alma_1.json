@@ -1,0 +1,106 @@
+{
+    "setId": "alma_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "accuracy",
+            "meaning": "doğruluk, kesinlik"
+        },
+        {
+            "text": "trigger",
+            "meaning": "tetiklemek"
+        },
+        {
+            "text": "acquisition",
+            "meaning": "kazanma, edinme"
+        },
+        {
+            "text": "deduction",
+            "meaning": "sonuç çıkarma, çıkarım"
+        },
+        {
+            "text": "conservation",
+            "meaning": "koruma, muhafaza"
+        },
+        {
+            "text": "permission",
+            "meaning": "müsaade, izin"
+        },
+        {
+            "text": "admiration",
+            "meaning": "hayranlık"
+        },
+        {
+            "text": "wealth",
+            "meaning": "varlık, zenginlik"
+        },
+        {
+            "text": "isolation",
+            "meaning": "soyutlanma"
+        },
+        {
+            "text": "growth",
+            "meaning": "büyüme"
+        },
+        {
+            "text": "obstruction",
+            "meaning": "engel olma, engel"
+        },
+        {
+            "text": "movement",
+            "meaning": "hareket"
+        },
+        {
+            "text": "acceptance",
+            "meaning": "kabul"
+        },
+        {
+            "text": "variety",
+            "meaning": "çeşitlilik"
+        },
+        {
+            "text": "invasion",
+            "meaning": "istila, ihlal"
+        },
+        {
+            "text": "adoption",
+            "meaning": "benimseme, evlat edinme"
+        },
+        {
+            "text": "breakthrough",
+            "meaning": "ilerleme"
+        },
+        {
+            "text": "refraction",
+            "meaning": "kırılma, kırılım"
+        },
+        {
+            "text": "revealing",
+            "meaning": "açığa vurma"
+        },
+        {
+            "text": "release",
+            "meaning": "tahliye, bırakma"
+        },
+        {
+            "text": "correlation",
+            "meaning": "bağlılık, ilişki"
+        },
+        {
+            "text": "row",
+            "meaning": "sıra, dizi"
+        },
+        {
+            "text": "treatment",
+            "meaning": "muamele, tedavi"
+        },
+        {
+            "text": "function",
+            "meaning": "işlev"
+        },
+        {
+            "text": "prescription",
+            "meaning": "reçete, talimat"
+        }
+    ]
+}

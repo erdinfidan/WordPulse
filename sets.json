@@ -213,6 +213,34 @@
             "difficulty": "intermediate",
             "version": "1.0.0",
             "lastUpdated": "2026-02-13"
+        },
+        {
+            "id": "orta_1",
+            "name": "Çalışma 1",
+            "description": "",
+            "icon": "📚",
+            "category": "EĞİTİM",
+            "subCategory": "ORTA",
+            "wordCount": 25,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/orta_1.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-13"
+        },
+        {
+            "id": "alma_1",
+            "name": "Çalışma 1",
+            "description": "",
+            "icon": "🧠",
+            "category": "EĞİTİM",
+            "subCategory": "LİSE",
+            "wordCount": 25,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/alma_1.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-13"
         }
     ]
 }
