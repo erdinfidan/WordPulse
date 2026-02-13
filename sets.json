@@ -171,6 +171,20 @@
             "difficulty": "intermediate",
             "version": "1.0.0",
             "lastUpdated": "2026-02-13"
+        },
+        {
+            "id": "set_4_ece_hoca",
+            "name": "SET 4 (ECE HOCA)",
+            "description": "",
+            "icon": "🎓",
+            "category": "AKADEMİK",
+            "subCategory": "YÖKDİL",
+            "wordCount": 25,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/set_4_ece_hoca.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-13"
         }
     ]
 }
