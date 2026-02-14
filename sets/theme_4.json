@@ -1,0 +1,78 @@
+{
+    "setId": "theme_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Mother",
+            "meaning": "Anne"
+        },
+        {
+            "text": "Father",
+            "meaning": "Baba"
+        },
+        {
+            "text": "Grandmother",
+            "meaning": "Büyükanne"
+        },
+        {
+            "text": "Grandfather",
+            "meaning": "Büyükbaba"
+        },
+        {
+            "text": "Sister",
+            "meaning": "Kız kardeş"
+        },
+        {
+            "text": "Brother",
+            "meaning": "Erkek kardeş"
+        },
+        {
+            "text": "Son",
+            "meaning": "Erkek evlat"
+        },
+        {
+            "text": "Daughter",
+            "meaning": "Kız evlat"
+        },
+        {
+            "text": "Baby",
+            "meaning": "Bebek"
+        },
+        {
+            "text": "Dad",
+            "meaning": "Baba"
+        },
+        {
+            "text": "Mum",
+            "meaning": "Anne"
+        },
+        {
+            "text": "Grandma",
+            "meaning": "Büyükanne"
+        },
+        {
+            "text": "Grandpa",
+            "meaning": "Büyükbaba"
+        },
+        {
+            "text": "Beautiful",
+            "meaning": "Güzel"
+        },
+        {
+            "text": "Handsome",
+            "meaning": "Yakışıklı"
+        },
+        {
+            "text": "Nice",
+            "meaning": "Hoş"
+        },
+        {
+            "text": "Lovely",
+            "meaning": "Sevimli"
+        },
+        {
+            "text": "Headscarf",
+            "meaning": "Başörtü"
+        }
+    ]
+}

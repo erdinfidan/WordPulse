@@ -1,0 +1,246 @@
+{
+    "setId": "theme_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Door",
+            "meaning": "Kapı"
+        },
+        {
+            "text": "Window",
+            "meaning": "Pencere"
+        },
+        {
+            "text": "Table",
+            "meaning": "Masa"
+        },
+        {
+            "text": "Desk",
+            "meaning": "Sıra"
+        },
+        {
+            "text": "Chair",
+            "meaning": "Sandalye"
+        },
+        {
+            "text": "Bookcase",
+            "meaning": "Kitaplık"
+        },
+        {
+            "text": "Clock",
+            "meaning": "Saat"
+        },
+        {
+            "text": "Smart Board",
+            "meaning": "Akıllı tahta"
+        },
+        {
+            "text": "Whiteboard",
+            "meaning": "Beyaz tahta"
+        },
+        {
+            "text": "Blackboard",
+            "meaning": "Kara tahta"
+        },
+        {
+            "text": "Computer",
+            "meaning": "Bilgisayar"
+        },
+        {
+            "text": "Bag",
+            "meaning": "Çanta"
+        },
+        {
+            "text": "Book",
+            "meaning": "Kitap"
+        },
+        {
+            "text": "Notebook",
+            "meaning": "Defter"
+        },
+        {
+            "text": "Pencil",
+            "meaning": "Kalem"
+        },
+        {
+            "text": "Pencil case",
+            "meaning": "Kalemlik"
+        },
+        {
+            "text": "Rubber",
+            "meaning": "Silgi"
+        },
+        {
+            "text": "Pencil sharpener",
+            "meaning": "Kalemtıraş"
+        },
+        {
+            "text": "Scissors",
+            "meaning": "Makas"
+        },
+        {
+            "text": "Crayon",
+            "meaning": "Boya"
+        },
+        {
+            "text": "Coloured pencil",
+            "meaning": "Boya kalemi"
+        },
+        {
+            "text": "Chalk",
+            "meaning": "Tebeşir"
+        },
+        {
+            "text": "Glue",
+            "meaning": "Yapıştırıcı"
+        },
+        {
+            "text": "Yellow",
+            "meaning": "Sarı"
+        },
+        {
+            "text": "Blue",
+            "meaning": "Mavi"
+        },
+        {
+            "text": "Orange",
+            "meaning": "Turuncu"
+        },
+        {
+            "text": "Green",
+            "meaning": "Yeşil"
+        },
+        {
+            "text": "Brown",
+            "meaning": "Kahverengi"
+        },
+        {
+            "text": "Pink",
+            "meaning": "Pembe"
+        },
+        {
+            "text": "Red",
+            "meaning": "Kırmızı"
+        },
+        {
+            "text": "Purple",
+            "meaning": "Mor"
+        },
+        {
+            "text": "White",
+            "meaning": "Beyaz"
+        },
+        {
+            "text": "Black",
+            "meaning": "Siyah"
+        },
+        {
+            "text": "One",
+            "meaning": "Bir"
+        },
+        {
+            "text": "Two",
+            "meaning": "İki"
+        },
+        {
+            "text": "Three",
+            "meaning": "Üç"
+        },
+        {
+            "text": "Four",
+            "meaning": "Dört"
+        },
+        {
+            "text": "Five",
+            "meaning": "Beş"
+        },
+        {
+            "text": "Six",
+            "meaning": "Altı"
+        },
+        {
+            "text": "Seven",
+            "meaning": "Yedi"
+        },
+        {
+            "text": "Eight",
+            "meaning": "Sekiz"
+        },
+        {
+            "text": "Nine",
+            "meaning": "Dokuz"
+        },
+        {
+            "text": "Ten",
+            "meaning": "On"
+        },
+        {
+            "text": "Eleven",
+            "meaning": "On bir"
+        },
+        {
+            "text": "Twelve",
+            "meaning": "On iki"
+        },
+        {
+            "text": "Thirteen",
+            "meaning": "On üç"
+        },
+        {
+            "text": "Fourteen",
+            "meaning": "On dört"
+        },
+        {
+            "text": "Fifteen",
+            "meaning": "On Beş"
+        },
+        {
+            "text": "Sixteen",
+            "meaning": "On altı"
+        },
+        {
+            "text": "Seventeen",
+            "meaning": "On yedi"
+        },
+        {
+            "text": "Eighteen",
+            "meaning": "On sekiz"
+        },
+        {
+            "text": "Nineteen",
+            "meaning": "On dokuz"
+        },
+        {
+            "text": "Twenty",
+            "meaning": "Yirmi"
+        },
+        {
+            "text": "Open",
+            "meaning": "Açmak"
+        },
+        {
+            "text": "Close",
+            "meaning": "Kapatmak"
+        },
+        {
+            "text": "Draw",
+            "meaning": "Çizmek"
+        },
+        {
+            "text": "Colour",
+            "meaning": "Boyamak"
+        },
+        {
+            "text": "Look",
+            "meaning": "Bakmak"
+        },
+        {
+            "text": "Cut",
+            "meaning": "Kesmek"
+        },
+        {
+            "text": "Pass",
+            "meaning": "Uzatmak / Vermek"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "setId": "theme_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Body",
+            "meaning": "Vücut"
+        },
+        {
+            "text": "Head",
+            "meaning": "Kafa"
+        },
+        {
+            "text": "Hair",
+            "meaning": "Saç"
+        },
+        {
+            "text": "Face",
+            "meaning": "Yüz"
+        },
+        {
+            "text": "Eye",
+            "meaning": "Göz"
+        },
+        {
+            "text": "Ear",
+            "meaning": "Kulak"
+        },
+        {
+            "text": "Nose",
+            "meaning": "Burun"
+        },
+        {
+            "text": "Mouth",
+            "meaning": "Ağız"
+        },
+        {
+            "text": "Arm",
+            "meaning": "Kol"
+        },
+        {
+            "text": "Hand",
+            "meaning": "El"
+        },
+        {
+            "text": "Finger",
+            "meaning": "Parmak"
+        },
+        {
+            "text": "Leg",
+            "meaning": "Bacak"
+        },
+        {
+            "text": "Foot",
+            "meaning": "Ayak"
+        },
+        {
+            "text": "Big",
+            "meaning": "Büyük"
+        },
+        {
+            "text": "Small",
+            "meaning": "Küçük"
+        },
+        {
+            "text": "Long",
+            "meaning": "Uzun"
+        },
+        {
+            "text": "Tall",
+            "meaning": "Uzun"
+        },
+        {
+            "text": "Short",
+            "meaning": "Kısa"
+        },
+        {
+            "text": "Blonde",
+            "meaning": "Sarışın"
+        },
+        {
+            "text": "T-shirt",
+            "meaning": "Tişört"
+        },
+        {
+            "text": "Shirt",
+            "meaning": "Gömlek"
+        },
+        {
+            "text": "Dress",
+            "meaning": "Elbise"
+        },
+        {
+            "text": "Trousers",
+            "meaning": "Pantolon"
+        },
+        {
+            "text": "Jacket",
+            "meaning": "Ceket"
+        },
+        {
+            "text": "Coat",
+            "meaning": "Mont"
+        },
+        {
+            "text": "Hat",
+            "meaning": "Şapka"
+        },
+        {
+            "text": "Gloves",
+            "meaning": "Eldiven"
+        },
+        {
+            "text": "Scarf",
+            "meaning": "Atkı / Şal"
+        },
+        {
+            "text": "Glasses",
+            "meaning": "Gözlük"
+        },
+        {
+            "text": "Shoes",
+            "meaning": "Ayakkabı"
+        },
+        {
+            "text": "Umbrella",
+            "meaning": "Şemsiye"
+        },
+        {
+            "text": "Hot",
+            "meaning": "Sıcak"
+        },
+        {
+            "text": "Cold",
+            "meaning": "Soğuk"
+        },
+        {
+            "text": "Raining",
+            "meaning": "Yağmurlu"
+        },
+        {
+            "text": "Snowing",
+            "meaning": "Karlı"
+        }
+    ]
+}
