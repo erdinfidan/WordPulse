@@ -1,0 +1,138 @@
+{
+    "setId": "theme_3_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Good morning",
+            "meaning": "Günaydın"
+        },
+        {
+            "text": "Good afternoon",
+            "meaning": "Tünaydın"
+        },
+        {
+            "text": "Good evening",
+            "meaning": "İyi akşamlar"
+        },
+        {
+            "text": "Good night",
+            "meaning": "İyi Geceler"
+        },
+        {
+            "text": "Goodbye",
+            "meaning": "Güle Güle"
+        },
+        {
+            "text": "See you soon",
+            "meaning": "Sonra Görüşürüz"
+        },
+        {
+            "text": "Take care",
+            "meaning": "Kendine iyi bak"
+        },
+        {
+            "text": "Hello",
+            "meaning": "Merhaba"
+        },
+        {
+            "text": "Hi",
+            "meaning": "Merhaba"
+        },
+        {
+            "text": "Thank you",
+            "meaning": "Teşekkür ederim"
+        },
+        {
+            "text": "Have a nice day",
+            "meaning": "İyi günler"
+        },
+        {
+            "text": "Spell your name",
+            "meaning": "Adını hecele"
+        },
+        {
+            "text": "Zero",
+            "meaning": "Sıfır"
+        },
+        {
+            "text": "One",
+            "meaning": "Bir"
+        },
+        {
+            "text": "Two",
+            "meaning": "İki"
+        },
+        {
+            "text": "Three",
+            "meaning": "Üç"
+        },
+        {
+            "text": "Four",
+            "meaning": "Dört"
+        },
+        {
+            "text": "Five",
+            "meaning": "Beş"
+        },
+        {
+            "text": "Six",
+            "meaning": "Altı"
+        },
+        {
+            "text": "Seven",
+            "meaning": "Yedi"
+        },
+        {
+            "text": "Eight",
+            "meaning": "Sekiz"
+        },
+        {
+            "text": "Nine",
+            "meaning": "Dokuz"
+        },
+        {
+            "text": "Ten",
+            "meaning": "On"
+        },
+        {
+            "text": "Eleven",
+            "meaning": "On bir"
+        },
+        {
+            "text": "Twelve",
+            "meaning": "On iki"
+        },
+        {
+            "text": "Thirteen",
+            "meaning": "On üç"
+        },
+        {
+            "text": "Fourteen",
+            "meaning": "On dört"
+        },
+        {
+            "text": "Fifteen",
+            "meaning": "On beş"
+        },
+        {
+            "text": "Sixteen",
+            "meaning": "On altı"
+        },
+        {
+            "text": "Seventeen",
+            "meaning": "On yedi"
+        },
+        {
+            "text": "Eighteen",
+            "meaning": "On sekiz"
+        },
+        {
+            "text": "Nineteen",
+            "meaning": "On dokuz"
+        },
+        {
+            "text": "Twenty",
+            "meaning": "Yirmi"
+        }
+    ]
+}

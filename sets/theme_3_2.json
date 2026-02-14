@@ -1,0 +1,62 @@
+{
+    "setId": "theme_3_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Mother",
+            "meaning": "Anne"
+        },
+        {
+            "text": "Father",
+            "meaning": "Baba"
+        },
+        {
+            "text": "Grandmother",
+            "meaning": "Büyükanne"
+        },
+        {
+            "text": "Grandfather",
+            "meaning": "Büyükbaba"
+        },
+        {
+            "text": "Sister",
+            "meaning": "Kız kardeş"
+        },
+        {
+            "text": "Brother",
+            "meaning": "Erkek kardeş"
+        },
+        {
+            "text": "Son",
+            "meaning": "Erkek evlat"
+        },
+        {
+            "text": "Daughter",
+            "meaning": "Kız evlat"
+        },
+        {
+            "text": "Aunt",
+            "meaning": "Teyze / Hala / Yenge"
+        },
+        {
+            "text": "Uncle",
+            "meaning": "Amca / Dayı / Enişte"
+        },
+        {
+            "text": "Cousin",
+            "meaning": "Kuzen"
+        },
+        {
+            "text": "He/She",
+            "meaning": "O"
+        },
+        {
+            "text": "This",
+            "meaning": "Bu"
+        },
+        {
+            "text": "That",
+            "meaning": "Şu"
+        }
+    ]
+}

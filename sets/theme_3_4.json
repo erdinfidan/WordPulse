@@ -1,0 +1,14 @@
+{
+    "setId": "theme_3_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Happy",
+            "meaning": "Mutlu"
+        },
+        {
+            "text": "Unhappy",
+            "meaning": "Mutsuz"
+        }
+    ]
+}

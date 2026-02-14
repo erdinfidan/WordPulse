@@ -1,0 +1,122 @@
+{
+    "setId": "theme_3_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Old",
+            "meaning": "Yaşlı"
+        },
+        {
+            "text": "Young",
+            "meaning": "genç"
+        },
+        {
+            "text": "Short",
+            "meaning": "Kısa"
+        },
+        {
+            "text": "Tall",
+            "meaning": "Uzun"
+        },
+        {
+            "text": "Big",
+            "meaning": "Büyük"
+        },
+        {
+            "text": "Small",
+            "meaning": "Küçük"
+        },
+        {
+            "text": "Fast",
+            "meaning": "Hızlı"
+        },
+        {
+            "text": "Slow",
+            "meaning": "Yavaş"
+        },
+        {
+            "text": "Weak",
+            "meaning": "Güçsüz"
+        },
+        {
+            "text": "Strong",
+            "meaning": "Güçlü"
+        },
+        {
+            "text": "Fat",
+            "meaning": "Kilolu"
+        },
+        {
+            "text": "Slim",
+            "meaning": "Zayıf"
+        },
+        {
+            "text": "Run",
+            "meaning": "Koşmak"
+        },
+        {
+            "text": "Walk",
+            "meaning": "Yürümek"
+        },
+        {
+            "text": "Swim",
+            "meaning": "Yüzmek"
+        },
+        {
+            "text": "Talk",
+            "meaning": "Konuşmak"
+        },
+        {
+            "text": "Fly",
+            "meaning": "Uçmak"
+        },
+        {
+            "text": "Sing",
+            "meaning": "Şarkı Söylemek"
+        },
+        {
+            "text": "Dance",
+            "meaning": "Dans"
+        },
+        {
+            "text": "Ride a bike",
+            "meaning": "Bisiklet Sürmek"
+        },
+        {
+            "text": "Ride a horse",
+            "meaning": "At Binmek"
+        },
+        {
+            "text": "Climb a tree",
+            "meaning": "Ağaca tırmanmak"
+        },
+        {
+            "text": "Play chess",
+            "meaning": "Satranç oynamak"
+        },
+        {
+            "text": "Play football",
+            "meaning": "Futbol oynamak"
+        },
+        {
+            "text": "Play basketball",
+            "meaning": "Basketbol oynamak"
+        },
+        {
+            "text": "Carry",
+            "meaning": "Taşımak"
+        },
+        {
+            "text": "Jump high",
+            "meaning": "Yükseğe zıplamak"
+        },
+        {
+            "text": "Jump rope",
+            "meaning": "İp atlamak"
+        },
+        {
+            "text": "Fly a kite",
+            "meaning": "Uçurtma uçurmak"
+        }
+    ]
+}

@@ -255,7 +255,7 @@
             "lastUpdated": "2026-02-14"
         },
         {
-            "id": "theme1",
+            "id": "theme_2_1",
             "name": "Theme 1",
             "description": "SCHOOL LIFE ",
             "icon": "📖",
@@ -269,7 +269,7 @@
             "lastUpdated": "2026-02-14"
         },
         {
-            "id": "theme_2",
+            "id": "theme_2_2",
             "name": "Theme 2",
             "description": "CLASSROOM LIFE",
             "icon": "📖",
@@ -283,7 +283,7 @@
             "lastUpdated": "2026-02-14"
         },
         {
-            "id": "theme_3",
+            "id": "theme_2_3",
             "name": "Theme 3",
             "description": "PERSONAL LIFE",
             "icon": "📖",
@@ -297,7 +297,7 @@
             "lastUpdated": "2026-02-14"
         },
         {
-            "id": "theme_4",
+            "id": "theme_2_4",
             "name": "Theme 4",
             "description": "FAMILY LIFE",
             "icon": "📖",
@@ -305,6 +305,90 @@
             "subCategory": "GRADE 2",
             "wordCount": 18,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_4.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-14"
+        },
+        {
+            "id": "theme_3_1",
+            "name": "Theme 1",
+            "description": "GREETING",
+            "icon": "📚",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 3",
+            "wordCount": 33,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_1.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-14"
+        },
+        {
+            "id": "theme_3_2",
+            "name": "Theme 2",
+            "description": "",
+            "icon": "📚",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 3",
+            "wordCount": 14,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_2.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-14"
+        },
+        {
+            "id": "theme_3_3",
+            "name": "Theme 3",
+            "description": "PEOPLE I LOVE",
+            "icon": "📚",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 3",
+            "wordCount": 29,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_3.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-14"
+        },
+        {
+            "id": "theme_3_4",
+            "name": "Theme 4",
+            "description": "FEELINGS",
+            "icon": "📚",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 3",
+            "wordCount": 2,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_4.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-14"
+        },
+        {
+            "id": "theme_3_5",
+            "name": "Theme 5",
+            "description": "TOYS AND GAMES",
+            "icon": "📚",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 3",
+            "wordCount": 2,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_5.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-14"
+        },
+        {
+            "id": "theme_3_6",
+            "name": "Theme 6",
+            "description": "MY HOUSE",
+            "icon": "📚",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 3",
+            "wordCount": 2,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_6.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
