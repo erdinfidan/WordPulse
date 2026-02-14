@@ -1,5 +1,90 @@
 {
     "setId": "conjunctions_condition",
     "version": "1.0.0",
-    "words": []
+    "words": [
+        {
+            "text": "if",
+            "meaning": "eğer"
+        },
+        {
+            "text": "if not",
+            "meaning": "-mezse /-medikçe"
+        },
+        {
+            "text": "Unless",
+            "meaning": "-mezse /-medikçe"
+        },
+        {
+            "text": "Only if",
+            "meaning": "eğer"
+        },
+        {
+            "text": "As long as",
+            "meaning": "-dığı sürece"
+        },
+        {
+            "text": "So long as",
+            "meaning": "-dığı sürece"
+        },
+        {
+            "text": "Providing that",
+            "meaning": "şartıyla / koşuluyla"
+        },
+        {
+            "text": "Provided that",
+            "meaning": "şartıyla / koşuluyla"
+        },
+        {
+            "text": "in conditional that",
+            "meaning": "şartıyla / koşuluyla"
+        },
+        {
+            "text": "Lest",
+            "meaning": "-mesin diye / korkusuyla"
+        },
+        {
+            "text": "For the fear that",
+            "meaning": "korkusuyla"
+        },
+        {
+            "text": "imagining that",
+            "meaning": "farzet ki"
+        },
+        {
+            "text": "Supposing that",
+            "meaning": "farz edelim ki"
+        },
+        {
+            "text": "in case",
+            "meaning": "durumunda / ihtimaline karşı"
+        },
+        {
+            "text": "in case of",
+            "meaning": "durumunda / ihtimaline karşı"
+        },
+        {
+            "text": "On condition that",
+            "meaning": "şartıyla / koşuluyla"
+        },
+        {
+            "text": "Whether...or not",
+            "meaning": "olsun olmasın"
+        },
+        {
+            "text": "Even if",
+            "meaning": "-sa bile / -se bile"
+        },
+        {
+            "text": "in the even that",
+            "meaning": "durumunda / olursa"
+        },
+        {
+            "text": "otherwise",
+            "meaning": "aksi takdirde"
+        },
+        {
+            "text": "or else",
+            "meaning": "aksi taktirde"
+        }
+    ]
 }

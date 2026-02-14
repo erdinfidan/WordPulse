@@ -1,0 +1,122 @@
+{
+    "setId": "theme1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "meaning": "Yer",
+            "text": "Place"
+        },
+        {
+            "meaning": "Okul",
+            "text": "School"
+        },
+        {
+            "meaning": "Sınıf",
+            "text": "Classroom"
+        },
+        {
+            "meaning": "Kütüphane",
+            "text": "Library"
+        },
+        {
+            "meaning": "Öğretmenler Odası",
+            "text": "Teacher's room"
+        },
+        {
+            "meaning": "Spor salonu",
+            "text": "Sports hall"
+        },
+        {
+            "meaning": "Yemekhane",
+            "text": "Lunch hall"
+        },
+        {
+            "meaning": "Kantin",
+            "text": "Canteen"
+        },
+        {
+            "meaning": "Oyun Alanı",
+            "text": "Playground"
+        },
+        {
+            "meaning": "Bahçe",
+            "text": "Garden"
+        },
+        {
+            "meaning": "İnsanlar",
+            "text": "People"
+        },
+        {
+            "meaning": "Müdür (Erkek)",
+            "text": "Headmaster"
+        },
+        {
+            "meaning": "Müdür (Kadın)",
+            "text": "Headmistress"
+        },
+        {
+            "meaning": "Öğretmen",
+            "text": "Teacher"
+        },
+        {
+            "meaning": "Öğrenci",
+            "text": "Pupil"
+        },
+        {
+            "meaning": "Arkadaş",
+            "text": "Friend"
+        },
+        {
+            "meaning": "Erkek Çocuk",
+            "text": "Boy"
+        },
+        {
+            "meaning": "Kız Çocuk",
+            "text": "Girl"
+        },
+        {
+            "meaning": "Çocuk",
+            "text": "Kid"
+        },
+        {
+            "meaning": "Hafta",
+            "text": "Week"
+        },
+        {
+            "meaning": "Gün",
+            "text": "Day"
+        },
+        {
+            "meaning": "Bugün",
+            "text": "Today"
+        },
+        {
+            "meaning": "Pazartesi",
+            "text": "Monday"
+        },
+        {
+            "meaning": "Salı",
+            "text": "Thuesday"
+        },
+        {
+            "meaning": "Çarşamba",
+            "text": "Wednesday"
+        },
+        {
+            "meaning": "Perşembe",
+            "text": "Thursday"
+        },
+        {
+            "meaning": "Cuma",
+            "text": "Friday"
+        },
+        {
+            "meaning": "Cumartesi",
+            "text": "Saturday"
+        },
+        {
+            "meaning": "Pazar",
+            "text": "Sunday"
+        }
+    ]
+}

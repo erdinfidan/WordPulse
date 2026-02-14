@@ -1,5 +1,38 @@
 {
     "setId": "conjunctions_example",
     "version": "1.0.0",
-    "words": []
+    "words": [
+        {
+            "text": "For example",
+            "meaning": "örneğin"
+        },
+        {
+            "text": "For instance",
+            "meaning": "örneğin"
+        },
+        {
+            "text": "That is",
+            "meaning": "yani / başka bir deyişle"
+        },
+        {
+            "text": "That is to say",
+            "meaning": "yani / başka bir deyişle"
+        },
+        {
+            "text": "in other words",
+            "meaning": "yani / başka bir deyişle"
+        },
+        {
+            "text": "Namely",
+            "meaning": "yani / özellikle"
+        },
+        {
+            "text": "Such as",
+            "meaning": "gibi / örneğin"
+        },
+        {
+            "text": "To put it another way",
+            "meaning": "başka bir şekilde ifade edecek olursak"
+        }
+    ]
 }

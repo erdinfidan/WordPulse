@@ -1,5 +1,34 @@
 {
     "setId": "conjunctions_comparison",
     "version": "1.0.0",
-    "words": []
+    "words": [
+        {
+            "text": "Thank to",
+            "meaning": "Sayesinde"
+        },
+        {
+            "text": "With the help of",
+            "meaning": "yardımıyla"
+        },
+        {
+            "text": "By means of",
+            "meaning": "yoluyla / aracılığıyla"
+        },
+        {
+            "text": "With the aid of",
+            "meaning": "yardımıyla"
+        },
+        {
+            "text": "Through",
+            "meaning": "aracılığıyla / sayesınde"
+        },
+        {
+            "text": "By way of",
+            "meaning": "aracılığıyla"
+        },
+        {
+            "text": "via",
+            "meaning": "aracılığıyla / vasıtasıyla"
+        }
+    ]
 }

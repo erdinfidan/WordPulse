@@ -1,5 +1,46 @@
 {
     "setId": "conjunctions_addition",
     "version": "1.0.0",
-    "words": []
+    "words": [
+        {
+            "meaning": "yanı sıra / ek olarak",
+            "text": "Along with"
+        },
+        {
+            "meaning": "yanı sıra / ek olarak",
+            "text": "Together with"
+        },
+        {
+            "meaning": "yanı sıra / ek olarak",
+            "text": "Besides"
+        },
+        {
+            "meaning": "yanı sıra / ek olarak",
+            "text": "As well as"
+        },
+        {
+            "meaning": "yanı sıra / ek olarak",
+            "text": "in addition (to)"
+        },
+        {
+            "meaning": "dahası",
+            "text": "Furthermore"
+        },
+        {
+            "meaning": "dahası",
+            "text": "Moreover"
+        },
+        {
+            "meaning": "üstelik / dahası",
+            "text": "What is more"
+        },
+        {
+            "meaning": "üstelik / ek olarak",
+            "text": "On top of thath"
+        },
+        {
+            "meaning": "ile birlikte / ek olarak",
+            "text": "Coupled with"
+        }
+    ]
 }

@@ -1,5 +1,54 @@
 {
     "setId": "conjunctions_purpose",
     "version": "1.0.0",
-    "words": []
+    "words": [
+        {
+            "text": "So that",
+            "meaning": "-sın diye / -ması için"
+        },
+        {
+            "text": "in order that",
+            "meaning": "-sın diye / -ması için"
+        },
+        {
+            "text": "in order to",
+            "meaning": "-mak için / -mak amacıyla"
+        },
+        {
+            "text": "To",
+            "meaning": "-mak için / -mak amacıyla"
+        },
+        {
+            "text": "For the purpose of",
+            "meaning": "amacıyla"
+        },
+        {
+            "text": "With a view to",
+            "meaning": "amacıyla"
+        },
+        {
+            "text": "For the sake of",
+            "meaning": "yararı için"
+        },
+        {
+            "text": "So as to",
+            "meaning": "-mak için / -mak amacıyla"
+        },
+        {
+            "text": "in pursuit of",
+            "meaning": "amacıyla / peşinde"
+        },
+        {
+            "text": "in an attempt to",
+            "meaning": "denemek için"
+        },
+        {
+            "text": "With the aim of",
+            "meaning": "amacıyla"
+        },
+        {
+            "text": "With the goal of",
+            "meaning": "amacıyla"
+        }
+    ]
 }

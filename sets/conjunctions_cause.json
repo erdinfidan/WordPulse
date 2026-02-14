@@ -3,48 +3,108 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "because of",
-            "meaning": "yüzünden / nedeniyle"
+            "meaning": "-den dolayı/ nedeniyle",
+            "text": "because of"
         },
         {
-            "text": "that's why",
-            "meaning": "bu yüzden / o nedenle"
+            "meaning": "bu yüzden / o nedenle",
+            "text": "that's why"
         },
         {
-            "text": "as a result",
-            "meaning": "sonuç olarak"
+            "meaning": "sonuç olarak",
+            "text": "as a result"
         },
         {
-            "text": "due to",
-            "meaning": "nedeniyle"
+            "meaning": "-den dolayı",
+            "text": "due to"
         },
         {
-            "text": "leads to / leads people to",
-            "meaning": "yol açar"
+            "meaning": "için / çünkü",
+            "text": "Since"
         },
         {
-            "text": "results in",
-            "meaning": "sonuçlanır"
+            "meaning": "için / çünkü",
+            "text": "As"
         },
         {
-            "text": "this causes",
-            "meaning": "bu şuna sebep olur"
+            "meaning": "için / çünkü",
+            "text": "For"
         },
         {
-            "text": "which means",
-            "meaning": "bu da şu anlama gelir"
+            "meaning": "madem ki / -den dolayı",
+            "text": "Seeing that"
         },
         {
-            "text": "that's the reason why",
-            "meaning": "işte bu yüzden"
+            "meaning": "-den dolayı",
+            "text": "On view of"
         },
         {
-            "text": "the main reason is",
-            "meaning": "ana sebep şudur"
+            "meaning": "sonuç olarak",
+            "text": "As a consequence of"
         },
         {
-            "text": "this is why",
-            "meaning": "bu yüzden"
+            "meaning": "sonuç olarak",
+            "text": "Consequently"
+        },
+        {
+            "meaning": "Bu yüzden  / böylece",
+            "text": "So"
+        },
+        {
+            "meaning": "Bu yüzden / böylece",
+            "text": "Thus"
+        },
+        {
+            "meaning": "Zemin üzerinde",
+            "text": "On the grounds of"
+        },
+        {
+            "meaning": "Nedeniyle",
+            "text": "By reason of"
+        },
+        {
+            "meaning": "Çünkü / için",
+            "text": "Because"
+        },
+        {
+            "meaning": "Çünkü / için",
+            "text": "in that"
+        },
+        {
+            "meaning": "-den dolayı / madem ki",
+            "text": "Now that"
+        },
+        {
+            "meaning": "-den dolayı / madem ki",
+            "text": "Given that"
+        },
+        {
+            "meaning": "-den dolayı",
+            "text": "Owing to"
+        },
+        {
+            "meaning": "-den dolayı",
+            "text": "On account of"
+        },
+        {
+            "meaning": "-den dolayı",
+            "text": "In as much as"
+        },
+        {
+            "meaning": "bu yüzden / böylece",
+            "text": "Therefore"
+        },
+        {
+            "meaning": "Bu yüzden / Böylece",
+            "text": "Hence"
+        },
+        {
+            "meaning": "bu yüzden / böylece",
+            "text": "Thereby"
+        },
+        {
+            "meaning": "Sayesinde",
+            "text": "Thanks to"
         }
     ]
 }

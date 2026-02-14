@@ -1,46 +1,78 @@
 {
-  "setId": "conjunctions_time",
-  "version": "1.0.0",
-  "words": [
-    {
-      "text": "when",
-      "meaning": "-diğinde"
-    },
-    {
-      "text": "while",
-      "meaning": "-iken"
-    },
-    {
-      "text": "once",
-      "meaning": "bir kez ...ince"
-    },
-    {
-      "text": "after",
-      "meaning": "-den sonra"
-    },
-    {
-      "text": "before",
-      "meaning": "-meden önce"
-    },
-    {
-      "text": "since",
-      "meaning": "-den beri"
-    },
-    {
-      "text": "as soon as",
-      "meaning": "-ar ... -maz"
-    },
-    {
-      "text": "until",
-      "meaning": "-e kadar"
-    },
-    {
-      "text": "by the time",
-      "meaning": "-e kadar, -dığı zamana kadar"
-    },
-    {
-      "text": "whenever",
-      "meaning": "ne zaman ...sa"
-    }
-  ]
+    "setId": "conjunctions_time",
+    "version": "1.0.0",
+    "words": [
+        {
+            "meaning": "-dığında / -dığı zaman",
+            "text": "when"
+        },
+        {
+            "meaning": "iken",
+            "text": "while"
+        },
+        {
+            "meaning": "-dığında",
+            "text": "once"
+        },
+        {
+            "meaning": "-den sonra",
+            "text": "after"
+        },
+        {
+            "meaning": "-den önce",
+            "text": "before"
+        },
+        {
+            "meaning": "-den beri",
+            "text": "since"
+        },
+        {
+            "meaning": "-ar -maz",
+            "text": "as soon as"
+        },
+        {
+            "meaning": "-e kadar",
+            "text": "until"
+        },
+        {
+            "meaning": "-ıncaya kadar",
+            "text": "by the time"
+        },
+        {
+            "meaning": "her ne zaman olursa",
+            "text": "whenever"
+        },
+        {
+            "meaning": "-den önce",
+            "text": "Prior to"
+        },
+        {
+            "meaning": "-dığı zaman bile",
+            "text": "Even When"
+        },
+        {
+            "meaning": "-den sonra bile",
+            "text": "Even after"
+        },
+        {
+            "meaning": "-den önce bile",
+            "text": "Even before"
+        },
+        {
+            "meaning": "-ar.....-maz",
+            "text": "No sooner........than"
+        },
+        {
+            "meaning": "-ar.....-maz",
+            "text": "Hardly.....when"
+        },
+        {
+            "meaning": "-ar....-maz",
+            "text": "Scarcely....when"
+        },
+        {
+            "meaning": "-ar....-maz",
+            "text": "Barely.....when"
+        }
+    ]
 }
