@@ -9,6 +9,114 @@
         {
             "text": "Bathroom",
             "meaning": "banyo"
+        },
+        {
+            "text": "Livingroom",
+            "meaning": "Oturma odası"
+        },
+        {
+            "text": "Kitchen",
+            "meaning": "Mutfak"
+        },
+        {
+            "text": "Playroom",
+            "meaning": "Oyun odası"
+        },
+        {
+            "text": "Garden",
+            "meaning": "Bahçe"
+        },
+        {
+            "text": "Garage",
+            "meaning": "Garaj"
+        },
+        {
+            "text": "Bed",
+            "meaning": "Yatak"
+        },
+        {
+            "text": "Sofa",
+            "meaning": "Koltuk"
+        },
+        {
+            "text": "Chair",
+            "meaning": "Sandalye"
+        },
+        {
+            "text": "Cup",
+            "meaning": "Fincan"
+        },
+        {
+            "text": "Table",
+            "meaning": "Masa"
+        },
+        {
+            "text": "Toy box",
+            "meaning": "Oyuncak kutusu"
+        },
+        {
+            "text": "Fridge",
+            "meaning": "Buzdolabı"
+        },
+        {
+            "text": "Shampoo",
+            "meaning": "Şampuan"
+        },
+        {
+            "text": "Soap",
+            "meaning": "Sabun"
+        },
+        {
+            "text": "Kettle",
+            "meaning": "Su ısıtıcısı"
+        },
+        {
+            "text": "Lamp",
+            "meaning": "Lamba"
+        },
+        {
+            "text": "Circle",
+            "meaning": "Daire"
+        },
+        {
+            "text": "Round",
+            "meaning": "Daire"
+        },
+        {
+            "text": "Square",
+            "meaning": "Kare"
+        },
+        {
+            "text": "Triangle",
+            "meaning": "Üçgen"
+        },
+        {
+            "text": "Rectangle",
+            "meaning": "Dikdörtgen"
+        },
+        {
+            "text": "in",
+            "meaning": "İçinde"
+        },
+        {
+            "text": "On",
+            "meaning": "Üstünde"
+        },
+        {
+            "text": "Under",
+            "meaning": "Altında"
+        },
+        {
+            "text": "Over",
+            "meaning": "Üzerinde"
+        },
+        {
+            "text": "Here",
+            "meaning": "Burada"
+        },
+        {
+            "text": "There",
+            "meaning": "Orada"
         }
     ]
 }

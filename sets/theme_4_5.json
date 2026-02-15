@@ -1,0 +1,150 @@
+{
+    "setId": "theme_4_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Day",
+            "meaning": "Gün"
+        },
+        {
+            "text": "Week",
+            "meaning": "Hafta"
+        },
+        {
+            "text": "Monday",
+            "meaning": "Pazartesi"
+        },
+        {
+            "text": "Tuesday",
+            "meaning": "Salı"
+        },
+        {
+            "text": "Wednesday",
+            "meaning": "Çarşamba"
+        },
+        {
+            "text": "Thursday",
+            "meaning": "Perşembe"
+        },
+        {
+            "text": "Friday",
+            "meaning": "Cuma"
+        },
+        {
+            "text": "Saturday",
+            "meaning": "Cumartesi"
+        },
+        {
+            "text": "Sunday",
+            "meaning": "Pazar"
+        },
+        {
+            "text": "Weekday",
+            "meaning": "Haftaiçi"
+        },
+        {
+            "text": "Weekend",
+            "meaning": "Haftasonu"
+        },
+        {
+            "text": "Minute hand",
+            "meaning": "Yelkovan (saat)"
+        },
+        {
+            "text": "Hour hand",
+            "meaning": "Akrep (saat)"
+        },
+        {
+            "text": "Clock",
+            "meaning": "Saat"
+        },
+        {
+            "text": "In the morning",
+            "meaning": "Sabah"
+        },
+        {
+            "text": "In the afternoon",
+            "meaning": "Öğleden sonra"
+        },
+        {
+            "text": "In the evening",
+            "meaning": "Akşam"
+        },
+        {
+            "text": "At noon",
+            "meaning": "Öğlen"
+        },
+        {
+            "text": "At night",
+            "meaning": "Gece"
+        },
+        {
+            "text": "Do homework",
+            "meaning": "Ödev yapmak"
+        },
+        {
+            "text": "Brush teeth",
+            "meaning": "Diş fırçalamak"
+        },
+        {
+            "text": "Wake up",
+            "meaning": "Uyanmak"
+        },
+        {
+            "text": "Get up",
+            "meaning": "Uyanmak"
+        },
+        {
+            "text": "Wash face",
+            "meaning": "Yüz yıkamak"
+        },
+        {
+            "text": "Go to school",
+            "meaning": "Okula gitmek"
+        },
+        {
+            "text": "Have breakfast",
+            "meaning": "Kahvaltı yapmak"
+        },
+        {
+            "text": "Get dressed",
+            "meaning": "Giyinmek"
+        },
+        {
+            "text": "Go to bed",
+            "meaning": "Uyumak"
+        },
+        {
+            "text": "Play with toys",
+            "meaning": "Oyuncak oynamak"
+        },
+        {
+            "text": "Have lunch",
+            "meaning": "Öğle yemeği yemek"
+        },
+        {
+            "text": "Have dinner",
+            "meaning": "Akşam yemeği yemek"
+        },
+        {
+            "text": "Play computer games",
+            "meaning": "Bilgisayar oyunu oynamak"
+        },
+        {
+            "text": "Have a shower",
+            "meaning": "Banyo yapmak"
+        },
+        {
+            "text": "Go to the playground",
+            "meaning": "Parka gitmek"
+        },
+        {
+            "text": "Go shopping",
+            "meaning": "Alışverişe gitmek"
+        },
+        {
+            "text": "Meet friends",
+            "meaning": "Arkadaşlarla buluşmak"
+        }
+    ]
+}

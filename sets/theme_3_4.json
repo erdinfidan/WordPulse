@@ -9,6 +9,98 @@
         {
             "text": "Unhappy",
             "meaning": "Mutsuz"
+        },
+        {
+            "text": "Bad",
+            "meaning": "Kötü"
+        },
+        {
+            "text": "Sad",
+            "meaning": "Üzgün"
+        },
+        {
+            "text": "Angry",
+            "meaning": "Kızgın"
+        },
+        {
+            "text": "Tired",
+            "meaning": "Yorgun"
+        },
+        {
+            "text": "Energetic",
+            "meaning": "Enerjik"
+        },
+        {
+            "text": "Surprised",
+            "meaning": "Şaşırmış"
+        },
+        {
+            "text": "Good",
+            "meaning": "İyi"
+        },
+        {
+            "text": "Hungry",
+            "meaning": "Acıkmış"
+        },
+        {
+            "text": "Thirsty",
+            "meaning": "Susamış"
+        },
+        {
+            "text": "Cook",
+            "meaning": "Yemek pişirmek"
+        },
+        {
+            "text": "Eat",
+            "meaning": "Yemek yemek"
+        },
+        {
+            "text": "Drink",
+            "meaning": "İçmek"
+        },
+        {
+            "text": "Walk",
+            "meaning": "Yürümek"
+        },
+        {
+            "text": "Dance",
+            "meaning": "Dans etmek"
+        },
+        {
+            "text": "Study",
+            "meaning": "Ders çalışmak"
+        },
+        {
+            "text": "Read",
+            "meaning": "Okumak"
+        },
+        {
+            "text": "Sleep",
+            "meaning": "Uyumak"
+        },
+        {
+            "text": "Run",
+            "meaning": "Koşmak"
+        },
+        {
+            "text": "Jump",
+            "meaning": "Zıplamak"
+        },
+        {
+            "text": "Swim",
+            "meaning": "Yüzmek"
+        },
+        {
+            "text": "Read a book",
+            "meaning": "Kitap okumak"
+        },
+        {
+            "text": "Watch Tv",
+            "meaning": "Tv izlemek"
+        },
+        {
+            "text": "Ride a scooter",
+            "meaning": "Skuter sürmek"
         }
     ]
 }

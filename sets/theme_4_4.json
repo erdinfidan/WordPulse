@@ -1,0 +1,122 @@
+{
+    "setId": "theme_4_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Read a book",
+            "meaning": "Kitap okumak"
+        },
+        {
+            "text": "Fly  a kite",
+            "meaning": "Uçurtma uçurmak"
+        },
+        {
+            "text": "Ride a bike",
+            "meaning": "Bisiklete binmek"
+        },
+        {
+            "text": "Draw pictures",
+            "meaning": "Resim çizmek"
+        },
+        {
+            "text": "Dance",
+            "meaning": "Dans etmek"
+        },
+        {
+            "text": "Colour",
+            "meaning": "Boyamak"
+        },
+        {
+            "text": "Hopscotch",
+            "meaning": "Seksek oyunu"
+        },
+        {
+            "text": "Watch cartoon",
+            "meaning": "Çizgifilm izlemek"
+        },
+        {
+            "text": "Free time",
+            "meaning": "Serbest zaman"
+        },
+        {
+            "text": "Play chess",
+            "meaning": "Satranç oynamak"
+        },
+        {
+            "text": "Swim",
+            "meaning": "Yüzmek"
+        },
+        {
+            "text": "Listen to music",
+            "meaning": "Müzik dinlemek"
+        },
+        {
+            "text": "Learn English",
+            "meaning": "İngilizce öğrenmek"
+        },
+        {
+            "text": "Play basketball",
+            "meaning": "Basketbol oynamak"
+        },
+        {
+            "text": "Hide and seek",
+            "meaning": "Saklambaç"
+        },
+        {
+            "text": "Play football",
+            "meaning": "Futbol oynamak"
+        },
+        {
+            "text": "Table tennis",
+            "meaning": "Masa tenisi"
+        },
+        {
+            "text": "Read comics",
+            "meaning": "Karikatür okumak"
+        },
+        {
+            "text": "Play with marbles",
+            "meaning": "Misket oynamak"
+        },
+        {
+            "text": "Sing song",
+            "meaning": "Şarkı söylemek"
+        },
+        {
+            "text": "Blind man's buff",
+            "meaning": "Körebe"
+        },
+        {
+            "text": "Play tennis",
+            "meaning": "Tenis oynamak"
+        },
+        {
+            "text": "Boring",
+            "meaning": "Sıkıcı"
+        },
+        {
+            "text": "Fun",
+            "meaning": "Eğlenceli"
+        },
+        {
+            "text": "Tiring",
+            "meaning": "Yorucu"
+        },
+        {
+            "text": "Exciting",
+            "meaning": "Heyecanlı"
+        },
+        {
+            "text": "Slowly",
+            "meaning": "Yavaşça"
+        },
+        {
+            "text": "Pardon me",
+            "meaning": "Afedersin"
+        },
+        {
+            "text": "Say that again",
+            "meaning": "Tekrar söyle"
+        }
+    ]
+}

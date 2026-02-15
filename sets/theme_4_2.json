@@ -1,0 +1,138 @@
+{
+    "setId": "theme_4_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Türkiye",
+            "meaning": "Türkiye"
+        },
+        {
+            "text": "Russia",
+            "meaning": "Rusya"
+        },
+        {
+            "text": "China",
+            "meaning": "Çin"
+        },
+        {
+            "text": "France",
+            "meaning": "Fransa"
+        },
+        {
+            "text": "Italy",
+            "meaning": "İtalya"
+        },
+        {
+            "text": "Germany",
+            "meaning": "Almanya"
+        },
+        {
+            "text": "Greece",
+            "meaning": "Yunanistan"
+        },
+        {
+            "text": "Japan",
+            "meaning": "Japonya"
+        },
+        {
+            "text": "Iran",
+            "meaning": "İran"
+        },
+        {
+            "text": "Iraq",
+            "meaning": "Irak"
+        },
+        {
+            "text": "Pakistan",
+            "meaning": "Pakistan"
+        },
+        {
+            "text": "Great Britain",
+            "meaning": "Birleşik Krallık"
+        },
+        {
+            "text": "The U.S.A.",
+            "meaning": "ABD"
+        },
+        {
+            "text": "Turkish",
+            "meaning": "Türk"
+        },
+        {
+            "text": "Russian",
+            "meaning": "Rus"
+        },
+        {
+            "text": "Chinese",
+            "meaning": "Çinli"
+        },
+        {
+            "text": "French",
+            "meaning": "Fransız"
+        },
+        {
+            "text": "Italian",
+            "meaning": "İtalyan"
+        },
+        {
+            "text": "German",
+            "meaning": "Alman"
+        },
+        {
+            "text": "Greek",
+            "meaning": "Yunanlı"
+        },
+        {
+            "text": "Japanese",
+            "meaning": "Japon"
+        },
+        {
+            "text": "Iranian",
+            "meaning": "İranlı"
+        },
+        {
+            "text": "Iraqi",
+            "meaning": "Iraklı"
+        },
+        {
+            "text": "Pakistani",
+            "meaning": "Pakistanlı"
+        },
+        {
+            "text": "British",
+            "meaning": "İngiliz"
+        },
+        {
+            "text": "American",
+            "meaning": "Amerikalı"
+        },
+        {
+            "text": "North",
+            "meaning": "Kuzey"
+        },
+        {
+            "text": "South",
+            "meaning": "Güney"
+        },
+        {
+            "text": "East",
+            "meaning": "Doğu"
+        },
+        {
+            "text": "West",
+            "meaning": "Batı"
+        },
+        {
+            "text": "I think so",
+            "meaning": "Bence öyle"
+        },
+        {
+            "text": "Country",
+            "meaning": "Ülke"
+        },
+        {
+            "text": "Nationality",
+            "meaning": "Milliyet"
+        }
+    ]
+}

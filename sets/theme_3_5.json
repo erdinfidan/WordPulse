@@ -9,6 +9,86 @@
         {
             "text": "Kite",
             "meaning": "Uçurtma"
+        },
+        {
+            "text": "Blocks",
+            "meaning": "Bloklar"
+        },
+        {
+            "text": "Doll",
+            "meaning": "Oyuncak bebek"
+        },
+        {
+            "text": "Button",
+            "meaning": "Düğme oyunu"
+        },
+        {
+            "text": "Chess",
+            "meaning": "Satranç"
+        },
+        {
+            "text": "Teddy bear",
+            "meaning": "Oyuncak ayı"
+        },
+        {
+            "text": "Toy car",
+            "meaning": "Oyuncak araba"
+        },
+        {
+            "text": "Computer game",
+            "meaning": "Bilgisayar oyunu"
+        },
+        {
+            "text": "Playing card",
+            "meaning": "Oyun kartı"
+        },
+        {
+            "text": "Boardgame",
+            "meaning": "Masa oyunu"
+        },
+        {
+            "text": "Red",
+            "meaning": "Kırmızı"
+        },
+        {
+            "text": "White",
+            "meaning": "Beyaz"
+        },
+        {
+            "text": "Blue",
+            "meaning": "Mavi"
+        },
+        {
+            "text": "Black",
+            "meaning": "Siyah"
+        },
+        {
+            "text": "Green",
+            "meaning": "Yeşil"
+        },
+        {
+            "text": "Grey",
+            "meaning": "Gri"
+        },
+        {
+            "text": "Orange",
+            "meaning": "Turuncu"
+        },
+        {
+            "text": "Yellow",
+            "meaning": "Sarı"
+        },
+        {
+            "text": "Pink",
+            "meaning": "Pembe"
+        },
+        {
+            "text": "Purple",
+            "meaning": "Mor"
+        },
+        {
+            "text": "Brown",
+            "meaning": "Kahverengi"
         }
     ]
 }

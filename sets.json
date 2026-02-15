@@ -1,6 +1,6 @@
 {
     "version": "1.2.0",
-    "lastUpdated": "2026-02-14",
+    "lastUpdated": "2026-02-15",
     "sets": [
         {
             "id": "conjunctions_contrast",
@@ -359,12 +359,12 @@
             "icon": "📚",
             "category": "İLKOKUL",
             "subCategory": "GRADE 3",
-            "wordCount": 2,
+            "wordCount": 25,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_4.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-14"
+            "lastUpdated": "2026-02-15"
         },
         {
             "id": "theme_3_5",
@@ -373,12 +373,12 @@
             "icon": "📚",
             "category": "İLKOKUL",
             "subCategory": "GRADE 3",
-            "wordCount": 2,
+            "wordCount": 22,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_5.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-14"
+            "lastUpdated": "2026-02-15"
         },
         {
             "id": "theme_3_6",
@@ -387,12 +387,96 @@
             "icon": "📚",
             "category": "İLKOKUL",
             "subCategory": "GRADE 3",
-            "wordCount": 2,
+            "wordCount": 29,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_6.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-14"
+            "lastUpdated": "2026-02-15"
+        },
+        {
+            "id": "theme_4_1",
+            "name": "Theme 1",
+            "description": "CLASSROOM RULES",
+            "icon": "📝",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 4",
+            "wordCount": 33,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_4_1.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-15"
+        },
+        {
+            "id": "theme_4_2",
+            "name": "Theme 2",
+            "description": "NATIONALITY",
+            "icon": "📝",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 4",
+            "wordCount": 33,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_4_2.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-15"
+        },
+        {
+            "id": "theme_4_3",
+            "name": "Theme 3",
+            "description": "CARTOON CHARACTERS",
+            "icon": "📝",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 4",
+            "wordCount": 28,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_4_3.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-15"
+        },
+        {
+            "id": "theme_4_4",
+            "name": "Theme 4",
+            "description": "FREE TIME",
+            "icon": "📝",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 4",
+            "wordCount": 29,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_4_4.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-15"
+        },
+        {
+            "id": "theme_4_5",
+            "name": "Theme 5 ",
+            "description": "MY DAY",
+            "icon": "📝",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 4",
+            "wordCount": 36,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_4_5.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-15"
+        },
+        {
+            "id": "theme_4_6",
+            "name": "Theme 6",
+            "description": "FUN WITH SCIENCE",
+            "icon": "📝",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 4",
+            "wordCount": 44,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_4_6.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-15"
         }
     ]
 }
