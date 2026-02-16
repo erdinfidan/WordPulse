@@ -1,6 +1,6 @@
 {
     "version": "1.2.0",
-    "lastUpdated": "2026-02-15",
+    "lastUpdated": "2026-02-16",
     "sets": [
         {
             "id": "conjunctions_contrast",
@@ -477,6 +477,20 @@
             "difficulty": "intermediate",
             "version": "1.0.0",
             "lastUpdated": "2026-02-15"
+        },
+        {
+            "id": "theme_5_1",
+            "name": "Theme 1",
+            "description": "",
+            "icon": "🔥",
+            "category": "ORTAOKUL",
+            "subCategory": "GRADE 5",
+            "wordCount": 2,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_5_1.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-16"
         }
     ]
 }
