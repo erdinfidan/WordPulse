@@ -1,0 +1,98 @@
+{
+    "setId": "theme_5_8",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "environment",
+            "meaning": "çevre"
+        },
+        {
+            "text": "nature",
+            "meaning": "doğa"
+        },
+        {
+            "text": "tree",
+            "meaning": "ağaç"
+        },
+        {
+            "text": "flower",
+            "meaning": "çiçek"
+        },
+        {
+            "text": "animal",
+            "meaning": "hayvan"
+        },
+        {
+            "text": "forest",
+            "meaning": "orman"
+        },
+        {
+            "text": "sea",
+            "meaning": "deniz"
+        },
+        {
+            "text": "clean",
+            "meaning": "temiz"
+        },
+        {
+            "text": "dirty",
+            "meaning": "kirli"
+        },
+        {
+            "text": "recycle",
+            "meaning": "geri dönüştürmek"
+        },
+        {
+            "text": "protect",
+            "meaning": "korumak"
+        },
+        {
+            "text": "save",
+            "meaning": "korumak / biriktirmek"
+        },
+        {
+            "text": "plant",
+            "meaning": "bitki"
+        },
+        {
+            "text": "throw away",
+            "meaning": "çöpe atmak"
+        },
+        {
+            "text": "pick up",
+            "meaning": "toplamak"
+        },
+        {
+            "text": "grass",
+            "meaning": "çimen"
+        },
+        {
+            "text": "bird",
+            "meaning": "kuş"
+        },
+        {
+            "text": "water",
+            "meaning": "su"
+        },
+        {
+            "text": "air",
+            "meaning": "hava"
+        },
+        {
+            "text": "pollution",
+            "meaning": "kirlilik"
+        },
+        {
+            "text": "beach",
+            "meaning": "plaj"
+        },
+        {
+            "text": "park",
+            "meaning": "park"
+        },
+        {
+            "text": "garden",
+            "meaning": "bahçe"
+        }
+    ]
+}

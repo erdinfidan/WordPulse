@@ -1,0 +1,98 @@
+{
+    "setId": "theme_8_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "browser",
+            "meaning": "tarayıcı"
+        },
+        {
+            "text": "website",
+            "meaning": "internet sitesi"
+        },
+        {
+            "text": "webpage",
+            "meaning": "web sayfası"
+        },
+        {
+            "text": "link",
+            "meaning": "bağlantı"
+        },
+        {
+            "text": "upload",
+            "meaning": "yüklemek"
+        },
+        {
+            "text": "download",
+            "meaning": "indirmek"
+        },
+        {
+            "text": "sign up",
+            "meaning": "kayıt olmak"
+        },
+        {
+            "text": "log in",
+            "meaning": "giriş yapmak"
+        },
+        {
+            "text": "log out",
+            "meaning": "çıkış yapmak"
+        },
+        {
+            "text": "comment",
+            "meaning": "yorum yapmak"
+        },
+        {
+            "text": "share",
+            "meaning": "paylaşmak"
+        },
+        {
+            "text": "post",
+            "meaning": "gönderi"
+        },
+        {
+            "text": "profile",
+            "meaning": "profil"
+        },
+        {
+            "text": "search",
+            "meaning": "aramak"
+        },
+        {
+            "text": "engine",
+            "meaning": "motor"
+        },
+        {
+            "text": "safe",
+            "meaning": "güvenli"
+        },
+        {
+            "text": "unsafe",
+            "meaning": "güvensiz"
+        },
+        {
+            "text": "password",
+            "meaning": "şifre"
+        },
+        {
+            "text": "username",
+            "meaning": "kullanıcı adı"
+        },
+        {
+            "text": "virus",
+            "meaning": "virüs"
+        },
+        {
+            "text": "cyberbullying",
+            "meaning": "siber zorbalık"
+        },
+        {
+            "text": "privacy",
+            "meaning": "gizlilik"
+        },
+        {
+            "text": "block",
+            "meaning": "engellemek"
+        }
+    ]
+}

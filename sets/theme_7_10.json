@@ -1,0 +1,82 @@
+{
+    "setId": "theme_7_10",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "planet",
+            "meaning": "gezegen"
+        },
+        {
+            "text": "star",
+            "meaning": "yıldız"
+        },
+        {
+            "text": "sun",
+            "meaning": "güneş"
+        },
+        {
+            "text": "moon",
+            "meaning": "ay"
+        },
+        {
+            "text": "galaxy",
+            "meaning": "galaksi"
+        },
+        {
+            "text": "universe",
+            "meaning": "evren"
+        },
+        {
+            "text": "spaceship",
+            "meaning": "uzay gemisi"
+        },
+        {
+            "text": "astronaut",
+            "meaning": "astronot"
+        },
+        {
+            "text": "gravity",
+            "meaning": "yer çekimi"
+        },
+        {
+            "text": "orbit",
+            "meaning": "yörünge"
+        },
+        {
+            "text": "solar system",
+            "meaning": "güneş sistemi"
+        },
+        {
+            "text": "comet",
+            "meaning": "kuyruklu yıldız"
+        },
+        {
+            "text": "meteor",
+            "meaning": "göktaşı"
+        },
+        {
+            "text": "satellite",
+            "meaning": "uydu"
+        },
+        {
+            "text": "launch",
+            "meaning": "fırlatmak"
+        },
+        {
+            "text": "explore",
+            "meaning": "keşfetmek"
+        },
+        {
+            "text": "NASA",
+            "meaning": "Amerikan uzay ajansı"
+        },
+        {
+            "text": "telescope",
+            "meaning": "teleskop"
+        },
+        {
+            "text": "asteroid",
+            "meaning": "asteroid"
+        }
+    ]
+}

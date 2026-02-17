@@ -1,0 +1,94 @@
+{
+    "setId": "theme_7_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "remote control",
+            "meaning": "kumanda"
+        },
+        {
+            "text": "documentary",
+            "meaning": "belgesel"
+        },
+        {
+            "text": "reality show",
+            "meaning": "reality program"
+        },
+        {
+            "text": "quiz show",
+            "meaning": "bilgi yarışması"
+        },
+        {
+            "text": "series",
+            "meaning": "dizi"
+        },
+        {
+            "text": "news",
+            "meaning": "haberler"
+        },
+        {
+            "text": "weather forecast",
+            "meaning": "hava durumu"
+        },
+        {
+            "text": "commercial",
+            "meaning": "reklam"
+        },
+        {
+            "text": "cartoon",
+            "meaning": "çizgi film"
+        },
+        {
+            "text": "channel",
+            "meaning": "kanal"
+        },
+        {
+            "text": "screen",
+            "meaning": "ekran"
+        },
+        {
+            "text": "volume",
+            "meaning": "ses seviyesi"
+        },
+        {
+            "text": "subtitle",
+            "meaning": "altyazı"
+        },
+        {
+            "text": "episode",
+            "meaning": "bölüm"
+        },
+        {
+            "text": "broadcast",
+            "meaning": "yayınlamak"
+        },
+        {
+            "text": "live show",
+            "meaning": "canlı yayın"
+        },
+        {
+            "text": "reporter",
+            "meaning": "muhabir"
+        },
+        {
+            "text": "audience",
+            "meaning": "izleyici"
+        },
+        {
+            "text": "vote",
+            "meaning": "oy vermek"
+        },
+        {
+            "text": "download",
+            "meaning": "indirmek"
+        },
+        {
+            "text": "upload",
+            "meaning": "yüklemek"
+        },
+        {
+            "text": "stream",
+            "meaning": "akış (internetten izlemek)"
+        }
+    ]
+}

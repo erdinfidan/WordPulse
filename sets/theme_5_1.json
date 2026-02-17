@@ -217,6 +217,86 @@
         {
             "text": "Kyrgyzstan",
             "meaning": "Kırgızistan"
+        },
+        {
+            "text": "hello",
+            "meaning": "merhaba"
+        },
+        {
+            "text": "hi",
+            "meaning": "selam"
+        },
+        {
+            "text": "good morning",
+            "meaning": "günaydın"
+        },
+        {
+            "text": "good afternoon",
+            "meaning": "iyi öğleden sonra"
+        },
+        {
+            "text": "good evening",
+            "meaning": "iyi akşamlar"
+        },
+        {
+            "text": "good night",
+            "meaning": "iyi geceler"
+        },
+        {
+            "text": "how are you",
+            "meaning": "nasılsın"
+        },
+        {
+            "text": "I’m fine",
+            "meaning": "iyiyim"
+        },
+        {
+            "text": "thank you",
+            "meaning": "teşekkür ederim"
+        },
+        {
+            "text": "you’re welcome",
+            "meaning": "rica ederim"
+        },
+        {
+            "text": "please",
+            "meaning": "lütfen"
+        },
+        {
+            "text": "excuse me",
+            "meaning": "affedersiniz"
+        },
+        {
+            "text": "sorry",
+            "meaning": "üzgünüm"
+        },
+        {
+            "text": "see you",
+            "meaning": "görüşürüz"
+        },
+        {
+            "text": "bye",
+            "meaning": "hoşça kal"
+        },
+        {
+            "text": "name",
+            "meaning": "isim"
+        },
+        {
+            "text": "my name is…",
+            "meaning": "benim adım…"
+        },
+        {
+            "text": "what’s your name?",
+            "meaning": "adın ne?"
+        },
+        {
+            "text": "age",
+            "meaning": "yaş"
+        },
+        {
+            "text": "how old are you?",
+            "meaning": "kaç yaşındasın?"
         }
     ]
 }

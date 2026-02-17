@@ -1,0 +1,110 @@
+{
+    "setId": "theme_5_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "friend",
+            "meaning": "arkadaş"
+        },
+        {
+            "text": "classmate",
+            "meaning": "sınıf arkadaşı"
+        },
+        {
+            "text": "helpful",
+            "meaning": "yardımsever"
+        },
+        {
+            "text": "kind",
+            "meaning": "nazik"
+        },
+        {
+            "text": "funny",
+            "meaning": "komik"
+        },
+        {
+            "text": "brave",
+            "meaning": "cesur"
+        },
+        {
+            "text": "honest",
+            "meaning": "dürüst"
+        },
+        {
+            "text": "smart",
+            "meaning": "zeki"
+        },
+        {
+            "text": "shy",
+            "meaning": "utangaç"
+        },
+        {
+            "text": "friendly",
+            "meaning": "arkadaş canlısı"
+        },
+        {
+            "text": "play together",
+            "meaning": "birlikte oynamak"
+        },
+        {
+            "text": "share",
+            "meaning": "paylaşmak"
+        },
+        {
+            "text": "support",
+            "meaning": "desteklemek"
+        },
+        {
+            "text": "chat",
+            "meaning": "sohbet etmek"
+        },
+        {
+            "text": "team",
+            "meaning": "takım"
+        },
+        {
+            "text": "buddy",
+            "meaning": "dost"
+        },
+        {
+            "text": "polite",
+            "meaning": "kibar"
+        },
+        {
+            "text": "happy",
+            "meaning": "mutlu"
+        },
+        {
+            "text": "sad",
+            "meaning": "üzgün"
+        },
+        {
+            "text": "angry",
+            "meaning": "kızgın"
+        },
+        {
+            "text": "excited",
+            "meaning": "heyecanlı"
+        },
+        {
+            "text": "bored",
+            "meaning": "sıkılmış"
+        },
+        {
+            "text": "help",
+            "meaning": "yardım etmek"
+        },
+        {
+            "text": "talk",
+            "meaning": "konuşmak"
+        },
+        {
+            "text": "laugh",
+            "meaning": "gülmek"
+        },
+        {
+            "text": "respect",
+            "meaning": "saygı"
+        }
+    ]
+}

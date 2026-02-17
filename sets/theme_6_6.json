@@ -1,0 +1,98 @@
+{
+    "setId": "theme_6_6",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "job",
+            "meaning": "meslek"
+        },
+        {
+            "text": "occupation",
+            "meaning": "iş"
+        },
+        {
+            "text": "doctor",
+            "meaning": "doktor"
+        },
+        {
+            "text": "nurse",
+            "meaning": "hemşire"
+        },
+        {
+            "text": "teacher",
+            "meaning": "öğretmen"
+        },
+        {
+            "text": "pilot",
+            "meaning": "pilot"
+        },
+        {
+            "text": "engineer",
+            "meaning": "mühendis"
+        },
+        {
+            "text": "chef",
+            "meaning": "şef/aşçı"
+        },
+        {
+            "text": "police officer",
+            "meaning": "polis memuru"
+        },
+        {
+            "text": "firefighter",
+            "meaning": "itfaiyeci"
+        },
+        {
+            "text": "farmer",
+            "meaning": "çiftçi"
+        },
+        {
+            "text": "artist",
+            "meaning": "sanatçı"
+        },
+        {
+            "text": "singer",
+            "meaning": "şarkıcı"
+        },
+        {
+            "text": "driver",
+            "meaning": "şoför"
+        },
+        {
+            "text": "mechanic",
+            "meaning": "tamirci"
+        },
+        {
+            "text": "carpenter",
+            "meaning": "marangoz"
+        },
+        {
+            "text": "cook",
+            "meaning": "aşçı"
+        },
+        {
+            "text": "job description",
+            "meaning": "iş tanımı"
+        },
+        {
+            "text": "workplace",
+            "meaning": "iş yeri"
+        },
+        {
+            "text": "salary",
+            "meaning": "maaş"
+        },
+        {
+            "text": "shift",
+            "meaning": "vardiya"
+        },
+        {
+            "text": "dangerous",
+            "meaning": "tehlikeli"
+        },
+        {
+            "text": "use tools",
+            "meaning": "alet kullanmak"
+        }
+    ]
+}

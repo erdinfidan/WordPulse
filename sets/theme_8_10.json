@@ -1,0 +1,86 @@
+{
+    "setId": "theme_8_10",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "earthquake",
+            "meaning": "deprem"
+        },
+        {
+            "text": "flood",
+            "meaning": "sel"
+        },
+        {
+            "text": "tsunami",
+            "meaning": "tsunami"
+        },
+        {
+            "text": "volcano",
+            "meaning": "volkan"
+        },
+        {
+            "text": "tornado",
+            "meaning": "hortum"
+        },
+        {
+            "text": "hurricane",
+            "meaning": "kasırga"
+        },
+        {
+            "text": "avalanche",
+            "meaning": "çığ"
+        },
+        {
+            "text": "landslide",
+            "meaning": "toprak kayması"
+        },
+        {
+            "text": "drought",
+            "meaning": "kuraklık"
+        },
+        {
+            "text": "storm",
+            "meaning": "fırtına"
+        },
+        {
+            "text": "lightning",
+            "meaning": "şimşek"
+        },
+        {
+            "text": "thunder",
+            "meaning": "gök gürültüsü"
+        },
+        {
+            "text": "damage",
+            "meaning": "zarar"
+        },
+        {
+            "text": "destroy",
+            "meaning": "yok etmek"
+        },
+        {
+            "text": "survive",
+            "meaning": "hayatta kalmak"
+        },
+        {
+            "text": "injure",
+            "meaning": "yaralamak"
+        },
+        {
+            "text": "danger",
+            "meaning": "tehlike"
+        },
+        {
+            "text": "emergency",
+            "meaning": "acil durum"
+        },
+        {
+            "text": "rescue",
+            "meaning": "kurtarmak"
+        },
+        {
+            "text": "evacuate",
+            "meaning": "tahliye etmek"
+        }
+    ]
+}

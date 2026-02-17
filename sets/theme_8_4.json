@@ -1,0 +1,74 @@
+{
+    "setId": "theme_8_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "dial",
+            "meaning": "numara çevirmek"
+        },
+        {
+            "text": "ring",
+            "meaning": "çalmak"
+        },
+        {
+            "text": "busy",
+            "meaning": "meşgul"
+        },
+        {
+            "text": "hang up",
+            "meaning": "telefonu kapatmak"
+        },
+        {
+            "text": "pick up",
+            "meaning": "telefonu açmak"
+        },
+        {
+            "text": "leave a message",
+            "meaning": "mesaj bırakmak"
+        },
+        {
+            "text": "text",
+            "meaning": "mesaj atmak"
+        },
+        {
+            "text": "call back",
+            "meaning": "geri aramak"
+        },
+        {
+            "text": "speaker",
+            "meaning": "hoparlör"
+        },
+        {
+            "text": "contact",
+            "meaning": "kişi rehberi"
+        },
+        {
+            "text": "voicemail",
+            "meaning": "sesli mesaj"
+        },
+        {
+            "text": "interrupt",
+            "meaning": "sözünü kesmek"
+        },
+        {
+            "text": "connect",
+            "meaning": "bağlanmak"
+        },
+        {
+            "text": "line",
+            "meaning": "hat"
+        },
+        {
+            "text": "signal",
+            "meaning": "sinyal"
+        },
+        {
+            "text": "communication",
+            "meaning": "iletişim"
+        },
+        {
+            "text": "conversation",
+            "meaning": "konuşma"
+        }
+    ]
+}

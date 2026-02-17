@@ -1,0 +1,94 @@
+{
+    "setId": "theme_6_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "weather",
+            "meaning": "hava durumu"
+        },
+        {
+            "text": "sunny",
+            "meaning": "güneşli"
+        },
+        {
+            "text": "rainy",
+            "meaning": "yağmurlu"
+        },
+        {
+            "text": "cloudy",
+            "meaning": "bulutlu"
+        },
+        {
+            "text": "windy",
+            "meaning": "rüzgarlı"
+        },
+        {
+            "text": "stormy",
+            "meaning": "fırtınalı"
+        },
+        {
+            "text": "snowy",
+            "meaning": "karlı"
+        },
+        {
+            "text": "hot",
+            "meaning": "sıcak"
+        },
+        {
+            "text": "cold",
+            "meaning": "soğuk"
+        },
+        {
+            "text": "freezing",
+            "meaning": "dondurucu"
+        },
+        {
+            "text": "warm",
+            "meaning": "ılık"
+        },
+        {
+            "text": "temperature",
+            "meaning": "sıcaklık"
+        },
+        {
+            "text": "forecast",
+            "meaning": "hava tahmini"
+        },
+        {
+            "text": "feeling",
+            "meaning": "his"
+        },
+        {
+            "text": "happy",
+            "meaning": "mutlu"
+        },
+        {
+            "text": "sad",
+            "meaning": "üzgün"
+        },
+        {
+            "text": "angry",
+            "meaning": "kızgın"
+        },
+        {
+            "text": "excited",
+            "meaning": "heyecanlı"
+        },
+        {
+            "text": "scared",
+            "meaning": "korkmuş"
+        },
+        {
+            "text": "bored",
+            "meaning": "sıkılmış"
+        },
+        {
+            "text": "worried",
+            "meaning": "endişeli"
+        },
+        {
+            "text": "surprised",
+            "meaning": "şaşırmış"
+        }
+    ]
+}

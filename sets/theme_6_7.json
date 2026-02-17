@@ -1,0 +1,78 @@
+{
+    "setId": "theme_6_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "holiday",
+            "meaning": "tatil"
+        },
+        {
+            "text": "celebration",
+            "meaning": "kutlama"
+        },
+        {
+            "text": "festival",
+            "meaning": "festival"
+        },
+        {
+            "text": "tradition",
+            "meaning": "gelenek"
+        },
+        {
+            "text": "birthday",
+            "meaning": "doğum günü"
+        },
+        {
+            "text": "wedding",
+            "meaning": "düğün"
+        },
+        {
+            "text": "invitation",
+            "meaning": "davetiye"
+        },
+        {
+            "text": "gift",
+            "meaning": "hediye"
+        },
+        {
+            "text": "decorate",
+            "meaning": "süslemek"
+        },
+        {
+            "text": "balloon",
+            "meaning": "balon"
+        },
+        {
+            "text": "party",
+            "meaning": "parti"
+        },
+        {
+            "text": "fireworks",
+            "meaning": "havai fişek"
+        },
+        {
+            "text": "costume",
+            "meaning": "kostüm"
+        },
+        {
+            "text": "prepare",
+            "meaning": "hazırlamak"
+        },
+        {
+            "text": "wish",
+            "meaning": "dilemek"
+        },
+        {
+            "text": "celebrate",
+            "meaning": "kutlamak"
+        },
+        {
+            "text": "special day",
+            "meaning": "özel gün"
+        },
+        {
+            "text": "traditional food",
+            "meaning": "geleneksel yemek"
+        }
+    ]
+}

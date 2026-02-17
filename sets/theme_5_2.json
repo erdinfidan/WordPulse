@@ -1,0 +1,94 @@
+{
+    "setId": "theme_5_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "family",
+            "meaning": "aile"
+        },
+        {
+            "text": "mother",
+            "meaning": "anne"
+        },
+        {
+            "text": "father",
+            "meaning": "baba"
+        },
+        {
+            "text": "sister",
+            "meaning": "kız kardeş"
+        },
+        {
+            "text": "brother",
+            "meaning": "erkek kardeş"
+        },
+        {
+            "text": "grandmother",
+            "meaning": "büyükanne"
+        },
+        {
+            "text": "grandfather",
+            "meaning": "büyükbaba"
+        },
+        {
+            "text": "aunt",
+            "meaning": "teyze / hala"
+        },
+        {
+            "text": "uncle",
+            "meaning": "amca / dayı"
+        },
+        {
+            "text": "cousin",
+            "meaning": "kuzen"
+        },
+        {
+            "text": "parents",
+            "meaning": "ebeveynler"
+        },
+        {
+            "text": "relative",
+            "meaning": "akraba"
+        },
+        {
+            "text": "baby",
+            "meaning": "bebek"
+        },
+        {
+            "text": "child",
+            "meaning": "çocuk"
+        },
+        {
+            "text": "family tree",
+            "meaning": "aile ağacı"
+        },
+        {
+            "text": "children",
+            "meaning": "çocuklar"
+        },
+        {
+            "text": "friend",
+            "meaning": "arkadaş"
+        },
+        {
+            "text": "best friend",
+            "meaning": "en iyi arkadaş"
+        },
+        {
+            "text": "classmate",
+            "meaning": "sınıf arkadaşı"
+        },
+        {
+            "text": "neighbor",
+            "meaning": "komşu"
+        },
+        {
+            "text": "support",
+            "meaning": "desteklemek"
+        },
+        {
+            "text": "share",
+            "meaning": "paylaşmak"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "setId": "theme_5_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "hobby",
+            "meaning": "hobi"
+        },
+        {
+            "text": "draw",
+            "meaning": "çizmek"
+        },
+        {
+            "text": "paint",
+            "meaning": "boyamak"
+        },
+        {
+            "text": "dance",
+            "meaning": "dans etmek"
+        },
+        {
+            "text": "sing",
+            "meaning": "şarkı söylemek"
+        },
+        {
+            "text": "swim",
+            "meaning": "yüzmek"
+        },
+        {
+            "text": "read",
+            "meaning": "okumak"
+        },
+        {
+            "text": "play football",
+            "meaning": "futbol oynamak"
+        },
+        {
+            "text": "ride a bike",
+            "meaning": "bisiklete binmek"
+        },
+        {
+            "text": "collect",
+            "meaning": "toplamak / biriktirmek"
+        },
+        {
+            "text": "listen to music",
+            "meaning": "müzik dinlemek"
+        },
+        {
+            "text": "exercise",
+            "meaning": "egzersiz"
+        },
+        {
+            "text": "chess",
+            "meaning": "satranç"
+        },
+        {
+            "text": "puzzle",
+            "meaning": "bulmaca"
+        },
+        {
+            "text": "activity",
+            "meaning": "aktivite"
+        },
+        {
+            "text": "free time",
+            "meaning": "boş zaman"
+        },
+        {
+            "text": "play",
+            "meaning": "oynamak"
+        },
+        {
+            "text": "game",
+            "meaning": "oyun"
+        },
+        {
+            "text": "book",
+            "meaning": "kitap"
+        },
+        {
+            "text": "run",
+            "meaning": "koşmak"
+        },
+        {
+            "text": "watch TV",
+            "meaning": "televizyon izlemek"
+        },
+        {
+            "text": "sports",
+            "meaning": "spor"
+        },
+        {
+            "text": "club",
+            "meaning": "kulüp"
+        }
+    ]
+}

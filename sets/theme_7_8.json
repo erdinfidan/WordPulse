@@ -1,0 +1,94 @@
+{
+    "setId": "theme_7_8",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "hospital",
+            "meaning": "hastane"
+        },
+        {
+            "text": "police station",
+            "meaning": "polis merkezi"
+        },
+        {
+            "text": "fire station",
+            "meaning": "itfaiye"
+        },
+        {
+            "text": "post office",
+            "meaning": "postane"
+        },
+        {
+            "text": "library",
+            "meaning": "kütüphane"
+        },
+        {
+            "text": "bookstore",
+            "meaning": "kitapçı"
+        },
+        {
+            "text": "pharmacy",
+            "meaning": "eczane"
+        },
+        {
+            "text": "bakery",
+            "meaning": "fırın"
+        },
+        {
+            "text": "butcher",
+            "meaning": "kasap"
+        },
+        {
+            "text": "greengrocer",
+            "meaning": "manav"
+        },
+        {
+            "text": "museum",
+            "meaning": "müze"
+        },
+        {
+            "text": "bank",
+            "meaning": "banka"
+        },
+        {
+            "text": "mall",
+            "meaning": "alışveriş merkezi"
+        },
+        {
+            "text": "airport",
+            "meaning": "havaalanı"
+        },
+        {
+            "text": "bus station",
+            "meaning": "otogar"
+        },
+        {
+            "text": "train station",
+            "meaning": "tren istasyonu"
+        },
+        {
+            "text": "playground",
+            "meaning": "oyun alanı"
+        },
+        {
+            "text": "stadium",
+            "meaning": "stadyum"
+        },
+        {
+            "text": "mosque",
+            "meaning": "cami"
+        },
+        {
+            "text": "church",
+            "meaning": "kilise"
+        },
+        {
+            "text": "restaurant",
+            "meaning": "restoran"
+        },
+        {
+            "text": "cafe",
+            "meaning": "kafe"
+        }
+    ]
+}

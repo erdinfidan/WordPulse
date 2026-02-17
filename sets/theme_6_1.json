@@ -1,0 +1,82 @@
+{
+    "setId": "theme_6_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "life",
+            "meaning": "hayat"
+        },
+        {
+            "text": "daily routine",
+            "meaning": "günlük rutin"
+        },
+        {
+            "text": "wake up",
+            "meaning": "uyanmak"
+        },
+        {
+            "text": "get dressed",
+            "meaning": "giyinmek"
+        },
+        {
+            "text": "have breakfast",
+            "meaning": "kahvaltı yapmak"
+        },
+        {
+            "text": "go to school",
+            "meaning": "okula gitmek"
+        },
+        {
+            "text": "study",
+            "meaning": "ders çalışmak"
+        },
+        {
+            "text": "rest",
+            "meaning": "dinlenmek"
+        },
+        {
+            "text": "sleep",
+            "meaning": "uyumak"
+        },
+        {
+            "text": "busy",
+            "meaning": "meşgul"
+        },
+        {
+            "text": "free time",
+            "meaning": "boş zaman"
+        },
+        {
+            "text": "activity",
+            "meaning": "aktivite"
+        },
+        {
+            "text": "finish",
+            "meaning": "bitirmek"
+        },
+        {
+            "text": "start",
+            "meaning": "başlamak"
+        },
+        {
+            "text": "schedule",
+            "meaning": "program"
+        },
+        {
+            "text": "habit",
+            "meaning": "alışkanlık"
+        },
+        {
+            "text": "usually",
+            "meaning": "genellikle"
+        },
+        {
+            "text": "sometimes",
+            "meaning": "bazen"
+        },
+        {
+            "text": "rarely",
+            "meaning": "nadiren"
+        }
+    ]
+}

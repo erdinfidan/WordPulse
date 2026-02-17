@@ -1,0 +1,102 @@
+{
+    "setId": "theme_7_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "lion",
+            "meaning": "aslan"
+        },
+        {
+            "text": "tiger",
+            "meaning": "kaplan"
+        },
+        {
+            "text": "bear",
+            "meaning": "ayı"
+        },
+        {
+            "text": "wolf",
+            "meaning": "kurt"
+        },
+        {
+            "text": "fox",
+            "meaning": "tilki"
+        },
+        {
+            "text": "giraffe",
+            "meaning": "zürafa"
+        },
+        {
+            "text": "elephant",
+            "meaning": "fil"
+        },
+        {
+            "text": "rhino",
+            "meaning": "gergedan"
+        },
+        {
+            "text": "hippo",
+            "meaning": "su aygırı"
+        },
+        {
+            "text": "kangaroo",
+            "meaning": "kanguru"
+        },
+        {
+            "text": "zebra",
+            "meaning": "zebra"
+        },
+        {
+            "text": "cheetah",
+            "meaning": "çita"
+        },
+        {
+            "text": "leopard",
+            "meaning": "leopar"
+        },
+        {
+            "text": "monkey",
+            "meaning": "maymun"
+        },
+        {
+            "text": "gorilla",
+            "meaning": "goril"
+        },
+        {
+            "text": "snake",
+            "meaning": "yılan"
+        },
+        {
+            "text": "crocodile",
+            "meaning": "timsah"
+        },
+        {
+            "text": "eagle",
+            "meaning": "kartal"
+        },
+        {
+            "text": "shark",
+            "meaning": "köpekbalığı"
+        },
+        {
+            "text": "whale",
+            "meaning": "balina"
+        },
+        {
+            "text": "dolphin",
+            "meaning": "yunus"
+        },
+        {
+            "text": "penguin",
+            "meaning": "penguen"
+        },
+        {
+            "text": "camel",
+            "meaning": "deve"
+        },
+        {
+            "text": "hyena",
+            "meaning": "sırtlan"
+        }
+    ]
+}

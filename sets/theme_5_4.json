@@ -1,0 +1,98 @@
+{
+    "setId": "theme_5_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "town",
+            "meaning": "kasaba"
+        },
+        {
+            "text": "city",
+            "meaning": "şehir"
+        },
+        {
+            "text": "street",
+            "meaning": "sokak"
+        },
+        {
+            "text": "park",
+            "meaning": "park"
+        },
+        {
+            "text": "hospital",
+            "meaning": "hastane"
+        },
+        {
+            "text": "bank",
+            "meaning": "banka"
+        },
+        {
+            "text": "school",
+            "meaning": "okul"
+        },
+        {
+            "text": "market",
+            "meaning": "pazar / market"
+        },
+        {
+            "text": "restaurant",
+            "meaning": "restoran"
+        },
+        {
+            "text": "bus stop",
+            "meaning": "otobüs durağı"
+        },
+        {
+            "text": "traffic light",
+            "meaning": "trafik ışığı"
+        },
+        {
+            "text": "bridge",
+            "meaning": "köprü"
+        },
+        {
+            "text": "post office",
+            "meaning": "postane"
+        },
+        {
+            "text": "near",
+            "meaning": "yakın"
+        },
+        {
+            "text": "far",
+            "meaning": "uzak"
+        },
+        {
+            "text": "village",
+            "meaning": "köy"
+        },
+        {
+            "text": "road",
+            "meaning": "yol"
+        },
+        {
+            "text": "supermarket",
+            "meaning": "süpermarket"
+        },
+        {
+            "text": "train station",
+            "meaning": "tren garı"
+        },
+        {
+            "text": "pharmacy",
+            "meaning": "eczane"
+        },
+        {
+            "text": "police station",
+            "meaning": "polis merkezi"
+        },
+        {
+            "text": "fire station",
+            "meaning": "itfaiye"
+        },
+        {
+            "text": "sign",
+            "meaning": "işaret"
+        }
+    ]
+}

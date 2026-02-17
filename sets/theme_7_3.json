@@ -1,0 +1,86 @@
+{
+    "setId": "theme_7_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "born",
+            "meaning": "doğmak"
+        },
+        {
+            "text": "die",
+            "meaning": "ölmek"
+        },
+        {
+            "text": "grow up",
+            "meaning": "büyümek"
+        },
+        {
+            "text": "education",
+            "meaning": "eğitim"
+        },
+        {
+            "text": "graduate",
+            "meaning": "mezun olmak"
+        },
+        {
+            "text": "success",
+            "meaning": "başarı"
+        },
+        {
+            "text": "famous",
+            "meaning": "ünlü"
+        },
+        {
+            "text": "discover",
+            "meaning": "keşfetmek"
+        },
+        {
+            "text": "invent",
+            "meaning": "icat etmek"
+        },
+        {
+            "text": "career",
+            "meaning": "kariyer"
+        },
+        {
+            "text": "achieve",
+            "meaning": "başarmak"
+        },
+        {
+            "text": "date of birth",
+            "meaning": "doğum tarihi"
+        },
+        {
+            "text": "childhood",
+            "meaning": "çocukluk"
+        },
+        {
+            "text": "lifestyle",
+            "meaning": "yaşam tarzı"
+        },
+        {
+            "text": "marry",
+            "meaning": "evlenmek"
+        },
+        {
+            "text": "award",
+            "meaning": "ödül"
+        },
+        {
+            "text": "influence",
+            "meaning": "etkilemek"
+        },
+        {
+            "text": "publish",
+            "meaning": "yayınlamak"
+        },
+        {
+            "text": "life story",
+            "meaning": "hayat hikayesi"
+        },
+        {
+            "text": "biography",
+            "meaning": "biyografi"
+        }
+    ]
+}

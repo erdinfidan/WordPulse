@@ -1,0 +1,86 @@
+{
+    "setId": "theme_6_8",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "book",
+            "meaning": "kitap"
+        },
+        {
+            "text": "author",
+            "meaning": "yazar"
+        },
+        {
+            "text": "character",
+            "meaning": "karakter"
+        },
+        {
+            "text": "story",
+            "meaning": "hikaye"
+        },
+        {
+            "text": "adventure",
+            "meaning": "macera"
+        },
+        {
+            "text": "detective",
+            "meaning": "dedektif"
+        },
+        {
+            "text": "novel",
+            "meaning": "roman"
+        },
+        {
+            "text": "comic book",
+            "meaning": "çizgi roman"
+        },
+        {
+            "text": "poem",
+            "meaning": "şiir"
+        },
+        {
+            "text": "poet",
+            "meaning": "şair"
+        },
+        {
+            "text": "library",
+            "meaning": "kütüphane"
+        },
+        {
+            "text": "borrow",
+            "meaning": "ödünç almak"
+        },
+        {
+            "text": "return",
+            "meaning": "geri vermek"
+        },
+        {
+            "text": "chapter",
+            "meaning": "bölüm"
+        },
+        {
+            "text": "title",
+            "meaning": "başlık"
+        },
+        {
+            "text": "illustration",
+            "meaning": "çizim"
+        },
+        {
+            "text": "page",
+            "meaning": "sayfa"
+        },
+        {
+            "text": "favorite",
+            "meaning": "favori"
+        },
+        {
+            "text": "recommend",
+            "meaning": "önermek"
+        },
+        {
+            "text": "read aloud",
+            "meaning": "yüksek sesle okumak"
+        }
+    ]
+}

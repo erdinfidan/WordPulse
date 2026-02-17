@@ -1,0 +1,90 @@
+{
+    "setId": "theme_8_9",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "scientist",
+            "meaning": "bilim insanı"
+        },
+        {
+            "text": "experiment",
+            "meaning": "deney"
+        },
+        {
+            "text": "laboratory",
+            "meaning": "laboratuvar"
+        },
+        {
+            "text": "observe",
+            "meaning": "gözlemlemek"
+        },
+        {
+            "text": "research",
+            "meaning": "araştırma"
+        },
+        {
+            "text": "discover",
+            "meaning": "keşfetmek"
+        },
+        {
+            "text": "invent",
+            "meaning": "icat etmek"
+        },
+        {
+            "text": "theory",
+            "meaning": "teori"
+        },
+        {
+            "text": "gravity",
+            "meaning": "yer çekimi"
+        },
+        {
+            "text": "force",
+            "meaning": "kuvvet"
+        },
+        {
+            "text": "matter",
+            "meaning": "madde"
+        },
+        {
+            "text": "solid",
+            "meaning": "katı"
+        },
+        {
+            "text": "liquid",
+            "meaning": "sıvı"
+        },
+        {
+            "text": "gas",
+            "meaning": "gaz"
+        },
+        {
+            "text": "energy",
+            "meaning": "enerji"
+        },
+        {
+            "text": "electricity",
+            "meaning": "elektrik"
+        },
+        {
+            "text": "chemistry",
+            "meaning": "kimya"
+        },
+        {
+            "text": "biology",
+            "meaning": "biyoloji"
+        },
+        {
+            "text": "physics",
+            "meaning": "fizik"
+        },
+        {
+            "text": "cell",
+            "meaning": "hücre"
+        },
+        {
+            "text": "microscope",
+            "meaning": "mikroskop"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "setId": "theme_7_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "tall",
+            "meaning": "uzun"
+        },
+        {
+            "text": "short",
+            "meaning": "kısa"
+        },
+        {
+            "text": "slim",
+            "meaning": "zayıf"
+        },
+        {
+            "text": "plump",
+            "meaning": "tombul"
+        },
+        {
+            "text": "handsome",
+            "meaning": "yakışıklı"
+        },
+        {
+            "text": "beautiful",
+            "meaning": "güzel"
+        },
+        {
+            "text": "curly hair",
+            "meaning": "kıvırcık saç"
+        },
+        {
+            "text": "straight hair",
+            "meaning": "düz saç"
+        },
+        {
+            "text": "wavy hair",
+            "meaning": "dalgalı saç"
+        },
+        {
+            "text": "friendly",
+            "meaning": "arkadaş canlısı"
+        },
+        {
+            "text": "shy",
+            "meaning": "utangaç"
+        },
+        {
+            "text": "generous",
+            "meaning": "cömert"
+        },
+        {
+            "text": "selfish",
+            "meaning": "bencil"
+        },
+        {
+            "text": "honest",
+            "meaning": "dürüst"
+        },
+        {
+            "text": "dishonest",
+            "meaning": "dürüst olmayan"
+        },
+        {
+            "text": "cheerful",
+            "meaning": "neşeli"
+        },
+        {
+            "text": "serious",
+            "meaning": "ciddi"
+        },
+        {
+            "text": "lazy",
+            "meaning": "tembel"
+        },
+        {
+            "text": "hardworking",
+            "meaning": "çalışkan"
+        },
+        {
+            "text": "smart",
+            "meaning": "zeki"
+        },
+        {
+            "text": "brave",
+            "meaning": "cesur"
+        },
+        {
+            "text": "crazy",
+            "meaning": "çılgın"
+        }
+    ]
+}

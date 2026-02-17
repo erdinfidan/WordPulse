@@ -1,0 +1,106 @@
+{
+    "setId": "theme_5_6",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "healthy",
+            "meaning": "sağlıklı"
+        },
+        {
+            "text": "unhealthy",
+            "meaning": "sağlıksız"
+        },
+        {
+            "text": "sick",
+            "meaning": "hasta"
+        },
+        {
+            "text": "tired",
+            "meaning": "yorgun"
+        },
+        {
+            "text": "hungry",
+            "meaning": "aç"
+        },
+        {
+            "text": "thirsty",
+            "meaning": "susamış"
+        },
+        {
+            "text": "headache",
+            "meaning": "baş ağrısı"
+        },
+        {
+            "text": "stomachache",
+            "meaning": "mide ağrısı"
+        },
+        {
+            "text": "fever",
+            "meaning": "ateş"
+        },
+        {
+            "text": "cough",
+            "meaning": "öksürük"
+        },
+        {
+            "text": "medicine",
+            "meaning": "ilaç"
+        },
+        {
+            "text": "doctor",
+            "meaning": "doktor"
+        },
+        {
+            "text": "rest",
+            "meaning": "dinlenmek"
+        },
+        {
+            "text": "drink water",
+            "meaning": "su içmek"
+        },
+        {
+            "text": "sleep well",
+            "meaning": "iyi uyumak"
+        },
+        {
+            "text": "health",
+            "meaning": "sağlık"
+        },
+        {
+            "text": "eat",
+            "meaning": "yemek"
+        },
+        {
+            "text": "drink",
+            "meaning": "içmek"
+        },
+        {
+            "text": "food",
+            "meaning": "yiyecek"
+        },
+        {
+            "text": "vegetable",
+            "meaning": "sebze"
+        },
+        {
+            "text": "fruit",
+            "meaning": "meyve"
+        },
+        {
+            "text": "water",
+            "meaning": "su"
+        },
+        {
+            "text": "clinic",
+            "meaning": "klinik"
+        },
+        {
+            "text": "exercise",
+            "meaning": "egzersiz"
+        },
+        {
+            "text": "sleep",
+            "meaning": "uyumak"
+        }
+    ]
+}

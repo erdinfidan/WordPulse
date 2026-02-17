@@ -1,0 +1,78 @@
+{
+    "setId": "theme_6_9",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "planet",
+            "meaning": "gezegen"
+        },
+        {
+            "text": "environment",
+            "meaning": "çevre"
+        },
+        {
+            "text": "pollution",
+            "meaning": "kirlilik"
+        },
+        {
+            "text": "air pollution",
+            "meaning": "hava kirliliği"
+        },
+        {
+            "text": "water pollution",
+            "meaning": "su kirliliği"
+        },
+        {
+            "text": "soil pollution",
+            "meaning": "toprak kirliliği"
+        },
+        {
+            "text": "recycle",
+            "meaning": "geri dönüştürmek"
+        },
+        {
+            "text": "reuse",
+            "meaning": "yeniden kullanmak"
+        },
+        {
+            "text": "reduce",
+            "meaning": "azaltmak"
+        },
+        {
+            "text": "save energy",
+            "meaning": "enerjiyi korumak"
+        },
+        {
+            "text": "waste",
+            "meaning": "israf"
+        },
+        {
+            "text": "global warming",
+            "meaning": "küresel ısınma"
+        },
+        {
+            "text": "climate change",
+            "meaning": "iklim değişikliği"
+        },
+        {
+            "text": "protect",
+            "meaning": "korumak"
+        },
+        {
+            "text": "clean up",
+            "meaning": "temizlemek"
+        },
+        {
+            "text": "throw away",
+            "meaning": "çöpe atmak"
+        },
+        {
+            "text": "plant a tree",
+            "meaning": "ağaç dikmek"
+        },
+        {
+            "text": "collect garbage",
+            "meaning": "çöp toplamak"
+        }
+    ]
+}

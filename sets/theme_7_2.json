@@ -1,0 +1,98 @@
+{
+    "setId": "theme_7_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "athletics",
+            "meaning": "atletizm"
+        },
+        {
+            "text": "basketball",
+            "meaning": "basketbol"
+        },
+        {
+            "text": "volleyball",
+            "meaning": "voleybol"
+        },
+        {
+            "text": "football",
+            "meaning": "futbol"
+        },
+        {
+            "text": "tennis",
+            "meaning": "tenis"
+        },
+        {
+            "text": "table tennis",
+            "meaning": "masa tenisi"
+        },
+        {
+            "text": "martial arts",
+            "meaning": "dövüş sanatları"
+        },
+        {
+            "text": "karate",
+            "meaning": "karate"
+        },
+        {
+            "text": "taekwondo",
+            "meaning": "taekwondo"
+        },
+        {
+            "text": "swimming",
+            "meaning": "yüzme"
+        },
+        {
+            "text": "cycling",
+            "meaning": "bisiklet sürme"
+        },
+        {
+            "text": "running",
+            "meaning": "koşu"
+        },
+        {
+            "text": "skiing",
+            "meaning": "kayak"
+        },
+        {
+            "text": "ice skating",
+            "meaning": "buz pateni"
+        },
+        {
+            "text": "badminton",
+            "meaning": "badminton"
+        },
+        {
+            "text": "archery",
+            "meaning": "okçuluk"
+        },
+        {
+            "text": "jogging",
+            "meaning": "hafif koşu"
+        },
+        {
+            "text": "exercise",
+            "meaning": "egzersiz yapmak"
+        },
+        {
+            "text": "score",
+            "meaning": "skor"
+        },
+        {
+            "text": "win",
+            "meaning": "kazanmak"
+        },
+        {
+            "text": "lose",
+            "meaning": "kaybetmek"
+        },
+        {
+            "text": "tie",
+            "meaning": "berabere"
+        },
+        {
+            "text": "goalkeeper",
+            "meaning": "kaleci"
+        }
+    ]
+}

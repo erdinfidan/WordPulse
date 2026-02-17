@@ -1,0 +1,86 @@
+{
+    "setId": "theme_7_6",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "birthday",
+            "meaning": "doğum günü"
+        },
+        {
+            "text": "wedding",
+            "meaning": "düğün"
+        },
+        {
+            "text": "anniversary",
+            "meaning": "yıl dönümü"
+        },
+        {
+            "text": "festival",
+            "meaning": "festival"
+        },
+        {
+            "text": "graduation",
+            "meaning": "mezuniyet"
+        },
+        {
+            "text": "invitation",
+            "meaning": "davetiye"
+        },
+        {
+            "text": "guest",
+            "meaning": "misafir"
+        },
+        {
+            "text": "gift",
+            "meaning": "hediye"
+        },
+        {
+            "text": "wrap",
+            "meaning": "paketlemek"
+        },
+        {
+            "text": "decorate",
+            "meaning": "süslemek"
+        },
+        {
+            "text": "balloon",
+            "meaning": "balon"
+        },
+        {
+            "text": "fireworks",
+            "meaning": "havai fişek"
+        },
+        {
+            "text": "costume",
+            "meaning": "kostüm"
+        },
+        {
+            "text": "tradition",
+            "meaning": "gelenek"
+        },
+        {
+            "text": "holiday",
+            "meaning": "tatil/bayram"
+        },
+        {
+            "text": "celebrate",
+            "meaning": "kutlamak"
+        },
+        {
+            "text": "ceremony",
+            "meaning": "tören"
+        },
+        {
+            "text": "parade",
+            "meaning": "geçit töreni"
+        },
+        {
+            "text": "candle",
+            "meaning": "mum"
+        },
+        {
+            "text": "venue",
+            "meaning": "etkinlik yeri"
+        }
+    ]
+}

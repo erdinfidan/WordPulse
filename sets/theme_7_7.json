@@ -1,0 +1,94 @@
+{
+    "setId": "theme_7_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "dream",
+            "meaning": "rüya"
+        },
+        {
+            "text": "nightmare",
+            "meaning": "kabus"
+        },
+        {
+            "text": "wish",
+            "meaning": "dilek"
+        },
+        {
+            "text": "imagine",
+            "meaning": "hayal etmek"
+        },
+        {
+            "text": "future",
+            "meaning": "gelecek"
+        },
+        {
+            "text": "goal",
+            "meaning": "hedef"
+        },
+        {
+            "text": "ambition",
+            "meaning": "istek"
+        },
+        {
+            "text": "hope",
+            "meaning": "umut"
+        },
+        {
+            "text": "talented",
+            "meaning": "yetenekli"
+        },
+        {
+            "text": "skill",
+            "meaning": "beceri"
+        },
+        {
+            "text": "ability",
+            "meaning": "yetenek"
+        },
+        {
+            "text": "success",
+            "meaning": "başarı"
+        },
+        {
+            "text": "believe",
+            "meaning": "inanmak"
+        },
+        {
+            "text": "inspire",
+            "meaning": "ilham vermek"
+        },
+        {
+            "text": "motivate",
+            "meaning": "motive etmek"
+        },
+        {
+            "text": "career",
+            "meaning": "kariyer"
+        },
+        {
+            "text": "astronaut",
+            "meaning": "astronot"
+        },
+        {
+            "text": "pilot",
+            "meaning": "pilot"
+        },
+        {
+            "text": "engineer",
+            "meaning": "mühendis"
+        },
+        {
+            "text": "scientist",
+            "meaning": "bilim insanı"
+        },
+        {
+            "text": "artist",
+            "meaning": "sanatçı"
+        },
+        {
+            "text": "musician",
+            "meaning": "müzisyen"
+        }
+    ]
+}

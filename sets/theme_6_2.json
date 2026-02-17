@@ -1,0 +1,106 @@
+{
+    "setId": "theme_6_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "breakfast",
+            "meaning": "kahvaltı"
+        },
+        {
+            "text": "lunch",
+            "meaning": "öğle yemeği"
+        },
+        {
+            "text": "dinner",
+            "meaning": "akşam yemeği"
+        },
+        {
+            "text": "meal",
+            "meaning": "öğün"
+        },
+        {
+            "text": "food",
+            "meaning": "yiyecek"
+        },
+        {
+            "text": "drink",
+            "meaning": "içecek"
+        },
+        {
+            "text": "bread",
+            "meaning": "ekmek"
+        },
+        {
+            "text": "cheese",
+            "meaning": "peynir"
+        },
+        {
+            "text": "egg",
+            "meaning": "yumurta"
+        },
+        {
+            "text": "jam",
+            "meaning": "reçel"
+        },
+        {
+            "text": "honey",
+            "meaning": "bal"
+        },
+        {
+            "text": "milk",
+            "meaning": "süt"
+        },
+        {
+            "text": "tea",
+            "meaning": "çay"
+        },
+        {
+            "text": "tomato",
+            "meaning": "domates"
+        },
+        {
+            "text": "cucumber",
+            "meaning": "salatalık"
+        },
+        {
+            "text": "olive",
+            "meaning": "zeytin"
+        },
+        {
+            "text": "butter",
+            "meaning": "tereyağı"
+        },
+        {
+            "text": "fruit",
+            "meaning": "meyve"
+        },
+        {
+            "text": "vegetable",
+            "meaning": "sebze"
+        },
+        {
+            "text": "delicious",
+            "meaning": "lezzetli"
+        },
+        {
+            "text": "fresh",
+            "meaning": "taze"
+        },
+        {
+            "text": "prefer",
+            "meaning": "tercih etmek"
+        },
+        {
+            "text": "healthy",
+            "meaning": "sağlıklı"
+        },
+        {
+            "text": "order",
+            "meaning": "sipariş vermek"
+        },
+        {
+            "text": "cook",
+            "meaning": "yemek yapmak"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "setId": "theme_5_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "school",
+            "meaning": "okul"
+        },
+        {
+            "text": "classroom",
+            "meaning": "sınıf"
+        },
+        {
+            "text": "teacher",
+            "meaning": "öğretmen"
+        },
+        {
+            "text": "student",
+            "meaning": "öğrenci"
+        },
+        {
+            "text": "desk",
+            "meaning": "sıra"
+        },
+        {
+            "text": "board",
+            "meaning": "tahta"
+        },
+        {
+            "text": "pencil",
+            "meaning": "kalem"
+        },
+        {
+            "text": "notebook",
+            "meaning": "defter"
+        },
+        {
+            "text": "book",
+            "meaning": "kitap"
+        },
+        {
+            "text": "bag",
+            "meaning": "çanta"
+        },
+        {
+            "text": "subject",
+            "meaning": "ders konusu"
+        },
+        {
+            "text": "break time",
+            "meaning": "teneffüs"
+        },
+        {
+            "text": "homework",
+            "meaning": "ödev"
+        },
+        {
+            "text": "exam",
+            "meaning": "sınav"
+        },
+        {
+            "text": "library",
+            "meaning": "kütüphane"
+        },
+        {
+            "text": "principal",
+            "meaning": "müdür"
+        },
+        {
+            "text": "lesson",
+            "meaning": "ders"
+        },
+        {
+            "text": "assignment",
+            "meaning": "görev / ödev"
+        },
+        {
+            "text": "test",
+            "meaning": "test"
+        },
+        {
+            "text": "break",
+            "meaning": "teneffüs"
+        },
+        {
+            "text": "pen",
+            "meaning": "tükenmez kalem"
+        },
+        {
+            "text": "eraser",
+            "meaning": "silgi"
+        },
+        {
+            "text": "sharpener",
+            "meaning": "açacak"
+        },
+        {
+            "text": "chair",
+            "meaning": "sandalye"
+        }
+    ]
+}

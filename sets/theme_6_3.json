@@ -1,0 +1,106 @@
+{
+    "setId": "theme_6_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "downtown",
+            "meaning": "şehir merkezi"
+        },
+        {
+            "text": "street",
+            "meaning": "sokak"
+        },
+        {
+            "text": "avenue",
+            "meaning": "cadde"
+        },
+        {
+            "text": "square",
+            "meaning": "meydan"
+        },
+        {
+            "text": "building",
+            "meaning": "bina"
+        },
+        {
+            "text": "city hall",
+            "meaning": "belediye"
+        },
+        {
+            "text": "library",
+            "meaning": "kütüphane"
+        },
+        {
+            "text": "restaurant",
+            "meaning": "restoran"
+        },
+        {
+            "text": "cafe",
+            "meaning": "kafe"
+        },
+        {
+            "text": "pharmacy",
+            "meaning": "eczane"
+        },
+        {
+            "text": "bakery",
+            "meaning": "fırın"
+        },
+        {
+            "text": "butcher",
+            "meaning": "kasap"
+        },
+        {
+            "text": "mall",
+            "meaning": "alışveriş merkezi"
+        },
+        {
+            "text": "bus station",
+            "meaning": "otobüs terminali"
+        },
+        {
+            "text": "subway",
+            "meaning": "metro"
+        },
+        {
+            "text": "traffic light",
+            "meaning": "trafik ışığı"
+        },
+        {
+            "text": "crosswalk",
+            "meaning": "yaya geçidi"
+        },
+        {
+            "text": "turn left",
+            "meaning": "sola dön"
+        },
+        {
+            "text": "turn right",
+            "meaning": "sağa dön"
+        },
+        {
+            "text": "go straight",
+            "meaning": "dümdüz git"
+        },
+        {
+            "text": "near",
+            "meaning": "yakın"
+        },
+        {
+            "text": "far",
+            "meaning": "uzak"
+        },
+        {
+            "text": "opposite",
+            "meaning": "karşısında"
+        },
+        {
+            "text": "between",
+            "meaning": "arasında"
+        },
+        {
+            "text": "next to",
+            "meaning": "yanında"
+        }
+    ]
+}

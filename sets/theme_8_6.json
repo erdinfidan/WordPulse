@@ -1,0 +1,90 @@
+{
+    "setId": "theme_8_6",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "adventure",
+            "meaning": "macera"
+        },
+        {
+            "text": "explore",
+            "meaning": "keşfetmek"
+        },
+        {
+            "text": "discover",
+            "meaning": "keşfetmek"
+        },
+        {
+            "text": "survive",
+            "meaning": "hayatta kalmak"
+        },
+        {
+            "text": "challenge",
+            "meaning": "meydan okuma"
+        },
+        {
+            "text": "climb",
+            "meaning": "tırmanmak"
+        },
+        {
+            "text": "jump",
+            "meaning": "zıplamak"
+        },
+        {
+            "text": "camp",
+            "meaning": "kamp yapmak"
+        },
+        {
+            "text": "raft",
+            "meaning": "sal"
+        },
+        {
+            "text": "rafting",
+            "meaning": "sal ile akıntıda ilerleme"
+        },
+        {
+            "text": "hike",
+            "meaning": "doğa yürüyüşü"
+        },
+        {
+            "text": "trekking",
+            "meaning": "uzun yürüyüş"
+        },
+        {
+            "text": "dangerous",
+            "meaning": "tehlikeli"
+        },
+        {
+            "text": "safe",
+            "meaning": "güvenli"
+        },
+        {
+            "text": "equipment",
+            "meaning": "ekipman"
+        },
+        {
+            "text": "helmet",
+            "meaning": "kask"
+        },
+        {
+            "text": "rope",
+            "meaning": "ip"
+        },
+        {
+            "text": "map",
+            "meaning": "harita"
+        },
+        {
+            "text": "compass",
+            "meaning": "pusula"
+        },
+        {
+            "text": "flashlight",
+            "meaning": "el feneri"
+        },
+        {
+            "text": "first aid kit",
+            "meaning": "ilk yardım çantası"
+        }
+    ]
+}

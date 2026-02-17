@@ -1,0 +1,94 @@
+{
+    "setId": "theme_8_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "tourist",
+            "meaning": "turist"
+        },
+        {
+            "text": "tourism",
+            "meaning": "turizm"
+        },
+        {
+            "text": "trip",
+            "meaning": "gezi"
+        },
+        {
+            "text": "journey",
+            "meaning": "yolculuk"
+        },
+        {
+            "text": "vacation",
+            "meaning": "tatil"
+        },
+        {
+            "text": "holiday",
+            "meaning": "tatil"
+        },
+        {
+            "text": "book",
+            "meaning": "rezervasyon yapmak"
+        },
+        {
+            "text": "reservation",
+            "meaning": "rezervasyon"
+        },
+        {
+            "text": "accommodation",
+            "meaning": "konaklama"
+        },
+        {
+            "text": "hostel",
+            "meaning": "hostel"
+        },
+        {
+            "text": "hotel",
+            "meaning": "otel"
+        },
+        {
+            "text": "tent",
+            "meaning": "çadır"
+        },
+        {
+            "text": "camping",
+            "meaning": "kamp yapmak"
+        },
+        {
+            "text": "guide",
+            "meaning": "rehber"
+        },
+        {
+            "text": "tour guide",
+            "meaning": "tur rehberi"
+        },
+        {
+            "text": "landmark",
+            "meaning": "önemli yapı"
+        },
+        {
+            "text": "museum",
+            "meaning": "müze"
+        },
+        {
+            "text": "beach",
+            "meaning": "plaj"
+        },
+        {
+            "text": "historic site",
+            "meaning": "tarihi yer"
+        },
+        {
+            "text": "souvenir",
+            "meaning": "hatıra eşyası"
+        },
+        {
+            "text": "local food",
+            "meaning": "yerel yemek"
+        },
+        {
+            "text": "itinerary",
+            "meaning": "gezi planı"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "setId": "theme_6_10",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "democracy",
+            "meaning": "demokrasi"
+        },
+        {
+            "text": "right",
+            "meaning": "hak"
+        },
+        {
+            "text": "responsibility",
+            "meaning": "sorumluluk"
+        },
+        {
+            "text": "rule",
+            "meaning": "kural"
+        },
+        {
+            "text": "vote",
+            "meaning": "oy vermek"
+        },
+        {
+            "text": "equality",
+            "meaning": "eşitlik"
+        },
+        {
+            "text": "freedom",
+            "meaning": "özgürlük"
+        },
+        {
+            "text": "justice",
+            "meaning": "adalet"
+        },
+        {
+            "text": "law",
+            "meaning": "hukuk"
+        },
+        {
+            "text": "citizen",
+            "meaning": "vatandaş"
+        },
+        {
+            "text": "community",
+            "meaning": "toplum"
+        },
+        {
+            "text": "help",
+            "meaning": "yardım etmek"
+        },
+        {
+            "text": "volunteer",
+            "meaning": "gönüllü"
+        },
+        {
+            "text": "support",
+            "meaning": "desteklemek"
+        },
+        {
+            "text": "decision",
+            "meaning": "karar"
+        },
+        {
+            "text": "respect",
+            "meaning": "saygı"
+        },
+        {
+            "text": "agreement",
+            "meaning": "anlaşma"
+        },
+        {
+            "text": "disagree",
+            "meaning": "aynı fikirde olmamak"
+        },
+        {
+            "text": "teamwork",
+            "meaning": "takım çalışması"
+        }
+    ]
+}

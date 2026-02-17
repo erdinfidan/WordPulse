@@ -1,0 +1,74 @@
+{
+    "setId": "theme_8_8",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "chore",
+            "meaning": "ev işi"
+        },
+        {
+            "text": "do the laundry",
+            "meaning": "çamaşır yıkamak"
+        },
+        {
+            "text": "do the dishes",
+            "meaning": "bulaşık yıkamak"
+        },
+        {
+            "text": "set the table",
+            "meaning": "masayı kurmak"
+        },
+        {
+            "text": "clear the table",
+            "meaning": "masayı toplamak"
+        },
+        {
+            "text": "sweep the floor",
+            "meaning": "yeri süpürmek"
+        },
+        {
+            "text": "mop the floor",
+            "meaning": "yeri paspaslamak"
+        },
+        {
+            "text": "vacuum",
+            "meaning": "elektrikli süpürgeyle süpürmek"
+        },
+        {
+            "text": "take out the trash",
+            "meaning": "çöpü çıkarmak"
+        },
+        {
+            "text": "make the bed",
+            "meaning": "yatağı toplamak"
+        },
+        {
+            "text": "feed the pet",
+            "meaning": "hayvanı beslemek"
+        },
+        {
+            "text": "water the plants",
+            "meaning": "bitkileri sulamak"
+        },
+        {
+            "text": "iron the clothes",
+            "meaning": "ütü yapmak"
+        },
+        {
+            "text": "tidy up",
+            "meaning": "düzenlemek"
+        },
+        {
+            "text": "responsibility",
+            "meaning": "sorumluluk"
+        },
+        {
+            "text": "share",
+            "meaning": "paylaşmak"
+        },
+        {
+            "text": "help",
+            "meaning": "yardım etmek"
+        }
+    ]
+}

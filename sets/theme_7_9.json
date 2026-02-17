@@ -1,0 +1,94 @@
+{
+    "setId": "theme_7_9",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "environment",
+            "meaning": "çevre"
+        },
+        {
+            "text": "pollution",
+            "meaning": "kirlilik"
+        },
+        {
+            "text": "global warming",
+            "meaning": "küresel ısınma"
+        },
+        {
+            "text": "recycle",
+            "meaning": "geri dönüştürmek"
+        },
+        {
+            "text": "reuse",
+            "meaning": "yeniden kullanmak"
+        },
+        {
+            "text": "reduce",
+            "meaning": "azaltmak"
+        },
+        {
+            "text": "waste",
+            "meaning": "çöp"
+        },
+        {
+            "text": "trash",
+            "meaning": "çöp"
+        },
+        {
+            "text": "forest",
+            "meaning": "orman"
+        },
+        {
+            "text": "wildlife",
+            "meaning": "vahşi yaşam"
+        },
+        {
+            "text": "endangered species",
+            "meaning": "nesli tükenen türler"
+        },
+        {
+            "text": "flood",
+            "meaning": "sel"
+        },
+        {
+            "text": "drought",
+            "meaning": "kuraklık"
+        },
+        {
+            "text": "earthquake",
+            "meaning": "deprem"
+        },
+        {
+            "text": "volcano",
+            "meaning": "volkan"
+        },
+        {
+            "text": "tornado",
+            "meaning": "hortum"
+        },
+        {
+            "text": "protect",
+            "meaning": "korumak"
+        },
+        {
+            "text": "save",
+            "meaning": "kurtarmak"
+        },
+        {
+            "text": "plant",
+            "meaning": "bitki/dikmek"
+        },
+        {
+            "text": "soil",
+            "meaning": "toprak"
+        },
+        {
+            "text": "air",
+            "meaning": "hava"
+        },
+        {
+            "text": "water",
+            "meaning": "su"
+        }
+    ]
+}

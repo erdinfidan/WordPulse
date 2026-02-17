@@ -1,0 +1,86 @@
+{
+    "setId": "theme_6_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "fair",
+            "meaning": "fuar"
+        },
+        {
+            "text": "amusement park",
+            "meaning": "lunapark"
+        },
+        {
+            "text": "ride",
+            "meaning": "binmek"
+        },
+        {
+            "text": "roller coaster",
+            "meaning": "hız treni"
+        },
+        {
+            "text": "bumper cars",
+            "meaning": "çarpışan arabalar"
+        },
+        {
+            "text": "ferris wheel",
+            "meaning": "dönme dolap"
+        },
+        {
+            "text": "ticket",
+            "meaning": "bilet"
+        },
+        {
+            "text": "queue",
+            "meaning": "sıra"
+        },
+        {
+            "text": "crowd",
+            "meaning": "kalabalık"
+        },
+        {
+            "text": "fun",
+            "meaning": "eğlence"
+        },
+        {
+            "text": "exciting",
+            "meaning": "heyecan verici"
+        },
+        {
+            "text": "boring",
+            "meaning": "sıkıcı"
+        },
+        {
+            "text": "interesting",
+            "meaning": "ilginç"
+        },
+        {
+            "text": "buy",
+            "meaning": "satın almak"
+        },
+        {
+            "text": "sell",
+            "meaning": "satmak"
+        },
+        {
+            "text": "prize",
+            "meaning": "ödül"
+        },
+        {
+            "text": "game booth",
+            "meaning": "oyun standı"
+        },
+        {
+            "text": "win",
+            "meaning": "kazanmak"
+        },
+        {
+            "text": "lose",
+            "meaning": "kaybetmek"
+        },
+        {
+            "text": "shooting game",
+            "meaning": "atış oyunu"
+        }
+    ]
+}

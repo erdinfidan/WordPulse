@@ -1,0 +1,114 @@
+{
+    "setId": "theme_8_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "recipe",
+            "meaning": "tarif"
+        },
+        {
+            "text": "ingredient",
+            "meaning": "malzeme"
+        },
+        {
+            "text": "bowl",
+            "meaning": "kase"
+        },
+        {
+            "text": "fork",
+            "meaning": "çatal"
+        },
+        {
+            "text": "spoon",
+            "meaning": "kaşık"
+        },
+        {
+            "text": "knife",
+            "meaning": "bıçak"
+        },
+        {
+            "text": "pan",
+            "meaning": "tava"
+        },
+        {
+            "text": "pot",
+            "meaning": "tencere"
+        },
+        {
+            "text": "boil",
+            "meaning": "kaynatmak"
+        },
+        {
+            "text": "fry",
+            "meaning": "kızartmak"
+        },
+        {
+            "text": "bake",
+            "meaning": "fırınlamak"
+        },
+        {
+            "text": "mix",
+            "meaning": "karıştırmak"
+        },
+        {
+            "text": "chop",
+            "meaning": "doğramak"
+        },
+        {
+            "text": "slice",
+            "meaning": "dilimlemek"
+        },
+        {
+            "text": "grate",
+            "meaning": "rendelemek"
+        },
+        {
+            "text": "measure",
+            "meaning": "ölçmek"
+        },
+        {
+            "text": "add",
+            "meaning": "eklemek"
+        },
+        {
+            "text": "pour",
+            "meaning": "dökmek"
+        },
+        {
+            "text": "serve",
+            "meaning": "servis etmek"
+        },
+        {
+            "text": "taste",
+            "meaning": "tatmak"
+        },
+        {
+            "text": "flavour",
+            "meaning": "tat"
+        },
+        {
+            "text": "delicious",
+            "meaning": "lezzetli"
+        },
+        {
+            "text": "horrible",
+            "meaning": "berbat"
+        },
+        {
+            "text": "salty",
+            "meaning": "tuzlu"
+        },
+        {
+            "text": "sweet",
+            "meaning": "tatlı"
+        },
+        {
+            "text": "bitter",
+            "meaning": "acı"
+        },
+        {
+            "text": "spicy",
+            "meaning": "baharatlı"
+        }
+    ]
+}
