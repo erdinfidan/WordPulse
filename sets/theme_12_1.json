@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "music",
+            "meaning": "müzik"
+        },
+        {
+            "text": "composer",
+            "meaning": "besteci"
+        },
+        {
+            "text": "genre",
+            "meaning": "tür"
+        },
+        {
+            "text": "melody",
+            "meaning": "melodi"
+        },
+        {
+            "text": "rhythm",
+            "meaning": "ritim"
+        },
+        {
+            "text": "lyrics",
+            "meaning": "sözler"
+        },
+        {
+            "text": "instrument",
+            "meaning": "enstrüman"
+        },
+        {
+            "text": "concert",
+            "meaning": "konser"
+        },
+        {
+            "text": "performance",
+            "meaning": "performans"
+        },
+        {
+            "text": "audience",
+            "meaning": "izleyici"
+        },
+        {
+            "text": "talent",
+            "meaning": "yetenek"
+        },
+        {
+            "text": "fame",
+            "meaning": "ün"
+        },
+        {
+            "text": "harmony",
+            "meaning": "uyum"
+        },
+        {
+            "text": "record",
+            "meaning": "kaydetmek"
+        },
+        {
+            "text": "release",
+            "meaning": "yayımlamak"
+        }
+    ]
+}

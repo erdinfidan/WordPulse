@@ -1,0 +1,66 @@
+{
+    "setId": "theme_11_6",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "health",
+            "meaning": "sağlık"
+        },
+        {
+            "text": "disease",
+            "meaning": "hastalık"
+        },
+        {
+            "text": "symptom",
+            "meaning": "belirti"
+        },
+        {
+            "text": "treatment",
+            "meaning": "tedavi"
+        },
+        {
+            "text": "medicine",
+            "meaning": "ilaç"
+        },
+        {
+            "text": "exercise",
+            "meaning": "egzersiz"
+        },
+        {
+            "text": "nutrition",
+            "meaning": "beslenme"
+        },
+        {
+            "text": "diet",
+            "meaning": "diyet"
+        },
+        {
+            "text": "injury",
+            "meaning": "yaralanma"
+        },
+        {
+            "text": "first aid",
+            "meaning": "ilk yardım"
+        },
+        {
+            "text": "appointment",
+            "meaning": "randevu"
+        },
+        {
+            "text": "check-up",
+            "meaning": "kontrol"
+        },
+        {
+            "text": "immune system",
+            "meaning": "bağışıklık sistemi"
+        },
+        {
+            "text": "recover",
+            "meaning": "iyileşmek"
+        },
+        {
+            "text": "prevent",
+            "meaning": "önlemek"
+        }
+    ]
+}

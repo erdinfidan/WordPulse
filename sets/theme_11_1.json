@@ -1,0 +1,66 @@
+{
+    "setId": "theme_11_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "career",
+            "meaning": "kariyer"
+        },
+        {
+            "text": "profession",
+            "meaning": "meslek"
+        },
+        {
+            "text": "skill",
+            "meaning": "beceri"
+        },
+        {
+            "text": "ability",
+            "meaning": "yetenek"
+        },
+        {
+            "text": "qualification",
+            "meaning": "nitelik"
+        },
+        {
+            "text": "requirement",
+            "meaning": "gereklilik"
+        },
+        {
+            "text": "employer",
+            "meaning": "işveren"
+        },
+        {
+            "text": "employee",
+            "meaning": "çalışan"
+        },
+        {
+            "text": "interview",
+            "meaning": "mülakat"
+        },
+        {
+            "text": "resume",
+            "meaning": "özgeçmiş"
+        },
+        {
+            "text": "opportunity",
+            "meaning": "fırsat"
+        },
+        {
+            "text": "application",
+            "meaning": "başvuru"
+        },
+        {
+            "text": "salary",
+            "meaning": "maaş"
+        },
+        {
+            "text": "promotion",
+            "meaning": "terfi"
+        },
+        {
+            "text": "responsibility",
+            "meaning": "sorumluluk"
+        }
+    ]
+}

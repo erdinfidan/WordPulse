@@ -1,0 +1,62 @@
+{
+    "setId": "theme_10_9",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "earthquake",
+            "meaning": "deprem"
+        },
+        {
+            "text": "flood",
+            "meaning": "sel"
+        },
+        {
+            "text": "drought",
+            "meaning": "kuraklık"
+        },
+        {
+            "text": "storm",
+            "meaning": "fırtına"
+        },
+        {
+            "text": "landslide",
+            "meaning": "heyelan"
+        },
+        {
+            "text": "volcano",
+            "meaning": "volkan"
+        },
+        {
+            "text": "hail",
+            "meaning": "dolu"
+        },
+        {
+            "text": "avalanche",
+            "meaning": "çığ"
+        },
+        {
+            "text": "hurricane",
+            "meaning": "kasırga"
+        },
+        {
+            "text": "tornado",
+            "meaning": "hortum"
+        },
+        {
+            "text": "damage",
+            "meaning": "hasar"
+        },
+        {
+            "text": "survive",
+            "meaning": "hayatta kalmak"
+        },
+        {
+            "text": "rescue",
+            "meaning": "kurtarmak"
+        },
+        {
+            "text": "shelter",
+            "meaning": "sığınak"
+        }
+    ]
+}

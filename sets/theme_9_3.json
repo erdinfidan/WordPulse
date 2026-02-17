@@ -1,0 +1,70 @@
+{
+    "setId": "theme_9_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "action",
+            "meaning": "aksiyon"
+        },
+        {
+            "text": "comedy",
+            "meaning": "komedi"
+        },
+        {
+            "text": "drama",
+            "meaning": "dram"
+        },
+        {
+            "text": "documentary",
+            "meaning": "belgesel"
+        },
+        {
+            "text": "animation",
+            "meaning": "animasyon"
+        },
+        {
+            "text": "actor",
+            "meaning": "aktör"
+        },
+        {
+            "text": "actress",
+            "meaning": "aktris"
+        },
+        {
+            "text": "director",
+            "meaning": "yönetmen"
+        },
+        {
+            "text": "audience",
+            "meaning": "seyirci"
+        },
+        {
+            "text": "movie theatre",
+            "meaning": "sinema"
+        },
+        {
+            "text": "exciting",
+            "meaning": "heyecan verici"
+        },
+        {
+            "text": "boring",
+            "meaning": "sıkıcı"
+        },
+        {
+            "text": "scary",
+            "meaning": "korkutucu"
+        },
+        {
+            "text": "hilarious",
+            "meaning": "çok komik"
+        },
+        {
+            "text": "recommend",
+            "meaning": "önermek"
+        },
+        {
+            "text": "prefer",
+            "meaning": "tercih etmek"
+        }
+    ]
+}

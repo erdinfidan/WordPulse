@@ -1,0 +1,66 @@
+{
+    "setId": "theme_10_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "plan",
+            "meaning": "plan"
+        },
+        {
+            "text": "goal",
+            "meaning": "hedef"
+        },
+        {
+            "text": "dream",
+            "meaning": "hayal"
+        },
+        {
+            "text": "future",
+            "meaning": "gelecek"
+        },
+        {
+            "text": "decision",
+            "meaning": "karar"
+        },
+        {
+            "text": "ability",
+            "meaning": "yetenek"
+        },
+        {
+            "text": "talent",
+            "meaning": "yetenek"
+        },
+        {
+            "text": "prefer",
+            "meaning": "tercih etmek"
+        },
+        {
+            "text": "intend",
+            "meaning": "niyet etmek"
+        },
+        {
+            "text": "promise",
+            "meaning": "söz vermek"
+        },
+        {
+            "text": "opportunity",
+            "meaning": "fırsat"
+        },
+        {
+            "text": "possibility",
+            "meaning": "olasılık"
+        },
+        {
+            "text": "career",
+            "meaning": "kariyer"
+        },
+        {
+            "text": "achieve",
+            "meaning": "başarmak"
+        },
+        {
+            "text": "attempt",
+            "meaning": "denemek"
+        }
+    ]
+}

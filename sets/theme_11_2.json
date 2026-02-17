@@ -1,0 +1,66 @@
+{
+    "setId": "theme_11_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "hobby",
+            "meaning": "hobi"
+        },
+        {
+            "text": "interest",
+            "meaning": "ilgi"
+        },
+        {
+            "text": "collect",
+            "meaning": "biriktirmek"
+        },
+        {
+            "text": "creative",
+            "meaning": "yaratıcı"
+        },
+        {
+            "text": "activity",
+            "meaning": "aktivite"
+        },
+        {
+            "text": "participate",
+            "meaning": "katılmak"
+        },
+        {
+            "text": "exercise",
+            "meaning": "egzersiz"
+        },
+        {
+            "text": "outdoor",
+            "meaning": "dış mekan"
+        },
+        {
+            "text": "indoor",
+            "meaning": "iç mekan"
+        },
+        {
+            "text": "volunteer",
+            "meaning": "gönüllü olmak"
+        },
+        {
+            "text": "talent",
+            "meaning": "yetenek"
+        },
+        {
+            "text": "improve",
+            "meaning": "geliştirmek"
+        },
+        {
+            "text": "practice",
+            "meaning": "pratik yapmak"
+        },
+        {
+            "text": "challenge",
+            "meaning": "zorluk"
+        },
+        {
+            "text": "achievement",
+            "meaning": "başarı"
+        }
+    ]
+}

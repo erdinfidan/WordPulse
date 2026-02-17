@@ -1,0 +1,194 @@
+{
+    "setId": "theme_9_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "hello",
+            "meaning": "merhaba"
+        },
+        {
+            "text": "hi",
+            "meaning": "selam"
+        },
+        {
+            "text": "nice to meet you",
+            "meaning": "tanıştığıma memnun oldum"
+        },
+        {
+            "text": "how are you",
+            "meaning": "nasılsın"
+        },
+        {
+            "text": "see you",
+            "meaning": "görüşürüz"
+        },
+        {
+            "text": "name",
+            "meaning": "isim"
+        },
+        {
+            "text": "surname",
+            "meaning": "soyisim"
+        },
+        {
+            "text": "age",
+            "meaning": "yaş"
+        },
+        {
+            "text": "hometown",
+            "meaning": "memleket"
+        },
+        {
+            "text": "country",
+            "meaning": "ülke"
+        },
+        {
+            "text": "nationality",
+            "meaning": "milliyet"
+        },
+        {
+            "text": "foreign",
+            "meaning": "yabancı"
+        },
+        {
+            "text": "doctor",
+            "meaning": "doktor"
+        },
+        {
+            "text": "engineer",
+            "meaning": "mühendis"
+        },
+        {
+            "text": "architect",
+            "meaning": "mimar"
+        },
+        {
+            "text": "nurse",
+            "meaning": "hemşire"
+        },
+        {
+            "text": "teacher",
+            "meaning": "öğretmen"
+        },
+        {
+            "text": "lawyer",
+            "meaning": "avukat"
+        },
+        {
+            "text": "retired",
+            "meaning": "emekli"
+        },
+        {
+            "text": "student",
+            "meaning": "öğrenci"
+        },
+        {
+            "text": "mother",
+            "meaning": "anne"
+        },
+        {
+            "text": "father",
+            "meaning": "baba"
+        },
+        {
+            "text": "sister",
+            "meaning": "kız kardeş"
+        },
+        {
+            "text": "brother",
+            "meaning": "erkek kardeş"
+        },
+        {
+            "text": "cousin",
+            "meaning": "kuzen"
+        },
+        {
+            "text": "grandfather",
+            "meaning": "büyükbaba"
+        },
+        {
+            "text": "grandmother",
+            "meaning": "büyükanne"
+        },
+        {
+            "text": "study",
+            "meaning": "ders çalışmak"
+        },
+        {
+            "text": "travel",
+            "meaning": "seyahat etmek"
+        },
+        {
+            "text": "visit",
+            "meaning": "ziyaret etmek"
+        },
+        {
+            "text": "live",
+            "meaning": "yaşamak"
+        },
+        {
+            "text": "find a job",
+            "meaning": "iş bulmak"
+        },
+        {
+            "text": "spend time",
+            "meaning": "zaman geçirmek"
+        },
+        {
+            "text": "communicate",
+            "meaning": "iletişim kurmak"
+        },
+        {
+            "text": "English",
+            "meaning": "İngilizce"
+        },
+        {
+            "text": "Turkish",
+            "meaning": "Türkçe"
+        },
+        {
+            "text": "Spanish",
+            "meaning": "İspanyolca"
+        },
+        {
+            "text": "German",
+            "meaning": "Almanca"
+        },
+        {
+            "text": "French",
+            "meaning": "Fransızca"
+        },
+        {
+            "text": "Turkey",
+            "meaning": "Türkiye"
+        },
+        {
+            "text": "England",
+            "meaning": "İngiltere"
+        },
+        {
+            "text": "Germany",
+            "meaning": "Almanya"
+        },
+        {
+            "text": "Spain",
+            "meaning": "İspanya"
+        },
+        {
+            "text": "Italy",
+            "meaning": "İtalya"
+        },
+        {
+            "text": "Canada",
+            "meaning": "Kanada"
+        },
+        {
+            "text": "USA",
+            "meaning": "Amerika Birleşik Devletleri"
+        },
+        {
+            "text": "Japan",
+            "meaning": "Japonya"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "setId": "theme_9_8",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "technology",
+            "meaning": "teknoloji"
+        },
+        {
+            "text": "device",
+            "meaning": "cihaz"
+        },
+        {
+            "text": "computer",
+            "meaning": "bilgisayar"
+        },
+        {
+            "text": "smartphone",
+            "meaning": "akıllı telefon"
+        },
+        {
+            "text": "internet",
+            "meaning": "internet"
+        },
+        {
+            "text": "social media",
+            "meaning": "sosyal medya"
+        },
+        {
+            "text": "online",
+            "meaning": "çevrimiçi"
+        },
+        {
+            "text": "download",
+            "meaning": "indirmek"
+        },
+        {
+            "text": "upload",
+            "meaning": "yüklemek"
+        },
+        {
+            "text": "message",
+            "meaning": "mesaj"
+        },
+        {
+            "text": "video",
+            "meaning": "video"
+        },
+        {
+            "text": "application",
+            "meaning": "uygulama"
+        }
+    ]
+}

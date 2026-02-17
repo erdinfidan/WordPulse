@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "education",
+            "meaning": "eğitim"
+        },
+        {
+            "text": "development",
+            "meaning": "gelişim"
+        },
+        {
+            "text": "skill",
+            "meaning": "beceri"
+        },
+        {
+            "text": "motivation",
+            "meaning": "motivasyon"
+        },
+        {
+            "text": "discipline",
+            "meaning": "disiplin"
+        },
+        {
+            "text": "strategy",
+            "meaning": "strateji"
+        },
+        {
+            "text": "study",
+            "meaning": "çalışmak"
+        },
+        {
+            "text": "experiment",
+            "meaning": "deney"
+        },
+        {
+            "text": "lecture",
+            "meaning": "ders"
+        },
+        {
+            "text": "assignment",
+            "meaning": "ödev"
+        },
+        {
+            "text": "academic",
+            "meaning": "akademik"
+        },
+        {
+            "text": "evaluate",
+            "meaning": "değerlendirmek"
+        },
+        {
+            "text": "success",
+            "meaning": "başarı"
+        },
+        {
+            "text": "failure",
+            "meaning": "başarısızlık"
+        },
+        {
+            "text": "graduate",
+            "meaning": "mezun olmak"
+        }
+    ]
+}

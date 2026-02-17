@@ -1,0 +1,66 @@
+{
+    "setId": "theme_11_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "favor",
+            "meaning": "iyilik"
+        },
+        {
+            "text": "help",
+            "meaning": "yardım"
+        },
+        {
+            "text": "offer",
+            "meaning": "teklif etmek"
+        },
+        {
+            "text": "request",
+            "meaning": "talep"
+        },
+        {
+            "text": "accept",
+            "meaning": "kabul etmek"
+        },
+        {
+            "text": "refuse",
+            "meaning": "reddetmek"
+        },
+        {
+            "text": "polite",
+            "meaning": "nazik"
+        },
+        {
+            "text": "impolite",
+            "meaning": "kaba"
+        },
+        {
+            "text": "suggest",
+            "meaning": "önermek"
+        },
+        {
+            "text": "recommend",
+            "meaning": "tavsiye etmek"
+        },
+        {
+            "text": "borrow",
+            "meaning": "ödünç almak"
+        },
+        {
+            "text": "lend",
+            "meaning": "ödünç vermek"
+        },
+        {
+            "text": "assist",
+            "meaning": "yardımcı olmak"
+        },
+        {
+            "text": "appreciate",
+            "meaning": "takdir etmek"
+        },
+        {
+            "text": "gratitude",
+            "meaning": "minnettarlık"
+        }
+    ]
+}

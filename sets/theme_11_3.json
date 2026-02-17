@@ -1,0 +1,66 @@
+{
+    "setId": "theme_11_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "disaster",
+            "meaning": "felaket"
+        },
+        {
+            "text": "earthquake",
+            "meaning": "deprem"
+        },
+        {
+            "text": "flood",
+            "meaning": "sel"
+        },
+        {
+            "text": "survival",
+            "meaning": "hayatta kalma"
+        },
+        {
+            "text": "injury",
+            "meaning": "yaralanma"
+        },
+        {
+            "text": "damage",
+            "meaning": "hasar"
+        },
+        {
+            "text": "risk",
+            "meaning": "risk"
+        },
+        {
+            "text": "danger",
+            "meaning": "tehlike"
+        },
+        {
+            "text": "emergency",
+            "meaning": "acil durum"
+        },
+        {
+            "text": "evacuate",
+            "meaning": "tahliye etmek"
+        },
+        {
+            "text": "rescue",
+            "meaning": "kurtarmak"
+        },
+        {
+            "text": "support",
+            "meaning": "destek"
+        },
+        {
+            "text": "help",
+            "meaning": "yardım"
+        },
+        {
+            "text": "donate",
+            "meaning": "bağış yapmak"
+        },
+        {
+            "text": "recover",
+            "meaning": "iyileşmek"
+        }
+    ]
+}

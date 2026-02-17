@@ -1,0 +1,46 @@
+{
+    "setId": "theme_9_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "healthy",
+            "meaning": "sağlıklı"
+        },
+        {
+            "text": "diet",
+            "meaning": "diyet"
+        },
+        {
+            "text": "nutrition",
+            "meaning": "beslenme"
+        },
+        {
+            "text": "exercise",
+            "meaning": "egzersiz"
+        },
+        {
+            "text": "gym",
+            "meaning": "spor salonu"
+        },
+        {
+            "text": "strength",
+            "meaning": "güç"
+        },
+        {
+            "text": "balance",
+            "meaning": "denge"
+        },
+        {
+            "text": "sleep",
+            "meaning": "uyumak"
+        },
+        {
+            "text": "relax",
+            "meaning": "dinlenmek"
+        },
+        {
+            "text": "stress",
+            "meaning": "stres"
+        }
+    ]
+}

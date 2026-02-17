@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_10",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "culture",
+            "meaning": "kültür"
+        },
+        {
+            "text": "heritage",
+            "meaning": "miras"
+        },
+        {
+            "text": "tradition",
+            "meaning": "gelenek"
+        },
+        {
+            "text": "custom",
+            "meaning": "adet"
+        },
+        {
+            "text": "festival",
+            "meaning": "festival"
+        },
+        {
+            "text": "ritual",
+            "meaning": "ritüel"
+        },
+        {
+            "text": "ceremony",
+            "meaning": "tören"
+        },
+        {
+            "text": "value",
+            "meaning": "değer"
+        },
+        {
+            "text": "belief",
+            "meaning": "inanç"
+        },
+        {
+            "text": "architecture",
+            "meaning": "mimari"
+        },
+        {
+            "text": "monument",
+            "meaning": "anıt"
+        },
+        {
+            "text": "artwork",
+            "meaning": "sanat eseri"
+        },
+        {
+            "text": "preserve",
+            "meaning": "korumak"
+        },
+        {
+            "text": "ancient",
+            "meaning": "antik"
+        },
+        {
+            "text": "generation",
+            "meaning": "nesil"
+        }
+    ]
+}

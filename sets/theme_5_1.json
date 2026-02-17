@@ -4,11 +4,219 @@
     "words": [
         {
             "text": "Library",
-            "meaning": "Kütüphane"
+            "meaning": "kütüphane"
         },
         {
             "text": "Headmaster",
-            "meaning": "Okul Müdürü"
+            "meaning": "okul müdürü"
+        },
+        {
+            "text": "teacher",
+            "meaning": "öğretmen"
+        },
+        {
+            "text": "secretary",
+            "meaning": "sekreter"
+        },
+        {
+            "text": "coach",
+            "meaning": "antrenör"
+        },
+        {
+            "text": "assistant",
+            "meaning": "yardımcı personel"
+        },
+        {
+            "text": "student",
+            "meaning": "öğrenci"
+        },
+        {
+            "text": "caretaker",
+            "meaning": "bekçi / görevli"
+        },
+        {
+            "text": "classroom",
+            "meaning": "sınıf"
+        },
+        {
+            "text": "lab",
+            "meaning": "laboratuvar"
+        },
+        {
+            "text": "sports field",
+            "meaning": "spor alanı"
+        },
+        {
+            "text": "canteen",
+            "meaning": "kantin"
+        },
+        {
+            "text": "conference hall",
+            "meaning": "konferans salonu"
+        },
+        {
+            "text": "administration department",
+            "meaning": "idari bölüm"
+        },
+        {
+            "text": "gate",
+            "meaning": "okul kapısı"
+        },
+        {
+            "text": "uniform",
+            "meaning": "üniforma"
+        },
+        {
+            "text": "no shouting",
+            "meaning": "bağırmak yok"
+        },
+        {
+            "text": "follow the rules",
+            "meaning": "kurallara uy"
+        },
+        {
+            "text": "to organise",
+            "meaning": "düzenlemek"
+        },
+        {
+            "text": "to solve",
+            "meaning": "çözmek"
+        },
+        {
+            "text": "to arrange",
+            "meaning": "ayarlamak"
+        },
+        {
+            "text": "School Clubs",
+            "meaning": "Okul kulüpleri"
+        },
+        {
+            "text": "drama club",
+            "meaning": "drama kulübü"
+        },
+        {
+            "text": "maths club",
+            "meaning": "matematik kulübü"
+        },
+        {
+            "text": "art club",
+            "meaning": "sanat kulübü"
+        },
+        {
+            "text": "music club",
+            "meaning": "müzik kulübü"
+        },
+        {
+            "text": "sports club",
+            "meaning": "spor kulübü"
+        },
+        {
+            "text": "science club",
+            "meaning": "bilim kulübü"
+        },
+        {
+            "text": "film club",
+            "meaning": "film kulübü"
+        },
+        {
+            "text": "chess club",
+            "meaning": "satranç kulübü"
+        },
+        {
+            "text": "environment club",
+            "meaning": "çevre kulübü"
+        },
+        {
+            "text": "folk dance club",
+            "meaning": "halk dansı kulübü"
+        },
+        {
+            "text": "Country",
+            "meaning": "Ülke"
+        },
+        {
+            "text": "Turkey",
+            "meaning": "Türkiye"
+        },
+        {
+            "text": "The United States of America (USA)",
+            "meaning": "Amerika Birleşik Devletleri"
+        },
+        {
+            "text": "The United Kingdom (UK)",
+            "meaning": "Birleşik Krallık"
+        },
+        {
+            "text": "Canada",
+            "meaning": "Kanada"
+        },
+        {
+            "text": "Australia",
+            "meaning": "Avustralya"
+        },
+        {
+            "text": "France",
+            "meaning": "Fransa"
+        },
+        {
+            "text": "Italy",
+            "meaning": "İtalya"
+        },
+        {
+            "text": "Spain",
+            "meaning": "İspanya"
+        },
+        {
+            "text": "Argentina",
+            "meaning": "Arjantin"
+        },
+        {
+            "text": "Brazil",
+            "meaning": "Brezilya"
+        },
+        {
+            "text": "China",
+            "meaning": "Çin"
+        },
+        {
+            "text": "Japan",
+            "meaning": "Japonya"
+        },
+        {
+            "text": "Mexico",
+            "meaning": "Meksika"
+        },
+        {
+            "text": "Russia",
+            "meaning": "Rusya"
+        },
+        {
+            "text": "South Korea",
+            "meaning": "Güney Kore"
+        },
+        {
+            "text": "Azerbaijan",
+            "meaning": "Azerbaycan"
+        },
+        {
+            "text": "Uzbekistan",
+            "meaning": "Özbekistan"
+        },
+        {
+            "text": "Turkmenistan",
+            "meaning": "Türkmenistan"
+        },
+        {
+            "text": "Turkish Republic of Northern Cyprus",
+            "meaning": "Kuzey Kıbrıs Türk Cumhuriyeti"
+        },
+        {
+            "text": "Kazakhstan",
+            "meaning": "Kazakistan"
+        },
+        {
+            "text": "Kyrgyzstan",
+            "meaning": "Kırgızistan"
         }
     ]
 }

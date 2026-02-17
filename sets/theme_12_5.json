@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "psychology",
+            "meaning": "psikoloji"
+        },
+        {
+            "text": "sociology",
+            "meaning": "sosyoloji"
+        },
+        {
+            "text": "behavior",
+            "meaning": "davranış"
+        },
+        {
+            "text": "attitude",
+            "meaning": "tutum"
+        },
+        {
+            "text": "personality",
+            "meaning": "kişilik"
+        },
+        {
+            "text": "emotion",
+            "meaning": "duygu"
+        },
+        {
+            "text": "stress",
+            "meaning": "stres"
+        },
+        {
+            "text": "perception",
+            "meaning": "algı"
+        },
+        {
+            "text": "cognition",
+            "meaning": "biliş"
+        },
+        {
+            "text": "motivation",
+            "meaning": "motivasyon"
+        },
+        {
+            "text": "habit",
+            "meaning": "alışkanlık"
+        },
+        {
+            "text": "interaction",
+            "meaning": "etkileşim"
+        },
+        {
+            "text": "self-esteem",
+            "meaning": "özsaygı"
+        },
+        {
+            "text": "culture",
+            "meaning": "kültür"
+        },
+        {
+            "text": "social norm",
+            "meaning": "sosyal norm"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "setId": "theme_10_3",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "emotion",
+            "meaning": "duygu"
+        },
+        {
+            "text": "stress",
+            "meaning": "stres"
+        },
+        {
+            "text": "anxiety",
+            "meaning": "kaygı"
+        },
+        {
+            "text": "motivation",
+            "meaning": "motivasyon"
+        },
+        {
+            "text": "confidence",
+            "meaning": "özgüven"
+        },
+        {
+            "text": "fear",
+            "meaning": "korku"
+        },
+        {
+            "text": "happiness",
+            "meaning": "mutluluk"
+        },
+        {
+            "text": "sadness",
+            "meaning": "üzüntü"
+        },
+        {
+            "text": "anger",
+            "meaning": "öfke"
+        },
+        {
+            "text": "personality",
+            "meaning": "kişilik"
+        },
+        {
+            "text": "behavior",
+            "meaning": "davranış"
+        },
+        {
+            "text": "mind",
+            "meaning": "zihin"
+        },
+        {
+            "text": "mental health",
+            "meaning": "ruh sağlığı"
+        },
+        {
+            "text": "focus",
+            "meaning": "odaklanmak"
+        },
+        {
+            "text": "concentrate",
+            "meaning": "yoğunlaşmak"
+        }
+    ]
+}

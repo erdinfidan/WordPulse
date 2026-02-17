@@ -1,0 +1,50 @@
+{
+    "setId": "theme_9_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "club",
+            "meaning": "kulüp"
+        },
+        {
+            "text": "member",
+            "meaning": "üye"
+        },
+        {
+            "text": "volunteer",
+            "meaning": "gönüllü"
+        },
+        {
+            "text": "competition",
+            "meaning": "yarışma"
+        },
+        {
+            "text": "rule",
+            "meaning": "kural"
+        },
+        {
+            "text": "teacher assistant",
+            "meaning": "öğretmen yardımcısı"
+        },
+        {
+            "text": "principal",
+            "meaning": "müdür"
+        },
+        {
+            "text": "counselor",
+            "meaning": "rehber öğretmen"
+        },
+        {
+            "text": "organize",
+            "meaning": "organize etmek"
+        },
+        {
+            "text": "participate",
+            "meaning": "katılmak"
+        },
+        {
+            "text": "project",
+            "meaning": "proje"
+        }
+    ]
+}

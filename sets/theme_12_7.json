@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "technology",
+            "meaning": "teknoloji"
+        },
+        {
+            "text": "innovation",
+            "meaning": "yenilik"
+        },
+        {
+            "text": "artificial intelligence",
+            "meaning": "yapay zeka"
+        },
+        {
+            "text": "robotics",
+            "meaning": "robotik"
+        },
+        {
+            "text": "virtual reality",
+            "meaning": "sanal gerçeklik"
+        },
+        {
+            "text": "cybersecurity",
+            "meaning": "siber güvenlik"
+        },
+        {
+            "text": "automation",
+            "meaning": "otomasyon"
+        },
+        {
+            "text": "software",
+            "meaning": "yazılım"
+        },
+        {
+            "text": "data",
+            "meaning": "veri"
+        },
+        {
+            "text": "privacy",
+            "meaning": "gizlilik"
+        },
+        {
+            "text": "network",
+            "meaning": "ağ"
+        },
+        {
+            "text": "device",
+            "meaning": "cihaz"
+        },
+        {
+            "text": "future",
+            "meaning": "gelecek"
+        },
+        {
+            "text": "prediction",
+            "meaning": "tahmin"
+        },
+        {
+            "text": "upgrade",
+            "meaning": "yükseltmek"
+        }
+    ]
+}

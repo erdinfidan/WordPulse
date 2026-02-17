@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_9",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "entrepreneur",
+            "meaning": "girişimci"
+        },
+        {
+            "text": "startup",
+            "meaning": "girişim"
+        },
+        {
+            "text": "investment",
+            "meaning": "yatırım"
+        },
+        {
+            "text": "profit",
+            "meaning": "kâr"
+        },
+        {
+            "text": "loss",
+            "meaning": "zarar"
+        },
+        {
+            "text": "budget",
+            "meaning": "bütçe"
+        },
+        {
+            "text": "market",
+            "meaning": "pazar"
+        },
+        {
+            "text": "customer",
+            "meaning": "müşteri"
+        },
+        {
+            "text": "strategy",
+            "meaning": "strateji"
+        },
+        {
+            "text": "competition",
+            "meaning": "rekabet"
+        },
+        {
+            "text": "risk",
+            "meaning": "risk"
+        },
+        {
+            "text": "opportunity",
+            "meaning": "fırsat"
+        },
+        {
+            "text": "income",
+            "meaning": "gelir"
+        },
+        {
+            "text": "expense",
+            "meaning": "gider"
+        },
+        {
+            "text": "innovation",
+            "meaning": "yenilik"
+        }
+    ]
+}

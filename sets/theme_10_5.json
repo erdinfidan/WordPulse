@@ -1,0 +1,66 @@
+{
+    "setId": "theme_10_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "travel",
+            "meaning": "seyahat"
+        },
+        {
+            "text": "journey",
+            "meaning": "yolculuk"
+        },
+        {
+            "text": "trip",
+            "meaning": "gezi"
+        },
+        {
+            "text": "destination",
+            "meaning": "varış noktası"
+        },
+        {
+            "text": "route",
+            "meaning": "rota"
+        },
+        {
+            "text": "transportation",
+            "meaning": "ulaşım"
+        },
+        {
+            "text": "luggage",
+            "meaning": "bagaj"
+        },
+        {
+            "text": "passport",
+            "meaning": "pasaport"
+        },
+        {
+            "text": "flight",
+            "meaning": "uçuş"
+        },
+        {
+            "text": "ticket",
+            "meaning": "bilet"
+        },
+        {
+            "text": "reservation",
+            "meaning": "rezervasyon"
+        },
+        {
+            "text": "departure",
+            "meaning": "kalkış"
+        },
+        {
+            "text": "arrival",
+            "meaning": "varış"
+        },
+        {
+            "text": "guide",
+            "meaning": "rehber"
+        },
+        {
+            "text": "accommodation",
+            "meaning": "konaklama"
+        }
+    ]
+}

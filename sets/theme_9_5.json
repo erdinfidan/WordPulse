@@ -1,0 +1,50 @@
+{
+    "setId": "theme_9_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "continent",
+            "meaning": "kıta"
+        },
+        {
+            "text": "culture",
+            "meaning": "kültür"
+        },
+        {
+            "text": "tradition",
+            "meaning": "gelenek"
+        },
+        {
+            "text": "festival",
+            "meaning": "festival"
+        },
+        {
+            "text": "city",
+            "meaning": "şehir"
+        },
+        {
+            "text": "capital",
+            "meaning": "başkent"
+        },
+        {
+            "text": "language",
+            "meaning": "dil"
+        },
+        {
+            "text": "global",
+            "meaning": "küresel"
+        },
+        {
+            "text": "international",
+            "meaning": "uluslararası"
+        },
+        {
+            "text": "famous",
+            "meaning": "ünlü"
+        },
+        {
+            "text": "landmark",
+            "meaning": "simge yapı"
+        }
+    ]
+}

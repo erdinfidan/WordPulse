@@ -1,0 +1,250 @@
+{
+    "setId": "theme_9_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "house",
+            "meaning": "ev"
+        },
+        {
+            "text": "home",
+            "meaning": "ev (yaşanılan yer)"
+        },
+        {
+            "text": "flat",
+            "meaning": "daire"
+        },
+        {
+            "text": "room",
+            "meaning": "oda"
+        },
+        {
+            "text": "living room",
+            "meaning": "oturma odası"
+        },
+        {
+            "text": "bedroom",
+            "meaning": "yatak odası"
+        },
+        {
+            "text": "kitchen",
+            "meaning": "mutfak"
+        },
+        {
+            "text": "bathroom",
+            "meaning": "banyo"
+        },
+        {
+            "text": "balcony",
+            "meaning": "balkon"
+        },
+        {
+            "text": "furniture",
+            "meaning": "mobilya"
+        },
+        {
+            "text": "wardrobe",
+            "meaning": "gardırop"
+        },
+        {
+            "text": "bed",
+            "meaning": "yatak"
+        },
+        {
+            "text": "sofa",
+            "meaning": "kanepe"
+        },
+        {
+            "text": "armchair",
+            "meaning": "koltuk"
+        },
+        {
+            "text": "table",
+            "meaning": "masa"
+        },
+        {
+            "text": "chair",
+            "meaning": "sandalye"
+        },
+        {
+            "text": "carpet",
+            "meaning": "halı"
+        },
+        {
+            "text": "mirror",
+            "meaning": "ayna"
+        },
+        {
+            "text": "lamp",
+            "meaning": "lamba"
+        },
+        {
+            "text": "city",
+            "meaning": "şehir"
+        },
+        {
+            "text": "town",
+            "meaning": "kasaba"
+        },
+        {
+            "text": "village",
+            "meaning": "köy"
+        },
+        {
+            "text": "street",
+            "meaning": "sokak"
+        },
+        {
+            "text": "square",
+            "meaning": "meydan"
+        },
+        {
+            "text": "park",
+            "meaning": "park"
+        },
+        {
+            "text": "hospital",
+            "meaning": "hastane"
+        },
+        {
+            "text": "school",
+            "meaning": "okul"
+        },
+        {
+            "text": "library",
+            "meaning": "kütüphane"
+        },
+        {
+            "text": "bank",
+            "meaning": "banka"
+        },
+        {
+            "text": "bakery",
+            "meaning": "fırın"
+        },
+        {
+            "text": "post office",
+            "meaning": "posta ofisi"
+        },
+        {
+            "text": "supermarket",
+            "meaning": "market"
+        },
+        {
+            "text": "bookshop",
+            "meaning": "kitapçı"
+        },
+        {
+            "text": "fire station",
+            "meaning": "itfaiye"
+        },
+        {
+            "text": "police station",
+            "meaning": "polis merkezi"
+        },
+        {
+            "text": "environment",
+            "meaning": "çevre"
+        },
+        {
+            "text": "nature",
+            "meaning": "doğa"
+        },
+        {
+            "text": "forest",
+            "meaning": "orman"
+        },
+        {
+            "text": "lake",
+            "meaning": "göl"
+        },
+        {
+            "text": "river",
+            "meaning": "nehir"
+        },
+        {
+            "text": "mountain",
+            "meaning": "dağ"
+        },
+        {
+            "text": "sea",
+            "meaning": "deniz"
+        },
+        {
+            "text": "beach",
+            "meaning": "plaj"
+        },
+        {
+            "text": "next to",
+            "meaning": "yanında"
+        },
+        {
+            "text": "in front of",
+            "meaning": "önünde"
+        },
+        {
+            "text": "behind",
+            "meaning": "arkasında"
+        },
+        {
+            "text": "between",
+            "meaning": "arasında"
+        },
+        {
+            "text": "near",
+            "meaning": "yakın"
+        },
+        {
+            "text": "far",
+            "meaning": "uzak"
+        },
+        {
+            "text": "opposite",
+            "meaning": "karşısında"
+        },
+        {
+            "text": "across from",
+            "meaning": "karşıdan"
+        },
+        {
+            "text": "go straight",
+            "meaning": "dümdüz git"
+        },
+        {
+            "text": "turn left",
+            "meaning": "sola dön"
+        },
+        {
+            "text": "turn right",
+            "meaning": "sağa dön"
+        },
+        {
+            "text": "clean",
+            "meaning": "temizlemek"
+        },
+        {
+            "text": "tidy",
+            "meaning": "düzenlemek"
+        },
+        {
+            "text": "repair",
+            "meaning": "tamir etmek"
+        },
+        {
+            "text": "organize",
+            "meaning": "organize etmek"
+        },
+        {
+            "text": "arrange",
+            "meaning": "düzenlemek"
+        },
+        {
+            "text": "water the plants",
+            "meaning": "bitkileri sulamak"
+        },
+        {
+            "text": "take out the trash",
+            "meaning": "çöpü çıkarmak"
+        }
+    ]
+}

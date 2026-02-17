@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_6",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "democracy",
+            "meaning": "demokrasi"
+        },
+        {
+            "text": "human rights",
+            "meaning": "insan hakları"
+        },
+        {
+            "text": "freedom",
+            "meaning": "özgürlük"
+        },
+        {
+            "text": "justice",
+            "meaning": "adalet"
+        },
+        {
+            "text": "equality",
+            "meaning": "eşitlik"
+        },
+        {
+            "text": "law",
+            "meaning": "hukuk"
+        },
+        {
+            "text": "constitution",
+            "meaning": "anayasa"
+        },
+        {
+            "text": "vote",
+            "meaning": "oy vermek"
+        },
+        {
+            "text": "citizen",
+            "meaning": "vatandaş"
+        },
+        {
+            "text": "responsibility",
+            "meaning": "sorumluluk"
+        },
+        {
+            "text": "protest",
+            "meaning": "protesto"
+        },
+        {
+            "text": "speech",
+            "meaning": "konuşma"
+        },
+        {
+            "text": "expression",
+            "meaning": "ifade"
+        },
+        {
+            "text": "government",
+            "meaning": "hükümet"
+        },
+        {
+            "text": "rights",
+            "meaning": "haklar"
+        }
+    ]
+}

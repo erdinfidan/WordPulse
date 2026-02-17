@@ -1,0 +1,70 @@
+{
+    "setId": "theme_10_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "school",
+            "meaning": "okul"
+        },
+        {
+            "text": "subject",
+            "meaning": "ders"
+        },
+        {
+            "text": "schedule",
+            "meaning": "program"
+        },
+        {
+            "text": "attendance",
+            "meaning": "devam"
+        },
+        {
+            "text": "uniform",
+            "meaning": "üniforma"
+        },
+        {
+            "text": "principal",
+            "meaning": "müdür"
+        },
+        {
+            "text": "curriculum",
+            "meaning": "müfredat"
+        },
+        {
+            "text": "assignment",
+            "meaning": "ödev"
+        },
+        {
+            "text": "success",
+            "meaning": "başarı"
+        },
+        {
+            "text": "failure",
+            "meaning": "başarısızlık"
+        },
+        {
+            "text": "grade",
+            "meaning": "not"
+        },
+        {
+            "text": "exam",
+            "meaning": "sınav"
+        },
+        {
+            "text": "participation",
+            "meaning": "katılım"
+        },
+        {
+            "text": "discipline",
+            "meaning": "disiplin"
+        },
+        {
+            "text": "rule",
+            "meaning": "kural"
+        },
+        {
+            "text": "permission",
+            "meaning": "izin"
+        }
+    ]
+}

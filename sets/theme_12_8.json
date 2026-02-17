@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_8",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "global warming",
+            "meaning": "küresel ısınma"
+        },
+        {
+            "text": "pollution",
+            "meaning": "kirlilik"
+        },
+        {
+            "text": "poverty",
+            "meaning": "yoksulluk"
+        },
+        {
+            "text": "hunger",
+            "meaning": "açlık"
+        },
+        {
+            "text": "disease",
+            "meaning": "hastalık"
+        },
+        {
+            "text": "migration",
+            "meaning": "göç"
+        },
+        {
+            "text": "war",
+            "meaning": "savaş"
+        },
+        {
+            "text": "terrorism",
+            "meaning": "terörizm"
+        },
+        {
+            "text": "discrimination",
+            "meaning": "ayrımcılık"
+        },
+        {
+            "text": "inequality",
+            "meaning": "eşitsizlik"
+        },
+        {
+            "text": "peace",
+            "meaning": "barış"
+        },
+        {
+            "text": "conflict",
+            "meaning": "çatışma"
+        },
+        {
+            "text": "solution",
+            "meaning": "çözüm"
+        },
+        {
+            "text": "crisis",
+            "meaning": "kriz"
+        },
+        {
+            "text": "resource",
+            "meaning": "kaynak"
+        }
+    ]
+}

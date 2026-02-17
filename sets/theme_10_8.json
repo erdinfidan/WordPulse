@@ -1,0 +1,66 @@
+{
+    "setId": "theme_10_8",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "technology",
+            "meaning": "teknoloji"
+        },
+        {
+            "text": "device",
+            "meaning": "cihaz"
+        },
+        {
+            "text": "internet",
+            "meaning": "internet"
+        },
+        {
+            "text": "network",
+            "meaning": "ağ"
+        },
+        {
+            "text": "software",
+            "meaning": "yazılım"
+        },
+        {
+            "text": "hardware",
+            "meaning": "donanım"
+        },
+        {
+            "text": "data",
+            "meaning": "veri"
+        },
+        {
+            "text": "privacy",
+            "meaning": "gizlilik"
+        },
+        {
+            "text": "security",
+            "meaning": "güvenlik"
+        },
+        {
+            "text": "AI",
+            "meaning": "yapay zeka"
+        },
+        {
+            "text": "robotics",
+            "meaning": "robotik"
+        },
+        {
+            "text": "virtual",
+            "meaning": "sanal"
+        },
+        {
+            "text": "digital",
+            "meaning": "dijital"
+        },
+        {
+            "text": "connect",
+            "meaning": "bağlanmak"
+        },
+        {
+            "text": "upload",
+            "meaning": "yüklemek"
+        }
+    ]
+}

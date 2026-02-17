@@ -1,0 +1,66 @@
+{
+    "setId": "theme_12_4",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "nature",
+            "meaning": "doğa"
+        },
+        {
+            "text": "wildlife",
+            "meaning": "vahşi yaşam"
+        },
+        {
+            "text": "ecosystem",
+            "meaning": "ekosistem"
+        },
+        {
+            "text": "forest",
+            "meaning": "orman"
+        },
+        {
+            "text": "species",
+            "meaning": "tür"
+        },
+        {
+            "text": "extinction",
+            "meaning": "yok oluş"
+        },
+        {
+            "text": "protection",
+            "meaning": "koruma"
+        },
+        {
+            "text": "conservation",
+            "meaning": "koruma"
+        },
+        {
+            "text": "climate",
+            "meaning": "iklim"
+        },
+        {
+            "text": "disaster",
+            "meaning": "felaket"
+        },
+        {
+            "text": "earthquake",
+            "meaning": "deprem"
+        },
+        {
+            "text": "volcano",
+            "meaning": "volkan"
+        },
+        {
+            "text": "flood",
+            "meaning": "sel"
+        },
+        {
+            "text": "landscape",
+            "meaning": "manzara"
+        },
+        {
+            "text": "natural resource",
+            "meaning": "doğal kaynak"
+        }
+    ]
+}

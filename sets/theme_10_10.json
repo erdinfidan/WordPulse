@@ -1,0 +1,66 @@
+{
+    "setId": "theme_10_10",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "media",
+            "meaning": "medya"
+        },
+        {
+            "text": "broadcast",
+            "meaning": "yayın"
+        },
+        {
+            "text": "channel",
+            "meaning": "kanal"
+        },
+        {
+            "text": "viewer",
+            "meaning": "izleyici"
+        },
+        {
+            "text": "audience",
+            "meaning": "seyirci"
+        },
+        {
+            "text": "episode",
+            "meaning": "bölüm"
+        },
+        {
+            "text": "series",
+            "meaning": "dizi"
+        },
+        {
+            "text": "documentary",
+            "meaning": "belgesel"
+        },
+        {
+            "text": "contestant",
+            "meaning": "yarışmacı"
+        },
+        {
+            "text": "journalist",
+            "meaning": "gazeteci"
+        },
+        {
+            "text": "headline",
+            "meaning": "manşet"
+        },
+        {
+            "text": "report",
+            "meaning": "haber"
+        },
+        {
+            "text": "advertisement",
+            "meaning": "reklam"
+        },
+        {
+            "text": "interview",
+            "meaning": "röportaj"
+        },
+        {
+            "text": "editor",
+            "meaning": "editör"
+        }
+    ]
+}

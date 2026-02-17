@@ -1,0 +1,66 @@
+{
+    "setId": "theme_11_10",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "celebration",
+            "meaning": "kutlama"
+        },
+        {
+            "text": "event",
+            "meaning": "etkinlik"
+        },
+        {
+            "text": "invitation",
+            "meaning": "davetiye"
+        },
+        {
+            "text": "guest",
+            "meaning": "misafir"
+        },
+        {
+            "text": "decorate",
+            "meaning": "süslemek"
+        },
+        {
+            "text": "tradition",
+            "meaning": "gelenek"
+        },
+        {
+            "text": "prepare",
+            "meaning": "hazırlamak"
+        },
+        {
+            "text": "surprise",
+            "meaning": "sürpriz"
+        },
+        {
+            "text": "gift",
+            "meaning": "hediye"
+        },
+        {
+            "text": "anniversary",
+            "meaning": "yıl dönümü"
+        },
+        {
+            "text": "ceremony",
+            "meaning": "tören"
+        },
+        {
+            "text": "performance",
+            "meaning": "gösteri"
+        },
+        {
+            "text": "host",
+            "meaning": "ev sahibi"
+        },
+        {
+            "text": "attend",
+            "meaning": "katılmak"
+        },
+        {
+            "text": "holiday",
+            "meaning": "tatil / bayram"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "setId": "theme_9_6",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "community",
+            "meaning": "toplum"
+        },
+        {
+            "text": "neighbor",
+            "meaning": "komşu"
+        },
+        {
+            "text": "citizen",
+            "meaning": "vatandaş"
+        },
+        {
+            "text": "volunteer",
+            "meaning": "gönüllü"
+        },
+        {
+            "text": "support",
+            "meaning": "desteklemek"
+        },
+        {
+            "text": "help",
+            "meaning": "yardım etmek"
+        },
+        {
+            "text": "event",
+            "meaning": "etkinlik"
+        },
+        {
+            "text": "social",
+            "meaning": "sosyal"
+        },
+        {
+            "text": "care",
+            "meaning": "bakmak"
+        },
+        {
+            "text": "responsibility",
+            "meaning": "sorumluluk"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "setId": "theme_11_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "tourist",
+            "meaning": "turist"
+        },
+        {
+            "text": "destination",
+            "meaning": "destinasyon"
+        },
+        {
+            "text": "accommodation",
+            "meaning": "konaklama"
+        },
+        {
+            "text": "guide",
+            "meaning": "rehber"
+        },
+        {
+            "text": "reservation",
+            "meaning": "rezervasyon"
+        },
+        {
+            "text": "trip",
+            "meaning": "gezi"
+        },
+        {
+            "text": "journey",
+            "meaning": "yolculuk"
+        },
+        {
+            "text": "transportation",
+            "meaning": "ulaşım"
+        },
+        {
+            "text": "adventure",
+            "meaning": "macera"
+        },
+        {
+            "text": "landmark",
+            "meaning": "simgesel yapı"
+        },
+        {
+            "text": "heritage",
+            "meaning": "miras"
+        },
+        {
+            "text": "attraction",
+            "meaning": "cazibe noktası"
+        },
+        {
+            "text": "itinerary",
+            "meaning": "tur programı"
+        },
+        {
+            "text": "souvenir",
+            "meaning": "hatıra"
+        },
+        {
+            "text": "explore",
+            "meaning": "keşfetmek"
+        }
+    ]
+}
