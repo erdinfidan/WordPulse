@@ -3,92 +3,164 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "family",
-            "meaning": "aile"
+            "meaning": "Sıra",
+            "text": "Desk"
         },
         {
-            "text": "mother",
-            "meaning": "anne"
+            "meaning": "Kalem",
+            "text": "Pencil"
         },
         {
-            "text": "father",
-            "meaning": "baba"
+            "meaning": "Defter",
+            "text": "Notebook"
         },
         {
-            "text": "sister",
-            "meaning": "kız kardeş"
+            "meaning": "Kitap",
+            "text": "Book"
         },
         {
-            "text": "brother",
-            "meaning": "erkek kardeş"
+            "meaning": "Çanta",
+            "text": "Bag"
         },
         {
-            "text": "grandmother",
-            "meaning": "büyükanne"
+            "meaning": "Ders / Konu",
+            "text": "Subject"
         },
         {
-            "text": "grandfather",
-            "meaning": "büyükbaba"
+            "meaning": "Teneffüs",
+            "text": "Break time"
         },
         {
-            "text": "aunt",
-            "meaning": "teyze / hala"
+            "meaning": "Ödev",
+            "text": "Homework"
         },
         {
-            "text": "uncle",
-            "meaning": "amca / dayı"
+            "meaning": "Sınav",
+            "text": "Exam"
         },
         {
-            "text": "cousin",
-            "meaning": "kuzen"
+            "meaning": "Müdür",
+            "text": "Principal"
         },
         {
-            "text": "parents",
-            "meaning": "ebeveynler"
+            "meaning": "Ders",
+            "text": "Lesson"
         },
         {
-            "text": "relative",
-            "meaning": "akraba"
+            "meaning": "Görev / Ödev",
+            "text": "Assignment"
         },
         {
-            "text": "baby",
-            "meaning": "bebek"
+            "meaning": "Tükenmez kalem",
+            "text": "Pen"
         },
         {
-            "text": "child",
-            "meaning": "çocuk"
+            "meaning": "Silgi",
+            "text": "Eraser"
         },
         {
-            "text": "family tree",
-            "meaning": "aile ağacı"
+            "meaning": "Açacak",
+            "text": "Sharpener"
         },
         {
-            "text": "children",
-            "meaning": "çocuklar"
+            "text": "Bookshelf",
+            "meaning": "Kitaplık"
         },
         {
-            "text": "friend",
-            "meaning": "arkadaş"
+            "text": "Seat",
+            "meaning": "Oturak"
         },
         {
-            "text": "best friend",
-            "meaning": "en iyi arkadaş"
+            "text": "Rubbish bin",
+            "meaning": "Çöp kutusu"
         },
         {
-            "text": "classmate",
-            "meaning": "sınıf arkadaşı"
+            "text": "Smart board",
+            "meaning": "Akıllı tahta"
         },
         {
-            "text": "neighbor",
-            "meaning": "komşu"
+            "text": "Dictionary",
+            "meaning": "Sözlük"
         },
         {
-            "text": "support",
-            "meaning": "desteklemek"
+            "text": "Timetable",
+            "meaning": "Ders programı"
         },
         {
-            "text": "share",
-            "meaning": "paylaşmak"
+            "text": "Pencil case",
+            "meaning": "Kalemlik"
+        },
+        {
+            "text": "Board marker",
+            "meaning": "Tahta kalemi"
+        },
+        {
+            "text": "Sheet",
+            "meaning": "Kağıt"
+        },
+        {
+            "text": "Crayon",
+            "meaning": "Boya"
+        },
+        {
+            "text": "Social Studies",
+            "meaning": "Sosyal bilgiler"
+        },
+        {
+            "text": "Physical Education",
+            "meaning": "Beden eğitimi"
+        },
+        {
+            "text": "Religion and Morals",
+            "meaning": "Din kültürü"
+        },
+        {
+            "text": "Information Technologies",
+            "meaning": "Bilişim Teknolojileri"
+        },
+        {
+            "text": "Foreign Language",
+            "meaning": "Yabancı dil"
+        },
+        {
+            "text": "Elective Lesson",
+            "meaning": "Seçmeli ders"
+        },
+        {
+            "text": "Monday",
+            "meaning": "Pazartesi"
+        },
+        {
+            "text": "Tuesday",
+            "meaning": "Salı"
+        },
+        {
+            "text": "Wednesday",
+            "meaning": "Çarşamba"
+        },
+        {
+            "text": "Thursday",
+            "meaning": "Perşembe"
+        },
+        {
+            "text": "Friday",
+            "meaning": "Cuma"
+        },
+        {
+            "text": "Saturday",
+            "meaning": "Cumartesi"
+        },
+        {
+            "text": "Sunday",
+            "meaning": "Pazar"
+        },
+        {
+            "text": "Weekend",
+            "meaning": "Haftasonu"
+        },
+        {
+            "text": "Weekday",
+            "meaning": "Haftaiçi"
         }
     ]
 }

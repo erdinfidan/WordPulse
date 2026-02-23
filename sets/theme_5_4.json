@@ -3,96 +3,80 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "town",
-            "meaning": "kasaba"
+            "meaning": "aile",
+            "text": "family"
         },
         {
-            "text": "city",
-            "meaning": "şehir"
+            "meaning": "anne",
+            "text": "mother"
         },
         {
-            "text": "street",
-            "meaning": "sokak"
+            "meaning": "baba",
+            "text": "father"
         },
         {
-            "text": "park",
-            "meaning": "park"
+            "meaning": "kız kardeş",
+            "text": "sister"
         },
         {
-            "text": "hospital",
-            "meaning": "hastane"
+            "meaning": "erkek kardeş",
+            "text": "brother"
         },
         {
-            "text": "bank",
-            "meaning": "banka"
+            "meaning": "büyükanne",
+            "text": "grandmother"
         },
         {
-            "text": "school",
-            "meaning": "okul"
+            "meaning": "büyükbaba",
+            "text": "grandfather"
         },
         {
-            "text": "market",
-            "meaning": "pazar / market"
+            "meaning": "teyze / hala",
+            "text": "aunt"
         },
         {
-            "text": "restaurant",
-            "meaning": "restoran"
+            "meaning": "amca / dayı",
+            "text": "uncle"
         },
         {
-            "text": "bus stop",
-            "meaning": "otobüs durağı"
+            "meaning": "kuzen",
+            "text": "cousin"
         },
         {
-            "text": "traffic light",
-            "meaning": "trafik ışığı"
+            "meaning": "ebeveynler",
+            "text": "parents"
         },
         {
-            "text": "bridge",
-            "meaning": "köprü"
+            "meaning": "akraba",
+            "text": "relative"
         },
         {
-            "text": "post office",
-            "meaning": "postane"
+            "meaning": "yüzmek",
+            "text": "swim"
         },
         {
-            "text": "near",
-            "meaning": "yakın"
+            "meaning": "okumak",
+            "text": "read"
         },
         {
-            "text": "far",
-            "meaning": "uzak"
+            "meaning": "futbol oynamak",
+            "text": "play football"
         },
         {
-            "text": "village",
-            "meaning": "köy"
+            "meaning": "bisiklete binmek",
+            "text": "ride a bike"
         },
         {
-            "text": "road",
-            "meaning": "yol"
+            "meaning": "toplamak / biriktirmek",
+            "text": "collect"
         },
         {
-            "text": "supermarket",
-            "meaning": "süpermarket"
+            "meaning": "koşmak",
+            "text": "run"
         },
         {
-            "text": "train station",
-            "meaning": "tren garı"
-        },
-        {
-            "text": "pharmacy",
-            "meaning": "eczane"
-        },
-        {
-            "text": "police station",
-            "meaning": "polis merkezi"
-        },
-        {
-            "text": "fire station",
-            "meaning": "itfaiye"
-        },
-        {
-            "text": "sign",
-            "meaning": "işaret"
+            "meaning": "televizyon izlemek",
+            "text": "watch TV"
         }
     ]
 }

@@ -3,300 +3,256 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "Library",
-            "meaning": "kütüphane"
+            "meaning": "Kütüphane",
+            "text": "Library"
         },
         {
-            "text": "Headmaster",
-            "meaning": "okul müdürü"
+            "meaning": "Okul müdürü",
+            "text": "Headmaster"
         },
         {
-            "text": "teacher",
-            "meaning": "öğretmen"
+            "meaning": "Öğretmen",
+            "text": "Teacher"
         },
         {
-            "text": "secretary",
-            "meaning": "sekreter"
+            "meaning": "Sekreter",
+            "text": "Secretary"
         },
         {
-            "text": "coach",
-            "meaning": "antrenör"
+            "meaning": "Antrenör",
+            "text": "Coach"
         },
         {
-            "text": "assistant",
-            "meaning": "yardımcı personel"
+            "meaning": "Yardımcı personel",
+            "text": "Assistant"
         },
         {
-            "text": "student",
-            "meaning": "öğrenci"
+            "meaning": "Öğrenci",
+            "text": "Student"
         },
         {
-            "text": "caretaker",
-            "meaning": "bekçi / görevli"
+            "meaning": "Sınıf",
+            "text": "Classroom"
         },
         {
-            "text": "classroom",
-            "meaning": "sınıf"
+            "meaning": "Laboratuvar",
+            "text": "Lab"
         },
         {
-            "text": "lab",
-            "meaning": "laboratuvar"
+            "meaning": "Spor alanı",
+            "text": "Sports field"
         },
         {
-            "text": "sports field",
-            "meaning": "spor alanı"
+            "meaning": "Kantin",
+            "text": "Canteen"
         },
         {
-            "text": "canteen",
-            "meaning": "kantin"
+            "meaning": "Konferans salonu",
+            "text": "Conference hall"
         },
         {
-            "text": "conference hall",
-            "meaning": "konferans salonu"
+            "meaning": "İdari bölüm",
+            "text": "Administration department"
         },
         {
-            "text": "administration department",
-            "meaning": "idari bölüm"
+            "meaning": "Kapı",
+            "text": "Gate"
         },
         {
-            "text": "gate",
-            "meaning": "okul kapısı"
+            "meaning": "Üniforma",
+            "text": "Uniform"
         },
         {
-            "text": "uniform",
-            "meaning": "üniforma"
+            "meaning": "Bağırmak",
+            "text": "Shouting"
         },
         {
-            "text": "no shouting",
-            "meaning": "bağırmak yok"
+            "meaning": "Çözmek",
+            "text": "Solve"
         },
         {
-            "text": "follow the rules",
-            "meaning": "kurallara uy"
+            "meaning": "Drama kulübü",
+            "text": "Drama club"
         },
         {
-            "text": "to organise",
-            "meaning": "düzenlemek"
+            "meaning": "Matematik kulübü",
+            "text": "Maths club"
         },
         {
-            "text": "to solve",
-            "meaning": "çözmek"
+            "meaning": "Sanat kulübü",
+            "text": "Art club"
         },
         {
-            "text": "to arrange",
-            "meaning": "ayarlamak"
+            "meaning": "Müzik kulübü",
+            "text": "Music club"
         },
         {
-            "text": "School Clubs",
-            "meaning": "Okul kulüpleri"
+            "meaning": "Spor kulübü",
+            "text": "Sports club"
         },
         {
-            "text": "drama club",
-            "meaning": "drama kulübü"
+            "meaning": "Bilim kulübü",
+            "text": "Science club"
         },
         {
-            "text": "maths club",
-            "meaning": "matematik kulübü"
+            "meaning": "Satranç kulübü",
+            "text": "Chess club"
         },
         {
-            "text": "art club",
-            "meaning": "sanat kulübü"
+            "meaning": "Çevre kulübü",
+            "text": "Environment club"
         },
         {
-            "text": "music club",
-            "meaning": "müzik kulübü"
+            "meaning": "Halk dansı kulübü",
+            "text": "Folk dance club"
         },
         {
-            "text": "sports club",
-            "meaning": "spor kulübü"
+            "meaning": "Ülke",
+            "text": "Country"
         },
         {
-            "text": "science club",
-            "meaning": "bilim kulübü"
+            "meaning": "Türkiye",
+            "text": "Türkiye"
         },
         {
-            "text": "film club",
-            "meaning": "film kulübü"
+            "meaning": "Amerika Birleşik Devletleri",
+            "text": "The United States of America (USA)"
         },
         {
-            "text": "chess club",
-            "meaning": "satranç kulübü"
+            "meaning": "Birleşik Krallık",
+            "text": "The United Kingdom (UK)"
         },
         {
-            "text": "environment club",
-            "meaning": "çevre kulübü"
+            "meaning": "Kanada",
+            "text": "Canada"
         },
         {
-            "text": "folk dance club",
-            "meaning": "halk dansı kulübü"
+            "meaning": "Avustralya",
+            "text": "Australia"
         },
         {
-            "text": "Country",
-            "meaning": "Ülke"
+            "meaning": "Fransa",
+            "text": "France"
         },
         {
-            "text": "Turkey",
-            "meaning": "Türkiye"
+            "meaning": "İtalya",
+            "text": "Italy"
         },
         {
-            "text": "The United States of America (USA)",
-            "meaning": "Amerika Birleşik Devletleri"
+            "meaning": "İspanya",
+            "text": "Spain"
         },
         {
-            "text": "The United Kingdom (UK)",
-            "meaning": "Birleşik Krallık"
+            "meaning": "Arjantin",
+            "text": "Argentina"
         },
         {
-            "text": "Canada",
-            "meaning": "Kanada"
+            "meaning": "Brezilya",
+            "text": "Brazil"
         },
         {
-            "text": "Australia",
-            "meaning": "Avustralya"
+            "meaning": "Çin",
+            "text": "China"
         },
         {
-            "text": "France",
-            "meaning": "Fransa"
+            "meaning": "Japonya",
+            "text": "Japan"
         },
         {
-            "text": "Italy",
-            "meaning": "İtalya"
+            "meaning": "Meksika",
+            "text": "Mexico"
         },
         {
-            "text": "Spain",
-            "meaning": "İspanya"
+            "meaning": "Rusya",
+            "text": "Russia"
         },
         {
-            "text": "Argentina",
-            "meaning": "Arjantin"
+            "meaning": "Güney Kore",
+            "text": "South Korea"
         },
         {
-            "text": "Brazil",
-            "meaning": "Brezilya"
+            "meaning": "Azerbaycan",
+            "text": "Azerbaijan"
         },
         {
-            "text": "China",
-            "meaning": "Çin"
+            "meaning": "Özbekistan",
+            "text": "Uzbekistan"
         },
         {
-            "text": "Japan",
-            "meaning": "Japonya"
+            "meaning": "Türkmenistan",
+            "text": "Turkmenistan"
         },
         {
-            "text": "Mexico",
-            "meaning": "Meksika"
+            "meaning": "Kuzey Kıbrıs Türk Cumhuriyeti",
+            "text": "Turkish Republic of Northern Cyprus"
         },
         {
-            "text": "Russia",
-            "meaning": "Rusya"
+            "meaning": "Kazakistan",
+            "text": "Kazakhstan"
         },
         {
-            "text": "South Korea",
-            "meaning": "Güney Kore"
+            "meaning": "Kırgızistan",
+            "text": "Kyrgyzstan"
         },
         {
-            "text": "Azerbaijan",
-            "meaning": "Azerbaycan"
+            "text": "Rule",
+            "meaning": "Kural"
         },
         {
-            "text": "Uzbekistan",
-            "meaning": "Özbekistan"
+            "text": "Place",
+            "meaning": "Yer"
         },
         {
-            "text": "Turkmenistan",
-            "meaning": "Türkmenistan"
+            "text": "People",
+            "meaning": "İnsan"
         },
         {
-            "text": "Turkish Republic of Northern Cyprus",
-            "meaning": "Kuzey Kıbrıs Türk Cumhuriyeti"
+            "text": "National day",
+            "meaning": "Milli bayram"
         },
         {
-            "text": "Kazakhstan",
-            "meaning": "Kazakistan"
+            "text": "Lower secondary school",
+            "meaning": "Ortaokul"
         },
         {
-            "text": "Kyrgyzstan",
-            "meaning": "Kırgızistan"
+            "text": "Chew gum",
+            "meaning": "Sakız çiğnemek"
         },
         {
-            "text": "hello",
-            "meaning": "merhaba"
+            "text": "Flag",
+            "meaning": "Bayrak"
         },
         {
-            "text": "hi",
-            "meaning": "selam"
+            "text": "Germany",
+            "meaning": "Almanya"
         },
         {
-            "text": "good morning",
-            "meaning": "günaydın"
+            "text": "Greece",
+            "meaning": "Yunanistan"
         },
         {
-            "text": "good afternoon",
-            "meaning": "iyi öğleden sonra"
+            "text": "Scotland",
+            "meaning": "İskoçya"
         },
         {
-            "text": "good evening",
-            "meaning": "iyi akşamlar"
+            "text": "Victory Day",
+            "meaning": "Zafer Bayramı"
         },
         {
-            "text": "good night",
-            "meaning": "iyi geceler"
+            "text": "Republic Day",
+            "meaning": "Cumhuriyet Bayramı"
         },
         {
-            "text": "how are you",
-            "meaning": "nasılsın"
+            "text": "Children's Day",
+            "meaning": "Çocuk Bayramı"
         },
         {
-            "text": "I’m fine",
-            "meaning": "iyiyim"
+            "text": "Eid al-Fitr",
+            "meaning": "Ramazan Bayramı"
         },
         {
-            "text": "thank you",
-            "meaning": "teşekkür ederim"
-        },
-        {
-            "text": "you’re welcome",
-            "meaning": "rica ederim"
-        },
-        {
-            "text": "please",
-            "meaning": "lütfen"
-        },
-        {
-            "text": "excuse me",
-            "meaning": "affedersiniz"
-        },
-        {
-            "text": "sorry",
-            "meaning": "üzgünüm"
-        },
-        {
-            "text": "see you",
-            "meaning": "görüşürüz"
-        },
-        {
-            "text": "bye",
-            "meaning": "hoşça kal"
-        },
-        {
-            "text": "name",
-            "meaning": "isim"
-        },
-        {
-            "text": "my name is…",
-            "meaning": "benim adım…"
-        },
-        {
-            "text": "what’s your name?",
-            "meaning": "adın ne?"
-        },
-        {
-            "text": "age",
-            "meaning": "yaş"
-        },
-        {
-            "text": "how old are you?",
-            "meaning": "kaç yaşındasın?"
+            "text": "Eid al-Adha",
+            "meaning": "Kurban Bayramı"
         }
     ]
 }

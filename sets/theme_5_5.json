@@ -3,96 +3,96 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "hobby",
-            "meaning": "hobi"
+            "text": "town",
+            "meaning": "kasaba"
         },
         {
-            "text": "draw",
-            "meaning": "çizmek"
+            "text": "city",
+            "meaning": "şehir"
         },
         {
-            "text": "paint",
-            "meaning": "boyamak"
+            "text": "street",
+            "meaning": "sokak"
         },
         {
-            "text": "dance",
-            "meaning": "dans etmek"
+            "text": "park",
+            "meaning": "park"
         },
         {
-            "text": "sing",
-            "meaning": "şarkı söylemek"
+            "text": "hospital",
+            "meaning": "hastane"
         },
         {
-            "text": "swim",
-            "meaning": "yüzmek"
+            "text": "bank",
+            "meaning": "banka"
         },
         {
-            "text": "read",
-            "meaning": "okumak"
+            "text": "school",
+            "meaning": "okul"
         },
         {
-            "text": "play football",
-            "meaning": "futbol oynamak"
+            "text": "market",
+            "meaning": "pazar / market"
         },
         {
-            "text": "ride a bike",
-            "meaning": "bisiklete binmek"
+            "text": "restaurant",
+            "meaning": "restoran"
         },
         {
-            "text": "collect",
-            "meaning": "toplamak / biriktirmek"
+            "text": "bus stop",
+            "meaning": "otobüs durağı"
         },
         {
-            "text": "listen to music",
-            "meaning": "müzik dinlemek"
+            "text": "traffic light",
+            "meaning": "trafik ışığı"
         },
         {
-            "text": "exercise",
-            "meaning": "egzersiz"
+            "text": "bridge",
+            "meaning": "köprü"
         },
         {
-            "text": "chess",
-            "meaning": "satranç"
+            "text": "post office",
+            "meaning": "postane"
         },
         {
-            "text": "puzzle",
-            "meaning": "bulmaca"
+            "text": "near",
+            "meaning": "yakın"
         },
         {
-            "text": "activity",
-            "meaning": "aktivite"
+            "text": "far",
+            "meaning": "uzak"
         },
         {
-            "text": "free time",
-            "meaning": "boş zaman"
+            "text": "village",
+            "meaning": "köy"
         },
         {
-            "text": "play",
-            "meaning": "oynamak"
+            "text": "road",
+            "meaning": "yol"
         },
         {
-            "text": "game",
-            "meaning": "oyun"
+            "text": "supermarket",
+            "meaning": "süpermarket"
         },
         {
-            "text": "book",
-            "meaning": "kitap"
+            "text": "train station",
+            "meaning": "tren garı"
         },
         {
-            "text": "run",
-            "meaning": "koşmak"
+            "text": "pharmacy",
+            "meaning": "eczane"
         },
         {
-            "text": "watch TV",
-            "meaning": "televizyon izlemek"
+            "text": "police station",
+            "meaning": "polis merkezi"
         },
         {
-            "text": "sports",
-            "meaning": "spor"
+            "text": "fire station",
+            "meaning": "itfaiye"
         },
         {
-            "text": "club",
-            "meaning": "kulüp"
+            "text": "sign",
+            "meaning": "işaret"
         }
     ]
 }

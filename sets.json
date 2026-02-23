@@ -1,6 +1,6 @@
 {
     "version": "1.2.0",
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-24",
     "sets": [
         {
             "id": "conjunctions_contrast",
@@ -481,63 +481,63 @@
         {
             "id": "theme_5_1",
             "name": "Theme 1",
-            "description": "",
+            "description": "SCHOOL LIFE",
             "icon": "🔥",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 5",
-            "wordCount": 74,
+            "wordCount": 63,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_5_1.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-02-24"
         },
         {
             "id": "theme_5_2",
             "name": "Theme 2",
-            "description": "",
+            "description": "CLASSROOM LIFE",
             "icon": "🔥",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 5",
-            "wordCount": 22,
+            "wordCount": 40,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_5_2.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-02-24"
         },
         {
             "id": "theme_5_3",
             "name": "Theme 3",
-            "description": "",
+            "description": "PERSONAL LIFE",
             "icon": "🔥",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 5",
-            "wordCount": 24,
+            "wordCount": 45,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_5_3.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-02-24"
         },
         {
             "id": "theme_5_4",
             "name": "Theme 4",
-            "description": "",
+            "description": "FAMILY LIFE",
             "icon": "🔥",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 5",
-            "wordCount": 23,
+            "wordCount": 19,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_5_4.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-02-24"
         },
         {
             "id": "theme_5_5",
             "name": "Theme 5",
-            "description": "",
+            "description": "LIFE IN THE NEIGHBOURHOOD / CITY",
             "icon": "🔥",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 5",
@@ -1541,6 +1541,20 @@
             "difficulty": "intermediate",
             "version": "1.0.0",
             "lastUpdated": "2026-02-17"
+        },
+        {
+            "id": "set_30",
+            "name": "SET 30",
+            "description": "",
+            "icon": "⏰",
+            "category": "AKADEMİK",
+            "subCategory": "YÖKDİL",
+            "wordCount": 25,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/set_30.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-24"
         }
     ]
 }

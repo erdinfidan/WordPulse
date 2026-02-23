@@ -3,100 +3,184 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "school",
-            "meaning": "okul"
+            "meaning": "Kafa",
+            "text": "Head"
         },
         {
-            "text": "classroom",
-            "meaning": "sınıf"
+            "meaning": "Yüz",
+            "text": "Face"
         },
         {
-            "text": "teacher",
-            "meaning": "öğretmen"
+            "meaning": "Göz",
+            "text": "Eye"
         },
         {
-            "text": "student",
-            "meaning": "öğrenci"
+            "meaning": "Kulak",
+            "text": "Ear"
         },
         {
-            "text": "desk",
-            "meaning": "sıra"
+            "meaning": "Burun",
+            "text": "Nose"
         },
         {
-            "text": "board",
-            "meaning": "tahta"
+            "meaning": "Ağız",
+            "text": "Mouth"
         },
         {
-            "text": "pencil",
-            "meaning": "kalem"
+            "meaning": "Saç",
+            "text": "Hair"
         },
         {
-            "text": "notebook",
-            "meaning": "defter"
+            "meaning": "Kol",
+            "text": "Arm"
         },
         {
-            "text": "book",
-            "meaning": "kitap"
+            "meaning": "El",
+            "text": "Hand"
         },
         {
-            "text": "bag",
-            "meaning": "çanta"
+            "meaning": "Bacak",
+            "text": "Leg"
         },
         {
-            "text": "subject",
-            "meaning": "ders konusu"
+            "meaning": "Ayak",
+            "text": "Foot"
         },
         {
-            "text": "break time",
-            "meaning": "teneffüs"
+            "meaning": "Parmak",
+            "text": "Finger"
         },
         {
-            "text": "homework",
-            "meaning": "ödev"
+            "meaning": "Kıyafet",
+            "text": "Cloth"
         },
         {
-            "text": "exam",
-            "meaning": "sınav"
+            "meaning": "Gömlek",
+            "text": "Shirt"
         },
         {
-            "text": "library",
-            "meaning": "kütüphane"
+            "meaning": "Tişört",
+            "text": "T-shirt"
         },
         {
-            "text": "principal",
-            "meaning": "müdür"
+            "meaning": "Pantolon",
+            "text": "Pants"
         },
         {
-            "text": "lesson",
-            "meaning": "ders"
+            "meaning": "Şort",
+            "text": "Shorts"
         },
         {
-            "text": "assignment",
-            "meaning": "görev / ödev"
+            "meaning": "Etek",
+            "text": "Skirt"
         },
         {
-            "text": "test",
-            "meaning": "test"
+            "meaning": "Elbise",
+            "text": "Dress"
         },
         {
-            "text": "break",
-            "meaning": "teneffüs"
+            "meaning": "Ayakkabılar",
+            "text": "Shoes"
         },
         {
-            "text": "pen",
-            "meaning": "tükenmez kalem"
+            "meaning": "Şapka",
+            "text": "Hat"
         },
         {
-            "text": "eraser",
-            "meaning": "silgi"
+            "meaning": "Kep",
+            "text": "Cap"
         },
         {
-            "text": "sharpener",
-            "meaning": "açacak"
+            "meaning": "Ceket",
+            "text": "Jacket"
         },
         {
-            "text": "chair",
-            "meaning": "sandalye"
+            "meaning": "Mont",
+            "text": "Coat"
+        },
+        {
+            "meaning": "Uyanmak",
+            "text": "Wake up"
+        },
+        {
+            "meaning": "Kalkmak",
+            "text": "Get up"
+        },
+        {
+            "meaning": "Yüz yıkamak",
+            "text": "Wash face"
+        },
+        {
+            "meaning": "Diş fırçalamak",
+            "text": "Brush teeth"
+        },
+        {
+            "meaning": "Kahvaltı yapmak",
+            "text": "Have breakfast"
+        },
+        {
+            "meaning": "Ders çalışmak",
+            "text": "Study"
+        },
+        {
+            "meaning": "Öğle yemeği yemek",
+            "text": "Have lunch"
+        },
+        {
+            "meaning": "Ödev yapmak",
+            "text": "Do homework"
+        },
+        {
+            "meaning": "Yatağa gitmek",
+            "text": "Go to bed"
+        },
+        {
+            "meaning": "Uyumak",
+            "text": "Sleep"
+        },
+        {
+            "meaning": "Okumak",
+            "text": "Read"
+        },
+        {
+            "meaning": "Dinlemek",
+            "text": "Listen"
+        },
+        {
+            "meaning": "Konuşmak",
+            "text": "Talk"
+        },
+        {
+            "meaning": "Her zaman",
+            "text": "Always"
+        },
+        {
+            "meaning": "Genellikle",
+            "text": "Usually"
+        },
+        {
+            "meaning": "Sık sık",
+            "text": "Often"
+        },
+        {
+            "meaning": "Bazen",
+            "text": "Sometimes"
+        },
+        {
+            "meaning": "Asla",
+            "text": "Never"
+        },
+        {
+            "text": "Scarf",
+            "meaning": "Atkı / şal"
+        },
+        {
+            "text": "Gloves",
+            "meaning": "Eldiven"
+        },
+        {
+            "text": "Umbrella",
+            "meaning": "Şemsiye"
         }
     ]
 }
