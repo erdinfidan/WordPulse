@@ -1555,6 +1555,20 @@
             "difficulty": "intermediate",
             "version": "1.0.0",
             "lastUpdated": "2026-02-24"
+        },
+        {
+            "id": "son_vuru_kelimeler",
+            "name": "SON VURUŞ KELİMELER",
+            "description": "",
+            "icon": "🔗",
+            "category": "AKADEMİK",
+            "subCategory": "YÖKDİL",
+            "wordCount": 110,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/son_vuru_kelimeler.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-02-24"
         }
     ]
 }

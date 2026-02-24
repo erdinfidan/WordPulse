@@ -1,0 +1,446 @@
+{
+    "setId": "son_vuru_kelimeler",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "deteriorate",
+            "meaning": "bozulmak, fenalaşmak, kötüleşmek"
+        },
+        {
+            "text": "diminish",
+            "meaning": "azalmak, azaltmak"
+        },
+        {
+            "text": "elaborate",
+            "meaning": "ayrıntılandırmak, detaylandırmak"
+        },
+        {
+            "text": "substitute",
+            "meaning": "yerine geçmek"
+        },
+        {
+            "text": "violate",
+            "meaning": "ihlal etmek"
+        },
+        {
+            "text": "sufficiently",
+            "meaning": "yeteri kadar, yeterli miktarda"
+        },
+        {
+            "text": "deliberately",
+            "meaning": "kasten, kasıtlı olarak"
+        },
+        {
+            "text": "randomly",
+            "meaning": "rastgele"
+        },
+        {
+            "text": "coherently",
+            "meaning": "tutarlı olarak, düzgün bir şekilde"
+        },
+        {
+            "text": "consistent",
+            "meaning": "istikrarlı, tutarlı"
+        },
+        {
+            "text": "applicable",
+            "meaning": "uygulanabilir"
+        },
+        {
+            "text": "ignorant",
+            "meaning": "bilgisiz, cahil"
+        },
+        {
+            "text": "essential",
+            "meaning": "ana, esas, gerekli"
+        },
+        {
+            "text": "resistant",
+            "meaning": "dirençli"
+        },
+        {
+            "text": "contribution",
+            "meaning": "katkı, katkı sağlama"
+        },
+        {
+            "text": "calculation",
+            "meaning": "hesap, hesaplama, öngörme"
+        },
+        {
+            "text": "persuasion",
+            "meaning": "ikna etme, inandırma"
+        },
+        {
+            "text": "accusation",
+            "meaning": "itham, suçlama"
+        },
+        {
+            "text": "restriction",
+            "meaning": "sınırlama, kısıtlama"
+        },
+        {
+            "text": "estimation",
+            "meaning": "tahmin, tahmin etme"
+        },
+        {
+            "text": "absence",
+            "meaning": "bulunmama, devamsızlık"
+        },
+        {
+            "text": "depletion",
+            "meaning": "tükenme"
+        },
+        {
+            "text": "equivalent",
+            "meaning": "eş değer, muadil, karşılık"
+        },
+        {
+            "text": "comprehension",
+            "meaning": "anlama, kavrama"
+        },
+        {
+            "text": "extensive",
+            "meaning": "yaygın, geniş"
+        },
+        {
+            "text": "viable",
+            "meaning": "yaşayabilir, uygulanabilir"
+        },
+        {
+            "text": "distinctive",
+            "meaning": "farklı, belirgin, kendine özgü"
+        },
+        {
+            "text": "successive",
+            "meaning": "art arda, birbirini izleyen"
+        },
+        {
+            "text": "ambiguous",
+            "meaning": "belirsiz, muğlak"
+        },
+        {
+            "text": "drastically",
+            "meaning": "sert şekilde, sert bir biçimde"
+        },
+        {
+            "text": "excessively",
+            "meaning": "aşırı, aşırı derecede"
+        },
+        {
+            "text": "presumably",
+            "meaning": "muhtemelen, galiba"
+        },
+        {
+            "text": "accurately",
+            "meaning": "tam olarak, doğru olarak"
+        },
+        {
+            "text": "sparsely",
+            "meaning": "yetersizce, seyrek olarak"
+        },
+        {
+            "text": "enact",
+            "meaning": "yasalaştırmak"
+        },
+        {
+            "text": "evaluate",
+            "meaning": "değerlendirmek"
+        },
+        {
+            "text": "promote",
+            "meaning": "desteklemek, tanıtımını yapmak"
+        },
+        {
+            "text": "arise",
+            "meaning": "ortaya çıkmak"
+        },
+        {
+            "text": "distribute",
+            "meaning": "dağıtmak, paylaştırmak"
+        },
+        {
+            "text": "run into",
+            "meaning": "karşılaşmak, denk gelmek"
+        },
+        {
+            "text": "account for",
+            "meaning": "izahat etmek, oluşmak, oluşturmak"
+        },
+        {
+            "text": "give up",
+            "meaning": "vazgeçmek"
+        },
+        {
+            "text": "bring down",
+            "meaning": "alt etmek, yıkmak, indirmek"
+        },
+        {
+            "text": "come through",
+            "meaning": "üstesinden gelmek"
+        },
+        {
+            "text": "come under",
+            "meaning": "yetki alanına girmek"
+        },
+        {
+            "text": "cut down",
+            "meaning": "kesmek, kısmak, azaltmak"
+        },
+        {
+            "text": "take over",
+            "meaning": "devralmak"
+        },
+        {
+            "text": "break away",
+            "meaning": "kopmak, ayrılmak"
+        },
+        {
+            "text": "turn off",
+            "meaning": "kapamak, söndürmek"
+        },
+        {
+            "text": "deal with",
+            "meaning": "ile ilgilenmek, üstesinden gelmek"
+        },
+        {
+            "text": "abstain from",
+            "meaning": "kaçınmak, uzaklaşmak"
+        },
+        {
+            "text": "set out",
+            "meaning": "başlamak, düzenlemek"
+        },
+        {
+            "text": "get off",
+            "meaning": "yırtmak, inmek, çıkmak"
+        },
+        {
+            "text": "go through",
+            "meaning": "kötü zaman geçirmek, yaşamak"
+        },
+        {
+            "text": "accuracy",
+            "meaning": "doğruluk, kesinlik"
+        },
+        {
+            "text": "exclusion",
+            "meaning": "hariç tutma, dışında bırakma"
+        },
+        {
+            "text": "acceptability",
+            "meaning": "kabul edilebilirlik"
+        },
+        {
+            "text": "assertion",
+            "meaning": "iddia, sav"
+        },
+        {
+            "text": "enhancement",
+            "meaning": "geliştirme, artırma"
+        },
+        {
+            "text": "compliment",
+            "meaning": "iltifat, övgü"
+        },
+        {
+            "text": "mishap",
+            "meaning": "aksilik, talihsizlik"
+        },
+        {
+            "text": "distribution",
+            "meaning": "dağıtma, dağılım"
+        },
+        {
+            "text": "unrelated",
+            "meaning": "ilgisiz, alakasız"
+        },
+        {
+            "text": "misleading",
+            "meaning": "yanıltıcı"
+        },
+        {
+            "text": "incompatible",
+            "meaning": "uyumsuz, bağdaşmayan"
+        },
+        {
+            "text": "imperceptible",
+            "meaning": "görülemez, fark edilmez"
+        },
+        {
+            "text": "unattainable",
+            "meaning": "başarılamaz, ele geçirilemez"
+        },
+        {
+            "text": "call for",
+            "meaning": "çağrıda bulunmak, talep etmek, istemek"
+        },
+        {
+            "text": "pass on",
+            "meaning": "devretmek, geçmek"
+        },
+        {
+            "text": "carry out",
+            "meaning": "yürütmek, yönetmek, yerine getirmek"
+        },
+        {
+            "text": "turn down",
+            "meaning": "reddetmek, geri çevirmek"
+        },
+        {
+            "text": "engage",
+            "meaning": "meşgul etmek, bağlamak"
+        },
+        {
+            "text": "harvest",
+            "meaning": "biçmek, toplamak"
+        },
+        {
+            "text": "sustain",
+            "meaning": "sürdürmek, devam ettirmek"
+        },
+        {
+            "text": "impact",
+            "meaning": "etkilemek"
+        },
+        {
+            "text": "nurture",
+            "meaning": "beslemek, bakmak"
+        },
+        {
+            "text": "distinguish",
+            "meaning": "ayırt etmek"
+        },
+        {
+            "text": "occupy",
+            "meaning": "işgal etmek, meşgul etmek"
+        },
+        {
+            "text": "surpass",
+            "meaning": "aşmak, geçmek"
+        },
+        {
+            "text": "facilitate",
+            "meaning": "kolaylaştırmak"
+        },
+        {
+            "text": "incredibly",
+            "meaning": "inanılmaz bir şekilde, son derece"
+        },
+        {
+            "text": "alternatively",
+            "meaning": "alternatif olarak"
+        },
+        {
+            "text": "abruptly",
+            "meaning": "aniden, birdenbire"
+        },
+        {
+            "text": "accidentally",
+            "meaning": "kazara, tesadüfen"
+        },
+        {
+            "text": "urgently",
+            "meaning": "acil olarak, acilen"
+        },
+        {
+            "text": "ward off",
+            "meaning": "defetmek, uzaklaştırmak"
+        },
+        {
+            "text": "conform to",
+            "meaning": "uymak, riayet etmek"
+        },
+        {
+            "text": "interfere with",
+            "meaning": "ile çatışmak, engellemek"
+        },
+        {
+            "text": "alleviate",
+            "meaning": "hafifletmek, azaltmak"
+        },
+        {
+            "text": "prolong",
+            "meaning": "uzatmak, süreyi uzatmak, devam ettirmek"
+        },
+        {
+            "text": "stringently",
+            "meaning": "bağlayıcı bir şekilde, zorlayıcı bir biçimde"
+        },
+        {
+            "text": "exponentially",
+            "meaning": "üssel, katsal olarak, katlanarak"
+        },
+        {
+            "text": "detrimentally",
+            "meaning": "zararlı bir şekilde"
+        },
+        {
+            "text": "prompt",
+            "meaning": "hızlı, çabuk, acele"
+        },
+        {
+            "text": "dispensable",
+            "meaning": "gözden çıkarılabilir"
+        },
+        {
+            "text": "expiration",
+            "meaning": "sona erme, süre sonu"
+        },
+        {
+            "text": "aggravation",
+            "meaning": "kötüleştirme, kötüleşme"
+        },
+        {
+            "text": "alienation",
+            "meaning": "yabancılaşma"
+        },
+        {
+            "text": "proliferation",
+            "meaning": "yaygınlaşma, çoğalma"
+        },
+        {
+            "text": "aversion",
+            "meaning": "isteksizlik, nefret, tiksinti"
+        },
+        {
+            "text": "align with",
+            "meaning": "... ile uygun / uyumlu hale gelmek"
+        },
+        {
+            "text": "mitigate",
+            "meaning": "rahatlamak, azaltmak"
+        },
+        {
+            "text": "overt",
+            "meaning": "açık, aleni"
+        },
+        {
+            "text": "inclination",
+            "meaning": "eğilim, meyil, yatkınlık"
+        },
+        {
+            "text": "deduction",
+            "meaning": "sonuç çıkarma, çıkarım, sonuç"
+        },
+        {
+            "text": "proximity",
+            "meaning": "yakınlık, yakın olma"
+        },
+        {
+            "text": "reminiscent",
+            "meaning": "hatırlatan, andıran, anımsatıcı"
+        },
+        {
+            "text": "exhaustion",
+            "meaning": "tükenmişlik, tükenme, yorgunluk"
+        },
+        {
+            "text": "perpetuate",
+            "meaning": "idame etmek, devam ettirmek"
+        },
+        {
+            "text": "overtake",
+            "meaning": "yetişip geçmek, sollamak"
+        }
+    ]
+}
