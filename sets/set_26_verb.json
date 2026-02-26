@@ -1,0 +1,106 @@
+{
+    "setId": "set_26_verb",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "accumulate",
+            "meaning": "biriktirmek"
+        },
+        {
+            "text": "oppress",
+            "meaning": "eziyet etmek, baskı yapmak"
+        },
+        {
+            "text": "expose",
+            "meaning": "maruz bırakmak"
+        },
+        {
+            "text": "select",
+            "meaning": "seçmek, elemek"
+        },
+        {
+            "text": "recover",
+            "meaning": "kurtarmak, iyileşmek"
+        },
+        {
+            "text": "spread",
+            "meaning": "yaymak, yayılmak"
+        },
+        {
+            "text": "sustain",
+            "meaning": "sürdürmek, devam ettirmek"
+        },
+        {
+            "text": "obtain",
+            "meaning": "edinmek, elde etmek"
+        },
+        {
+            "text": "evoke",
+            "meaning": "anımsatmak, uyandırmak, neden olmak"
+        },
+        {
+            "text": "nourish",
+            "meaning": "büyütmek, bakmak, gütmek"
+        },
+        {
+            "text": "delay",
+            "meaning": "ertelemek"
+        },
+        {
+            "text": "utilize",
+            "meaning": "kullanmak, faydalanmak"
+        },
+        {
+            "text": "enhance",
+            "meaning": "artırmak, yükseltmek, geliştirmek"
+        },
+        {
+            "text": "encompass",
+            "meaning": "kuşatmak, sarmak, çevresini sarmak"
+        },
+        {
+            "text": "regret",
+            "meaning": "pişman olmak"
+        },
+        {
+            "text": "expire",
+            "meaning": "süresi dolmak"
+        },
+        {
+            "text": "confirm",
+            "meaning": "onaylamak, doğrulamak"
+        },
+        {
+            "text": "magnify",
+            "meaning": "övmek, methetmek, büyütmek"
+        },
+        {
+            "text": "originate",
+            "meaning": "kaynaklanmak"
+        },
+        {
+            "text": "recycle",
+            "meaning": "geri dönüştürmek"
+        },
+        {
+            "text": "speculate",
+            "meaning": "tahminde bulunmak, düşünmek"
+        },
+        {
+            "text": "pretend",
+            "meaning": "gibi görünmek / -mış gibi yapmak"
+        },
+        {
+            "text": "recount",
+            "meaning": "yeniden saymak, nakletmek, anlatmak"
+        },
+        {
+            "text": "promote",
+            "meaning": "desteklemek, teşvik etmek, katkıda bulunmak"
+        },
+        {
+            "text": "capture",
+            "meaning": "esir almak, ele geçirmek"
+        }
+    ]
+}

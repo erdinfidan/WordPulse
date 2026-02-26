@@ -1,0 +1,106 @@
+{
+    "setId": "set_27_adjective",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "irrelevant",
+            "meaning": "ilgisiz, alakasız"
+        },
+        {
+            "text": "optimistic",
+            "meaning": "iyimser"
+        },
+        {
+            "text": "prominent",
+            "meaning": "seçkin"
+        },
+        {
+            "text": "eligible",
+            "meaning": "elverişli, seçkin"
+        },
+        {
+            "text": "diverse",
+            "meaning": "çeşitli, farklı"
+        },
+        {
+            "text": "futile",
+            "meaning": "nafile, beyhude"
+        },
+        {
+            "text": "convenient",
+            "meaning": "uygun, elverişli"
+        },
+        {
+            "text": "fierce",
+            "meaning": "şiddetli"
+        },
+        {
+            "text": "constant",
+            "meaning": "sürekli, sabit"
+        },
+        {
+            "text": "exhausted",
+            "meaning": "aşırı yorgun/ tükenmiş"
+        },
+        {
+            "text": "tolerable",
+            "meaning": "dayanılabilir / katlanılır"
+        },
+        {
+            "text": "accidental",
+            "meaning": "tesadüfi"
+        },
+        {
+            "text": "devoted",
+            "meaning": "sadakatli, adanmış"
+        },
+        {
+            "text": "undeniable",
+            "meaning": "inkar edilemez"
+        },
+        {
+            "text": "obligatory",
+            "meaning": "zorunlu"
+        },
+        {
+            "text": "credible",
+            "meaning": "inandırıcı, güvenilir"
+        },
+        {
+            "text": "indestructible",
+            "meaning": "bozulmaz / yıkılmaz / yok edilmez"
+        },
+        {
+            "text": "dramatic",
+            "meaning": "kayda değer, önemli ölçüde"
+        },
+        {
+            "text": "Variable",
+            "meaning": "değişken"
+        },
+        {
+            "text": "inevitable",
+            "meaning": "kaçınılmaz, malum"
+        },
+        {
+            "text": "reluctant",
+            "meaning": "gönülsüz, isteksiz"
+        },
+        {
+            "text": "familiar",
+            "meaning": "aşina, tanıdık"
+        },
+        {
+            "text": "peculiar",
+            "meaning": "tuhaf, garip"
+        },
+        {
+            "text": "desirable",
+            "meaning": "beğenilen"
+        },
+        {
+            "text": "disposable",
+            "meaning": "elden çıkarılması mümkün, tek kullanımlık, harcanabilir"
+        }
+    ]
+}

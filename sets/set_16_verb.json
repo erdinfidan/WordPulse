@@ -1,0 +1,106 @@
+{
+    "setId": "set_16_verb",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "fix",
+            "meaning": "onarmak, tamir etmek"
+        },
+        {
+            "text": "overestimate",
+            "meaning": "gözünde büyütmek"
+        },
+        {
+            "text": "reduce",
+            "meaning": "azaltmak, düşürmek"
+        },
+        {
+            "text": "predict",
+            "meaning": "tahmin etmek, öngörmek"
+        },
+        {
+            "text": "divide",
+            "meaning": "bölmek"
+        },
+        {
+            "text": "replenish",
+            "meaning": "doldurmak, tazelemek"
+        },
+        {
+            "text": "find",
+            "meaning": "bulmak"
+        },
+        {
+            "text": "expand",
+            "meaning": "genişletmek"
+        },
+        {
+            "text": "become",
+            "meaning": "olmak"
+        },
+        {
+            "text": "specify",
+            "meaning": "belirlemek, belirtmek"
+        },
+        {
+            "text": "determine",
+            "meaning": "belirlemek"
+        },
+        {
+            "text": "comprise",
+            "meaning": "kapsamak, içermek"
+        },
+        {
+            "text": "highlight",
+            "meaning": "vurgulamak, belirtmek, altını çizmek"
+        },
+        {
+            "text": "impair",
+            "meaning": "bozmak, zarar vermek"
+        },
+        {
+            "text": "descend",
+            "meaning": "inmek, alçalmak"
+        },
+        {
+            "text": "surpass",
+            "meaning": "aşmak, geçmek"
+        },
+        {
+            "text": "appraise",
+            "meaning": "değer biçmek, kıymet takdir etmek"
+        },
+        {
+            "text": "happen",
+            "meaning": "meydana gelmek"
+        },
+        {
+            "text": "threaten",
+            "meaning": "tehdit etmek"
+        },
+        {
+            "text": "attribute",
+            "meaning": "atfetmek / dayandırmak"
+        },
+        {
+            "text": "lost",
+            "meaning": "kaybetmek"
+        },
+        {
+            "text": "decide",
+            "meaning": "karar vermek"
+        },
+        {
+            "text": "appear",
+            "meaning": "gibi görünmek / ortaya çıkmak"
+        },
+        {
+            "text": "eradicate",
+            "meaning": "yok etmek / kökünü kurutmak"
+        },
+        {
+            "text": "focus",
+            "meaning": "odaklanmak"
+        }
+    ]
+}

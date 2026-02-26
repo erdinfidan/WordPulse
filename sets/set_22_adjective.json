@@ -1,0 +1,106 @@
+{
+    "setId": "set_22_adjective",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "implicit",
+            "meaning": "imalı, üstü kapalı"
+        },
+        {
+            "text": "considerable",
+            "meaning": "kayda değer"
+        },
+        {
+            "text": "independent",
+            "meaning": "bağımsız"
+        },
+        {
+            "text": "calm",
+            "meaning": "soğukkanlı, sakin"
+        },
+        {
+            "text": "impatient",
+            "meaning": "sabırsız"
+        },
+        {
+            "text": "inconvenient",
+            "meaning": "uygun olmayan, elverişsiz"
+        },
+        {
+            "text": "viable",
+            "meaning": "uygulanabilir,yaşayabilir"
+        },
+        {
+            "text": "equivalent",
+            "meaning": "eşit"
+        },
+        {
+            "text": "achievable",
+            "meaning": "başarılabilir, yapılabilir"
+        },
+        {
+            "text": "decisive",
+            "meaning": "kararlı"
+        },
+        {
+            "text": "unavoidable",
+            "meaning": "kaçınılmaz, sakınılmaz"
+        },
+        {
+            "text": "essential",
+            "meaning": "ana, esas"
+        },
+        {
+            "text": "unlimited",
+            "meaning": "sınırsız"
+        },
+        {
+            "text": "indifferent",
+            "meaning": "ilgisiz, kayıtsız"
+        },
+        {
+            "text": "notorious",
+            "meaning": "kötü şöhretli"
+        },
+        {
+            "text": "habitable",
+            "meaning": "yaşanabilir"
+        },
+        {
+            "text": "damaging",
+            "meaning": "zarar verici"
+        },
+        {
+            "text": "thin",
+            "meaning": "ince, zayıf"
+        },
+        {
+            "text": "favorable",
+            "meaning": "elverişli, uygun"
+        },
+        {
+            "text": "missing",
+            "meaning": "noksan, eksik"
+        },
+        {
+            "text": "incessant",
+            "meaning": "aralıksız, sürekli"
+        },
+        {
+            "text": "susceptible",
+            "meaning": "duyarlı, yatkın"
+        },
+        {
+            "text": "mediocre",
+            "meaning": "vasat, sıradan"
+        },
+        {
+            "text": "manageable",
+            "meaning": "idare edilebilir"
+        },
+        {
+            "text": "unreliable",
+            "meaning": "güvenilmez"
+        }
+    ]
+}

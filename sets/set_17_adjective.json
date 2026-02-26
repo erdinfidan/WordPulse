@@ -1,0 +1,106 @@
+{
+    "setId": "set_17_adjective",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "unresolved",
+            "meaning": "kararsız, çözünmemiş"
+        },
+        {
+            "text": "overt",
+            "meaning": "açık, aleni"
+        },
+        {
+            "text": "unattainable",
+            "meaning": "ele geçirilmez, elde edilmez"
+        },
+        {
+            "text": "rare",
+            "meaning": "nadir"
+        },
+        {
+            "text": "sufficient",
+            "meaning": "yeterli"
+        },
+        {
+            "text": "superfluous",
+            "meaning": "fazla, gereksiz, yersiz"
+        },
+        {
+            "text": "frequent",
+            "meaning": "sık"
+        },
+        {
+            "text": "preventable",
+            "meaning": "önlenebilir"
+        },
+        {
+            "text": "intentional",
+            "meaning": "kasıtlı"
+        },
+        {
+            "text": "consistent",
+            "meaning": "sürekli, tutarlı"
+        },
+        {
+            "text": "deniable",
+            "meaning": "inkar edilebilir"
+        },
+        {
+            "text": "preventive",
+            "meaning": "önleyici"
+        },
+        {
+            "text": "substantial",
+            "meaning": "önemli"
+        },
+        {
+            "text": "damaged",
+            "meaning": "bozuk, hasar verilmiş"
+        },
+        {
+            "text": "abundant",
+            "meaning": "bol, çok, dolu"
+        },
+        {
+            "text": "unintelligible",
+            "meaning": "anlaşılmaz, anlaşılamayan"
+        },
+        {
+            "text": "dependent",
+            "meaning": "bağımlı"
+        },
+        {
+            "text": "repetitive",
+            "meaning": "tekrarlayan"
+        },
+        {
+            "text": "massive",
+            "meaning": "büyük, devasa"
+        },
+        {
+            "text": "fulfilling",
+            "meaning": "karşılayıcı, doyurucu, tatmin edici"
+        },
+        {
+            "text": "frustrating",
+            "meaning": "moral bozucu, sinir bozucu"
+        },
+        {
+            "text": "irreversible",
+            "meaning": "kesin, geri alınamaz"
+        },
+        {
+            "text": "disruptive",
+            "meaning": "yıkıcı, bozucu"
+        },
+        {
+            "text": "predictable",
+            "meaning": "tahmin edilebilir"
+        },
+        {
+            "text": "hectic",
+            "meaning": "telaşlı, ateşli"
+        }
+    ]
+}

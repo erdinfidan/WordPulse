@@ -1,0 +1,106 @@
+{
+    "setId": "set_23_adverb",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "temporarily",
+            "meaning": "geçici olarak"
+        },
+        {
+            "text": "rarely",
+            "meaning": "nadiren"
+        },
+        {
+            "text": "inherently",
+            "meaning": "doğal olarak, tabiatın gereği"
+        },
+        {
+            "text": "randomly",
+            "meaning": "rastgele"
+        },
+        {
+            "text": "decreasingly",
+            "meaning": "gittikçe azalarak"
+        },
+        {
+            "text": "hesitantly",
+            "meaning": "tereddütle"
+        },
+        {
+            "text": "rapidly",
+            "meaning": "süratle, hızla"
+        },
+        {
+            "text": "necessarily",
+            "meaning": "muhakkak, şart"
+        },
+        {
+            "text": "partially",
+            "meaning": "kısmen"
+        },
+        {
+            "text": "slightly",
+            "meaning": "belli belirsiz, çok az"
+        },
+        {
+            "text": "elaborately",
+            "meaning": "detaylı bir şekilde"
+        },
+        {
+            "text": "objectively",
+            "meaning": "nesnel olarak"
+        },
+        {
+            "text": "openly",
+            "meaning": "açıkça"
+        },
+        {
+            "text": "narrowly",
+            "meaning": "güç bela, zar zor"
+        },
+        {
+            "text": "cautiously",
+            "meaning": "dikkatlice, temkinli bir şekilde"
+        },
+        {
+            "text": "constantly",
+            "meaning": "sürekli, sürekli olarak"
+        },
+        {
+            "text": "entirely",
+            "meaning": "tümüyle, tamamıyla"
+        },
+        {
+            "text": "instantly",
+            "meaning": "hemen, derhal, aniden"
+        },
+        {
+            "text": "correctly",
+            "meaning": "doğru şekilde"
+        },
+        {
+            "text": "irreversibly",
+            "meaning": "değiştirilemez şekilde"
+        },
+        {
+            "text": "completely",
+            "meaning": "tamamen"
+        },
+        {
+            "text": "politely",
+            "meaning": "kibarca"
+        },
+        {
+            "text": "virtually",
+            "meaning": "neredeyse"
+        },
+        {
+            "text": "externally",
+            "meaning": "dıştan, haricen"
+        },
+        {
+            "text": "compulsively",
+            "meaning": "zorlayıcı olarak, zorlantılı bir şekilde"
+        }
+    ]
+}

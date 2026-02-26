@@ -1,0 +1,106 @@
+{
+    "setId": "set_20_phrasal_verb",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "get up",
+            "meaning": "kalkmak"
+        },
+        {
+            "text": "fade away",
+            "meaning": "Solup gitmek, yok olmak, ortadan kaybolmak"
+        },
+        {
+            "text": "pull up",
+            "meaning": "Kaldırmak, yukarı çekmek"
+        },
+        {
+            "text": "take up",
+            "meaning": "bir hobi yada mesleğe başlamak, meşgul olmak"
+        },
+        {
+            "text": "put on",
+            "meaning": "Kilo almak, giyinmek"
+        },
+        {
+            "text": "wipe out",
+            "meaning": "Öldürmek, yok etmek"
+        },
+        {
+            "text": "come out of",
+            "meaning": "ortaya çıkmak, -den meydana gelmek"
+        },
+        {
+            "text": "break out",
+            "meaning": "patlamak / başlamak (savaş/yangın vb.)"
+        },
+        {
+            "text": "agree upon",
+            "meaning": "hemfikir olmak"
+        },
+        {
+            "text": "give away",
+            "meaning": "hibe etmek, hediye etmek"
+        },
+        {
+            "text": "credit with",
+            "meaning": "ile tanınmak, bilinmek"
+        },
+        {
+            "text": "dispose of",
+            "meaning": "imha etmek, atmak"
+        },
+        {
+            "text": "look around for",
+            "meaning": "bakınmak, araştırmak"
+        },
+        {
+            "text": "switch on",
+            "meaning": "çalıştırmak, devreyi açmak"
+        },
+        {
+            "text": "lay out",
+            "meaning": "düzenlemek, tasarlamak"
+        },
+        {
+            "text": "put out",
+            "meaning": "söndürmek, üretmek"
+        },
+        {
+            "text": "cut on",
+            "meaning": "yok etmek, kopartmak"
+        },
+        {
+            "text": "draw up",
+            "meaning": "almak,ayarlamak"
+        },
+        {
+            "text": "put through",
+            "meaning": "bitirmek, telefona bağlamak, gerçekleştirmek"
+        },
+        {
+            "text": "hold up",
+            "meaning": "göstermek,soymak,gecikmek,tutmak"
+        },
+        {
+            "text": "look up",
+            "meaning": "Yukarı bakmak, araştırmak"
+        },
+        {
+            "text": "get over",
+            "meaning": "atlatmak, kurtulmak, başa çıkmak"
+        },
+        {
+            "text": "result in",
+            "meaning": "sebep olmak"
+        },
+        {
+            "text": "bring out",
+            "meaning": "yapmak, ortaya çıkmak"
+        },
+        {
+            "text": "get away from",
+            "meaning": "uzak tutmak, bir şeyden uzak tutmak"
+        }
+    ]
+}

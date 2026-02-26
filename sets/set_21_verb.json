@@ -1,0 +1,106 @@
+{
+    "setId": "set_21_verb",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "accuse",
+            "meaning": "suçlamak"
+        },
+        {
+            "text": "perform",
+            "meaning": "uygulamak, gerçekleştirmek"
+        },
+        {
+            "text": "operate",
+            "meaning": "işletmek, çalıştırmak"
+        },
+        {
+            "text": "fluctuate",
+            "meaning": "dalgalanmak"
+        },
+        {
+            "text": "relieve",
+            "meaning": "rahatlatmak, azaltmak"
+        },
+        {
+            "text": "accompany",
+            "meaning": "eşlik etmek"
+        },
+        {
+            "text": "elaborate",
+            "meaning": "detaylandırmak, ayrıntılandırmak"
+        },
+        {
+            "text": "arise",
+            "meaning": "ortaya çıkmak, meydana gelmek"
+        },
+        {
+            "text": "reverse",
+            "meaning": "tersine çevirmek"
+        },
+        {
+            "text": "elucidate",
+            "meaning": "izah etmek, açıklamak"
+        },
+        {
+            "text": "omit",
+            "meaning": "dahil etmemek, çıkarmak"
+        },
+        {
+            "text": "evacuate",
+            "meaning": "tahliye etmek, götürmek"
+        },
+        {
+            "text": "entertain",
+            "meaning": "eğlendirmek"
+        },
+        {
+            "text": "halt",
+            "meaning": "durdurmak"
+        },
+        {
+            "text": "dispel",
+            "meaning": "dağıtmak, yok etmek, defetmek"
+        },
+        {
+            "text": "hamper",
+            "meaning": "engellemek, kösteklemek"
+        },
+        {
+            "text": "regard",
+            "meaning": "saymak, hesaba katmak"
+        },
+        {
+            "text": "accommodate",
+            "meaning": "uyum sağlamak, yerleştirmek"
+        },
+        {
+            "text": "delete",
+            "meaning": "silmek"
+        },
+        {
+            "text": "guess",
+            "meaning": "tahmin etmek"
+        },
+        {
+            "text": "wander",
+            "meaning": "dolaşmak"
+        },
+        {
+            "text": "deliver",
+            "meaning": "teslim etmek"
+        },
+        {
+            "text": "stimulate",
+            "meaning": "uyarmak, teşvik etmek"
+        },
+        {
+            "text": "accomplish",
+            "meaning": "sonuçlandırmak, başarmak"
+        },
+        {
+            "text": "abuse",
+            "meaning": "kötüye kullanmak, istismar etmek"
+        }
+    ]
+}

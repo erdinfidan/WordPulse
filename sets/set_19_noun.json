@@ -1,0 +1,106 @@
+{
+    "setId": "set_19_noun",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "attitude",
+            "meaning": "tutum, tavır"
+        },
+        {
+            "text": "report",
+            "meaning": "rapor"
+        },
+        {
+            "text": "assumption",
+            "meaning": "varsayım"
+        },
+        {
+            "text": "redundancy",
+            "meaning": "çokluk, bolluk"
+        },
+        {
+            "text": "complexity",
+            "meaning": "karmaşa, zorluk, güçlük"
+        },
+        {
+            "text": "constrain",
+            "meaning": "kısıtlamak, sınırlamak"
+        },
+        {
+            "text": "absence",
+            "meaning": "bulunmama, yokluk"
+        },
+        {
+            "text": "avoidance",
+            "meaning": "kaçınma,uzaklaşma"
+        },
+        {
+            "text": "necessity",
+            "meaning": "gereklilik"
+        },
+        {
+            "text": "election",
+            "meaning": "seçim"
+        },
+        {
+            "text": "prerequisite",
+            "meaning": "önkoşul"
+        },
+        {
+            "text": "resignation",
+            "meaning": "istifa"
+        },
+        {
+            "text": "description",
+            "meaning": "betimleme, tanım"
+        },
+        {
+            "text": "casualty",
+            "meaning": "kazazede, yaralı/ölü"
+        },
+        {
+            "text": "reception",
+            "meaning": "resepsiyon, alış"
+        },
+        {
+            "text": "resilience",
+            "meaning": "geri tepme, dirençlilik"
+        },
+        {
+            "text": "regulation",
+            "meaning": "düzenleme"
+        },
+        {
+            "text": "queue",
+            "meaning": "kuyruk, sıra"
+        },
+        {
+            "text": "defect",
+            "meaning": "bozukluk, arıza"
+        },
+        {
+            "text": "reluctance",
+            "meaning": "Gönülsüzlük, isteksizlik"
+        },
+        {
+            "text": "ramification",
+            "meaning": "sonuç (muhtemel)"
+        },
+        {
+            "text": "establishment",
+            "meaning": "kuruluş, kurum, tesis"
+        },
+        {
+            "text": "punishment",
+            "meaning": "ceza"
+        },
+        {
+            "text": "commitment",
+            "meaning": "Bağlılık, taahhüt"
+        },
+        {
+            "text": "ambition",
+            "meaning": "hırs, ihtiras"
+        }
+    ]
+}

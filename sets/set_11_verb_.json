@@ -1,0 +1,106 @@
+{
+    "setId": "set_11_verb_",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "assess",
+            "meaning": "değerlendirmek, değer biçmek"
+        },
+        {
+            "text": "estimate",
+            "meaning": "tahmin etmek, öngörmek"
+        },
+        {
+            "text": "quit",
+            "meaning": "bırakmak"
+        },
+        {
+            "text": "exceed",
+            "meaning": "aşmak, geçmek"
+        },
+        {
+            "text": "constitute",
+            "meaning": "Oluşturmak, teşkil etmek"
+        },
+        {
+            "text": "claim",
+            "meaning": "iddia etmek"
+        },
+        {
+            "text": "disturb",
+            "meaning": "rahatsız etmek"
+        },
+        {
+            "text": "excavate",
+            "meaning": "kazı yapmak"
+        },
+        {
+            "text": "admit",
+            "meaning": "itiraf etmek, kabul etmek"
+        },
+        {
+            "text": "defeat",
+            "meaning": "mağlup etmek, yenmek"
+        },
+        {
+            "text": "neglect",
+            "meaning": "ihmal etmek"
+        },
+        {
+            "text": "promise",
+            "meaning": "söz vermek"
+        },
+        {
+            "text": "admire",
+            "meaning": "hayranlık duymak"
+        },
+        {
+            "text": "declare",
+            "meaning": "beyan etmek, ilan etmek"
+        },
+        {
+            "text": "appreciate",
+            "meaning": "takdir etmek"
+        },
+        {
+            "text": "survive",
+            "meaning": "hayatta kalmak"
+        },
+        {
+            "text": "interact",
+            "meaning": "etkileşmek, etkileşim"
+        },
+        {
+            "text": "influence",
+            "meaning": "etkilemek"
+        },
+        {
+            "text": "implement",
+            "meaning": "uygulamak"
+        },
+        {
+            "text": "resign",
+            "meaning": "istifa etmek"
+        },
+        {
+            "text": "withdraw",
+            "meaning": "geri çekilmek,geri çekmek"
+        },
+        {
+            "text": "perpetuate",
+            "meaning": "idame etmek,devam ettirmek"
+        },
+        {
+            "text": "underpin",
+            "meaning": "desteklemek, destek koymak"
+        },
+        {
+            "text": "grow",
+            "meaning": "büyümek, yetişmek"
+        },
+        {
+            "text": "fulfill",
+            "meaning": "yapmak / ifa etmek / yerine getirmek"
+        }
+    ]
+}

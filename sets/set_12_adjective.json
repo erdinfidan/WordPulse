@@ -1,0 +1,106 @@
+{
+    "setId": "set_12_adjective",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "visible",
+            "meaning": "görünür"
+        },
+        {
+            "text": "sarcastic",
+            "meaning": "kinayeli"
+        },
+        {
+            "text": "deterrent",
+            "meaning": "caydırıcı, engelleyici"
+        },
+        {
+            "text": "individual",
+            "meaning": "bireysel"
+        },
+        {
+            "text": "compelling",
+            "meaning": "ezici, üstün,baskın, zorlu / zorlayıcı"
+        },
+        {
+            "text": "corrupt",
+            "meaning": "yozlaşmış, yolsuz"
+        },
+        {
+            "text": "dubious",
+            "meaning": "şüpheci, müphem"
+        },
+        {
+            "text": "restraining",
+            "meaning": "kısıtlayıcı, sınırlayıcı"
+        },
+        {
+            "text": "immense",
+            "meaning": "muazzam, kocaman"
+        },
+        {
+            "text": "relevant",
+            "meaning": "ilgili, alakalı"
+        },
+        {
+            "text": "unstable",
+            "meaning": "istikrarsız, sabit olmayan"
+        },
+        {
+            "text": "adequate",
+            "meaning": "yeterli, kafi"
+        },
+        {
+            "text": "threatening",
+            "meaning": "tehditkâr, korkutucu"
+        },
+        {
+            "text": "selective",
+            "meaning": "seçici, seçmeli"
+        },
+        {
+            "text": "unremarkable",
+            "meaning": "önemsiz"
+        },
+        {
+            "text": "functional",
+            "meaning": "kullanışlı, işlevsel"
+        },
+        {
+            "text": "comparable",
+            "meaning": "kıyaslanabilir"
+        },
+        {
+            "text": "severe",
+            "meaning": "haşin, sert, şiddetli"
+        },
+        {
+            "text": "indispensable",
+            "meaning": "vazgeçilmez, zaruri, zorunlu"
+        },
+        {
+            "text": "permanent",
+            "meaning": "kalıcı"
+        },
+        {
+            "text": "vulnerable",
+            "meaning": "savunmasız, hassas"
+        },
+        {
+            "text": "inaccessible",
+            "meaning": "erişilmez, ulaşılmaz"
+        },
+        {
+            "text": "limiting",
+            "meaning": "sınırlayıcı"
+        },
+        {
+            "text": "irrelevant",
+            "meaning": "ilgisiz, alakasız"
+        },
+        {
+            "text": "attributable",
+            "meaning": "dayandırılabilir, atfolunabilir"
+        }
+    ]
+}
