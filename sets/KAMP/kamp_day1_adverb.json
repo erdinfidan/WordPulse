@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day1_adverb",
+    "version": "1.2.0",
+    "words": [
+        {
+            "text": "Significantly",
+            "meaning": "Önemli ölçüde, kayda değer biçimde",
+            "Synonym": "Considerably"
+        },
+        {
+            "text": "Dramatically",
+            "meaning": "Büyük ölçüde, çarpıcı bir şekilde",
+            "Synonym": "Sharply"
+        },
+        {
+            "text": "Substantially",
+            "meaning": "Önemli miktarda, esaslıca",
+            "Synonym": "Greatly"
+        },
+        {
+            "text": "Remarkably",
+            "meaning": "Dikkat çekici şekilde, fevkalade",
+            "Synonym": "Exceptionally"
+        },
+        {
+            "text": "Extremely",
+            "meaning": "Aşırı derecede",
+            "Synonym": "Exceedingly"
+        },
+        {
+            "text": "Gradually",
+            "meaning": "Kademeli olarak, yavaş yavaş",
+            "Synonym": "Step by step"
+        },
+        {
+            "text": "Slightly",
+            "meaning": "Azıcık, hafifçe",
+            "Synonym": "Minimally"
+        },
+        {
+            "text": "Moderately",
+            "meaning": "Orta derecede, makul ölçüde",
+            "Synonym": "Fairly"
+        },
+        {
+            "text": "Steadily",
+            "meaning": "İstikrarlı bir şekilde, düzenli olarak",
+            "Synonym": "Consistently"
+        },
+        {
+            "text": "Precisely",
+            "meaning": "Tam olarak, kesinlikle",
+            "Synonym": "Exactly"
+        },
+        {
+            "text": "Accurately",
+            "meaning": "Doğru bir şekilde, hatasızca",
+            "Synonym": "Correctly"
+        },
+        {
+            "text": "Invariably",
+            "meaning": "Hiç değişmeden, daima",
+            "Synonym": "Always"
+        },
+        {
+            "text": "Inevitably",
+            "meaning": "Kaçınılmaz olarak",
+            "Synonym": "Unavoidably"
+        },
+        {
+            "text": "Literally",
+            "meaning": "Kelimenin tam anlamıyla",
+            "Synonym": "Exactly"
+        },
+        {
+            "text": "Barely",
+            "meaning": "Zar zor, ancak",
+            "Synonym": "Hardly, Scarcely"
+        },
+        {
+            "text": "Rarely",
+            "meaning": "Nadiren",
+            "Synonym": "Seldom"
+        },
+        {
+            "text": "Merely",
+            "meaning": "Sadece, yalnızca",
+            "Synonym": "Only, Just"
+        },
+        {
+            "text": "Virtually",
+            "meaning": "Hemen hemen, neredeyse (fakat tam değil)",
+            "Synonym": "Practically, Almost"
+        },
+        {
+            "text": "Primarily",
+            "meaning": "Öncelikli olarak, esasen",
+            "Synonym": "Chiefly, Mainly"
+        },
+        {
+            "text": "Commonly",
+            "meaning": "Yaygın olarak",
+            "Synonym": "Generally"
+        },
+        {
+            "text": "Mutually",
+            "meaning": "Karşılıklı olarak",
+            "Synonym": "Reciprocally"
+        },
+        {
+            "text": "Specifically",
+            "meaning": "Özellikle, mahsusen",
+            "Synonym": "Particularly"
+        },
+        {
+            "text": "Relatively",
+            "meaning": "Nispeten, oranla",
+            "Synonym": "Comparatively"
+        },
+        {
+            "text": "Intentionally",
+            "meaning": "Kasten, bilerek",
+            "Synonym": "Deliberately"
+        },
+        {
+            "text": "Thoroughly",
+            "meaning": "Tamamen, derinlemesine, hakkıyla",
+            "Synonym": "Completely, Fully"
+        }
+    ]
+}

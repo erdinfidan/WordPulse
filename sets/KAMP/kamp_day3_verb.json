@@ -1,6 +1,6 @@
 {
     "setId": "kamp_day3_verb",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "words": [
         {
             "text": "Mitigate",
@@ -126,131 +126,6 @@
             "text": "Attribute (to)",
             "meaning": "-e yormak, -e atfetmek",
             "Synonym": "Ascribe"
-        },
-        {
-            "text": "Tentatively",
-            "meaning": "Geçici olarak, kesinleşmemiş bir biçimde",
-            "Synonym": "Provisionally, Hesitantly"
-        },
-        {
-            "text": "Successively",
-            "meaning": "Art arda, birbirini izleyen şekilde",
-            "Synonym": "Consecutively, Sequentially"
-        },
-        {
-            "text": "Indisputably",
-            "meaning": "Tartışmasız bir şekilde",
-            "Synonym": "Unquestionably, Undeniably"
-        },
-        {
-            "text": "Coincidentally",
-            "meaning": "Tesadüfen",
-            "Synonym": "Accidentally, Fortuitously"
-        },
-        {
-            "text": "Radically",
-            "meaning": "Köklü bir şekilde, tamamen",
-            "Synonym": "Drastically, Fundamentally"
-        },
-        {
-            "text": "Ceaselessly",
-            "meaning": "Durmaksızın, aralıksız",
-            "Synonym": "Continuously, Relentlessly"
-        },
-        {
-            "text": "Prohibitively",
-            "meaning": "(Fiyat vb. için) Aşırı derecede, engelleyici düzeyde",
-            "Synonym": "Excessively, Extremely"
-        },
-        {
-            "text": "Intermittently",
-            "meaning": "Aralıklı olarak, kesintili bir şekilde",
-            "Synonym": "Sporadically, Periodically"
-        },
-        {
-            "text": "Exceedingly",
-            "meaning": "Aşırı derecede, fazlasıyla",
-            "Synonym": "Extremely, Exceptionally"
-        },
-        {
-            "text": "Conceivably",
-            "meaning": "Muhtemelen, akla yatkın bir şekilde",
-            "Synonym": "Possibly, Potentially"
-        },
-        {
-            "text": "Disastrously",
-            "meaning": "Feci şekilde, korkunç bir sonuçla",
-            "Synonym": "Catastrophically, Terribly"
-        },
-        {
-            "text": "Indiscriminately",
-            "meaning": "Ayırt etmeksizin, rastgele",
-            "Synonym": "Haphazardly, Randomly"
-        },
-        {
-            "text": "Vaguely",
-            "meaning": "Belirsizce, hayal meyal",
-            "Synonym": "Obscurely, Indistinctly"
-        },
-        {
-            "text": "Magnificently",
-            "meaning": "Görkemli bir şekilde",
-            "Synonym": "Splendidly, Grandly"
-        },
-        {
-            "text": "Diligently",
-            "meaning": "Gayretle, özenle",
-            "Synonym": "Assiduously, Attentively"
-        },
-        {
-            "text": "Indispensably",
-            "meaning": "Zorunlu olarak, vazgeçilmez bir şekilde",
-            "Synonym": "Necessarily, Essentially"
-        },
-        {
-            "text": "Abominably",
-            "meaning": "İğrenç bir ş ekilde, çok kötü",
-            "Synonym": "Dreadfully, Horribly"
-        },
-        {
-            "text": "Plausibly",
-            "meaning": "Akla yatkın bir şekilde",
-            "Synonym": "Reasonably, Believably"
-        },
-        {
-            "text": "Ambivalently",
-            "meaning": "Kararsız bir şekilde, ikilemde kalarak",
-            "Synonym": "Uncertainly"
-        },
-        {
-            "text": "Aggressively",
-            "meaning": "Saldırgan bir şekilde, oldukça hırslı",
-            "Synonym": "Forcefully"
-        },
-        {
-            "text": "Anonymously",
-            "meaning": "İsimsiz bir şekilde, anonim olarak",
-            "Synonym": "Namelessly"
-        },
-        {
-            "text": "Inexorably",
-            "meaning": "Durdurulamaz bir şekilde",
-            "Synonym": "Unstoppably, Relentlessly"
-        },
-        {
-            "text": "Precipitously",
-            "meaning": "Çok hızlı ve dik bir şekilde",
-            "Synonym": "Abruptly, Sharply"
-        },
-        {
-            "text": "Proficiently",
-            "meaning": "Yeterli ve becerikli bir şekilde",
-            "Synonym": "Skillfully, Adequately"
-        },
-        {
-            "text": "Superfluously",
-            "meaning": "Gereksiz yere, ihtiyaç fazlası olarak",
-            "Synonym": "Excessively, Redundantly"
         }
     ]
 }

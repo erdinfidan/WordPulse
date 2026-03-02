@@ -1,0 +1,256 @@
+{
+    "setId": "kamp_day4_adverb",
+    "version": "1.2.0",
+    "words": [
+        {
+            "text": "Ardently",
+            "meaning": "Ateşli bir şekilde, gayretle, hevesle",
+            "Synonym": "Eagerly, Passionately"
+        },
+        {
+            "text": "Resolutely",
+            "meaning": "Kararlı bir biçimde",
+            "Synonym": "Firmly, Decisively"
+        },
+        {
+            "text": "Densely",
+            "meaning": "Yoğun bir şekilde (Örn: Densely populated )",
+            "Synonym": "Heavily, Intensely"
+        },
+        {
+            "text": "Elaborately",
+            "meaning": "Ayrıntılı bir şekilde, özenle",
+            "Synonym": "Intricately, Detailedly"
+        },
+        {
+            "text": "Fruitfully",
+            "meaning": "Verimli bir şekilde",
+            "Synonym": "Productively, Profitably"
+        },
+        {
+            "text": "Arbitrarily",
+            "meaning": "Keyfi olarak, rastgele",
+            "Synonym": "Randomly, Haphazardly"
+        },
+        {
+            "text": "Overly",
+            "meaning": "Aşırı derecede",
+            "Synonym": "Excessively, Extremely"
+        },
+        {
+            "text": "Palpably",
+            "meaning": "Açıkça, hissedilir şekilde",
+            "Synonym": "Clearly, Visibly"
+        },
+        {
+            "text": "Irreversibly",
+            "meaning": "Geri döndürülemez bir şekilde",
+            "Synonym": "Permanently"
+        },
+        {
+            "text": "Respectively",
+            "meaning": "Sırasıyla",
+            "Synonym": "Sequentially"
+        },
+        {
+            "text": "Allegedly",
+            "meaning": "İddia edildiğine göre, sözde",
+            "Synonym": "Supposedly, Purportedly"
+        },
+        {
+            "text": "Extensively",
+            "meaning": "Kapsamlı bir şekilde, yaygınca",
+            "Synonym": "Comprehensively, Widely"
+        },
+        {
+            "text": "Impatiently",
+            "meaning": "Sabırsızlıkla",
+            "Synonym": "Anxiously"
+        },
+        {
+            "text": "Progressively",
+            "meaning": "Giderek, kademeli olarak",
+            "Synonym": "Gradually, Steadily"
+        },
+        {
+            "text": "Sparsely",
+            "meaning": "Seyrek olarak (Örn: Sparsely populated )",
+            "Synonym": "Thinly, Scantily"
+        },
+        {
+            "text": "Inexorably",
+            "meaning": "Durdurulamaz bir şekilde",
+            "Synonym": "Unstoppably, Relentlessly"
+        },
+        {
+            "text": "Prohibitively",
+            "meaning": "(Fiyat için) Engelleyici düzeyde, aşırı",
+            "Synonym": "Excessively, Extremely"
+        },
+        {
+            "text": "Meticulously",
+            "meaning": "Titizlikle, aşırı özenle",
+            "Synonym": "Scrupulously, Carefully"
+        },
+        {
+            "text": "Intermittently",
+            "meaning": "Aralıklı olarak, kesintili bir şekilde",
+            "Synonym": "Sporadically, Periodically"
+        },
+        {
+            "text": "Inadvertently",
+            "meaning": "İstemeyerek, kazara",
+            "Synonym": "Unintentionally, Accidentally"
+        },
+        {
+            "text": "Precipitously",
+            "meaning": "Çok hızlı ve dik bir şekilde, aniden",
+            "Synonym": "Abruptly, Sharply"
+        },
+        {
+            "text": "Indiscriminately",
+            "meaning": "Ayırt etmeksizin, rastgele",
+            "Synonym": "Haphazardly, Randomly"
+        },
+        {
+            "text": "Conceivably",
+            "meaning": "Muhtemelen, akla yatkın bir şekilde",
+            "Synonym": "Possibly, Potentially"
+        },
+        {
+            "text": "Successively",
+            "meaning": "Art arda, birbirini izleyen şekilde",
+            "Synonym": "Consecutively, Sequentially"
+        },
+        {
+            "text": "Legitimately",
+            "meaning": "Yasal olarak, haklı bir sebeple",
+            "Synonym": "Lawfully, Justifiably"
+        },
+        {
+            "text": "Unintentionally",
+            "meaning": "İstemeyerek, bilmeyerek",
+            "Synonym": "Inadvertently"
+        },
+        {
+            "text": "Unequivocally",
+            "meaning": "Açık ve net bir şekilde, kuşku bırakmadan",
+            "Synonym": "Unambiguously, Clearly"
+        },
+        {
+            "text": "Seemingly",
+            "meaning": "Görünüşe bakılırsa, görünürde",
+            "Synonym": "Apparently"
+        },
+        {
+            "text": "Notoriously",
+            "meaning": "Kötü şöhretli bir şekilde, herkesçe bilinen (olumsuz)",
+            "Synonym": "Infamously"
+        },
+        {
+            "text": "Fundamentally",
+            "meaning": "Esasen, temelinden",
+            "Synonym": "Essentially, Basically"
+        },
+        {
+            "text": "Violently",
+            "meaning": "Şiddetle, sert bir biçimde",
+            "Synonym": "Forcefully, Fiercely"
+        },
+        {
+            "text": "Progressively",
+            "meaning": "Kademeli olarak, giderek artan bir şekilde",
+            "Synonym": "Gradually, Increasingly"
+        },
+        {
+            "text": "Inextricably",
+            "meaning": "Birbirinden ayrılmaz bir şekilde",
+            "Synonym": "Inseparably"
+        },
+        {
+            "text": "Unbearably",
+            "meaning": "Dayanılmaz bir şekilde",
+            "Synonym": "Intolerably"
+        },
+        {
+            "text": "Abundantly",
+            "meaning": "Bolca, çok miktarda",
+            "Synonym": "Plentifully, Amply"
+        },
+        {
+            "text": "Eccentrically",
+            "meaning": "Tuhaf bir şekilde, alışılmadık biçimde",
+            "Synonym": "Peculiarly, Oddly"
+        },
+        {
+            "text": "Unevenly",
+            "meaning": "Düzensizce, eşit olmayan şekilde",
+            "Synonym": "Ir regularly, Disproportionately"
+        },
+        {
+            "text": "Slightly",
+            "meaning": "Hafifçe, azıcık",
+            "Synonym": "Remotely, A bit"
+        },
+        {
+            "text": "Smoothly",
+            "meaning": "Sorunsuzca, pürüzsüzce",
+            "Synonym": "Seamlessly, Easily"
+        },
+        {
+            "text": "Seamlessly",
+            "meaning": "Kesintisiz bir şekilde, dikişsizce",
+            "Synonym": "Smoothly, Continuously"
+        },
+        {
+            "text": "Amusingly",
+            "meaning": "Eğlenceli bir şekilde",
+            "Synonym": "Funnily"
+        },
+        {
+            "text": "Exponentially",
+            "meaning": "Üstel olarak, katlanarak artan",
+            "Synonym": "Rapidly and greatly"
+        },
+        {
+            "text": "Decently",
+            "meaning": "Düzgünce, terbiyeli bir şekilde",
+            "Synonym": "Appropriately, Properly"
+        },
+        {
+            "text": "Enormously",
+            "meaning": "Muazzam derecede",
+            "Synonym": "Immensely, Vastly"
+        },
+        {
+            "text": "Severely",
+            "meaning": "Sert bir şekilde, ciddi derecede",
+            "Synonym": "Harshly, Critically"
+        },
+        {
+            "text": "Decisively",
+            "meaning": "Kararlı bir şekilde, kesinlikle",
+            "Synonym": "Conclusively, Firmly"
+        },
+        {
+            "text": "Invariably",
+            "meaning": "Hiç değişmeksizin, her zaman",
+            "Synonym": "Always, Constantly"
+        },
+        {
+            "text": "Remorselessly",
+            "meaning": "Acımasızca, dur durak bilmeden",
+            "Synonym": "Relentlessly, Pitilessly"
+        },
+        {
+            "text": "Inconceivably",
+            "meaning": "Hayal edilemez bir şekilde, akıl almaz derecede",
+            "Synonym": "Unimaginably"
+        },
+        {
+            "text": "Provocatively",
+            "meaning": "Kışkırtıcı bir şekilde",
+            "Synonym": "Stimulatingly"
+        }
+    ]
+}
