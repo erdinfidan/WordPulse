@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day1_phrasal_verb",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Account for",
+            "meaning": "Açıklamak, bir kısmını oluşturmak",
+            "Synonym": "Explain / Constitute"
+        },
+        {
+            "text": "Bring about",
+            "meaning": "Sebep olmak, yol açmak",
+            "Synonym": "Cause / Lead to"
+        },
+        {
+            "text": "Call off",
+            "meaning": "İptal etmek",
+            "Synonym": "Cancel / Abandon"
+        },
+        {
+            "text": "Carry out",
+            "meaning": "Uygulamak, yürütmek",
+            "Synonym": "Perform / Execute"
+        },
+        {
+            "text": "Clear up",
+            "meaning": "Açıklığa kavuşturmak, düzelmek",
+            "Synonym": "Clarify / Resolve"
+        },
+        {
+            "text": "Come across",
+            "meaning": "Rastlamak, karşılaşmak",
+            "Synonym": "Encounter / Bump into"
+        },
+        {
+            "text": "Cope with",
+            "meaning": "Başa çıkmak, üstesinden gelmek",
+            "Synonym": "Handle / Manage"
+        },
+        {
+            "text": "Cut down on",
+            "meaning": "Azaltmak, kısıntıya gitmek",
+            "Synonym": "Reduce / Lessen"
+        },
+        {
+            "text": "End up",
+            "meaning": "Sonuçlanmak, kendini bir durumda bulmak",
+            "Synonym": "Result in / Finish"
+        },
+        {
+            "text": "Figure out",
+            "meaning": "Anlamak, çözmek",
+            "Synonym": "Understand / Solve"
+        },
+        {
+            "text": "Give up",
+            "meaning": "Bırakmak, vazgeçmek",
+            "Synonym": "Quit / Abandon"
+        },
+        {
+            "text": "Go through",
+            "meaning": "Yaşamak, incelemek, deneyimlemek",
+            "Synonym": "Experience / Undergo"
+        },
+        {
+            "text": "Keep up with",
+            "meaning": "Hızına yetişmek, ayak uydurmak",
+            "Synonym": "Maintain / Follow"
+        },
+        {
+            "text": "Look into",
+            "meaning": "İncelemek, araştırmak",
+            "Synonym": "Investigate / Examine"
+        },
+        {
+            "text": "Make up for",
+            "meaning": "Telafi etmek",
+            "Synonym": "Compensate for"
+        },
+        {
+            "text": "Pass away",
+            "meaning": "Vefat etmek, ölmek",
+            "Synonym": "Die"
+        },
+        {
+            "text": "Put off",
+            "meaning": "Ertelemek",
+            "Synonym": "Postpone / Delay"
+        },
+        {
+            "text": "Put up with",
+            "meaning": "Katlanmak, tahammül etmek",
+            "Synonym": "Tolerate / Endure"
+        },
+        {
+            "text": "Run out of",
+            "meaning": "Bitmek, tükenmek",
+            "Synonym": "Deplete / Exhaust"
+        },
+        {
+            "text": "Set up",
+            "meaning": "Kurmak, düzenlemek",
+            "Synonym": "Establish / Arrange"
+        },
+        {
+            "text": "Take over",
+            "meaning": "Devralmak, üstlenmek",
+            "Synonym": "Assume / Gain control"
+        },
+        {
+            "text": "Turn down",
+            "meaning": "Reddetmek, sesini kısmak",
+            "Synonym": "Reject / Refuse"
+        },
+        {
+            "text": "Turn into",
+            "meaning": "Dönüşmek",
+            "Synonym": "Transform / Become"
+        },
+        {
+            "text": "Wipe out",
+            "meaning": "Yok etmek, kökünü kazımak",
+            "Synonym": "Eradicate / Destroy"
+        },
+        {
+            "text": "Stem from",
+            "meaning": "-den kaynaklanmak, ileri gelmek",
+            "Synonym": "Derive from / Result from"
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "setId": "kamp_day4_adjective",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Haphazard",
+            "meaning": "Gelişigüzel, rastgele",
+            "Synonym": "Random, Arbitrary"
+        },
+        {
+            "text": "Tedious",
+            "meaning": "Sıkıcı, bıktırıcı, uzun ve yorucu",
+            "Synonym": "Boring, Dull, Monotonous"
+        },
+        {
+            "text": "Immersive",
+            "meaning": "Sürükleyici, içine çeken",
+            "Synonym": "Absorbing, Engaging"
+        },
+        {
+            "text": "Conclusive",
+            "meaning": "Kesin, nihai, tartışmasız",
+            "Synonym": "Decisive, Final, Irrefutable"
+        },
+        {
+            "text": "Obsolete",
+            "meaning": "Modası geçmiş, artık kullanılmayan",
+            "Synonym": "Outdated, Old -fashioned"
+        },
+        {
+            "text": "Desirable",
+            "meaning": "Arzu edilen, çekici, istenir",
+            "Synonym": "Attractive, Advantageous"
+        },
+        {
+            "text": "Ambivalent",
+            "meaning": "Kararsız, zıt duyguları bir arada yaşayan",
+            "Synonym": "Uncertain, Indecisive"
+        },
+        {
+            "text": "Plausible",
+            "meaning": "Akla yatkın, makul",
+            "Synonym": "Reasonable, Believable"
+        },
+        {
+            "text": "Prohibitive",
+            "meaning": "(Fiyat vb. için) Aşırı yüksek, engelleyici",
+            "Synonym": "Excessive, Sky -high"
+        },
+        {
+            "text": "Susceptible (to)",
+            "meaning": "Hassas, kolay etkilenen, -e açık",
+            "Synonym": "Vulnerable, Prone"
+        },
+        {
+            "text": "Relentless",
+            "meaning": "Amansız, acımasız, aralıksız",
+            "Synonym": "Persistent, Unyielding"
+        },
+        {
+            "text": "Inherent",
+            "meaning": "Doğasın da olan, doğuştan gelen",
+            "Synonym": "Intrinsic, Innate"
+        },
+        {
+            "text": "Vivid",
+            "meaning": "Canlı, parlak, net",
+            "Synonym": "Bright, Clear, Graphic"
+        },
+        {
+            "text": "Scrupulous",
+            "meaning": "Titiz, dikkatli, etik ilkelere bağlı",
+            "Synonym": "Meticulous, Careful"
+        },
+        {
+            "text": "Lucrative",
+            "meaning": "Karlı, kazançlı",
+            "Synonym": "Profitable, Productive"
+        },
+        {
+            "text": "Ominous",
+            "meaning": "Uğursuz, tehdit edici",
+            "Synonym": "Threatening, Menacing"
+        },
+        {
+            "text": "Formidable",
+            "meaning": "Korkutucu, dişli, aşılması zor",
+            "Synonym": "Daunting, Challenging"
+        },
+        {
+            "text": "Trivial",
+            "meaning": "Önemsiz, ıvır zıvır",
+            "Synonym": "Insignificant, Worthless"
+        },
+        {
+            "text": "Versatile",
+            "meaning": "Çok yönlü, birçok işe yarayan",
+            "Synonym": "Adaptable, Multipurpose"
+        },
+        {
+            "text": "Profound",
+            "meaning": "Derin, köklü, çok büyük etki yapan",
+            "Synonym": "Deep, Intense"
+        },
+        {
+            "text": "Coherent",
+            "meaning": "Tutarlı, mantıklı, uyumlu",
+            "Synonym": "Logical, Consistent"
+        },
+        {
+            "text": "Elusive",
+            "meaning": "Ele geçmez, anlaşılması veya tanımlanması zor",
+            "Synonym": "Evasive, Slippery"
+        },
+        {
+            "text": "Stringent",
+            "meaning": "Sıkı, katı, tavizsiz",
+            "Synonym": "Strict, Rigorous"
+        },
+        {
+            "text": "Exhaustive",
+            "meaning": "Kapsamlı, derinlemesine",
+            "Synonym": "Comprehensive, Thorough"
+        },
+        {
+            "text": "Obscure",
+            "meaning": "Belirsiz, pek bilinmeyen, anlaşılması güç",
+            "Synonym": "Vague, Hidden"
+        },
+        {
+            "text": "Impeccable",
+            "meaning": "Kusursuz, hatasız",
+            "Synonym": "Flawless, Perfect"
+        },
+        {
+            "text": "Ambiguous",
+            "meaning": "Belirsiz, iki anlamlı, muğlak",
+            "Synonym": "Vague, Obscure"
+        },
+        {
+            "text": "Ambivalent",
+            "meaning": "Kararsız, zıt duyguları bir arada yaşayan",
+            "Synonym": "Indecisive, Uncertain"
+        },
+        {
+            "text": "Erratic",
+            "meaning": "Düzensiz, değişken, istikrarsız",
+            "Synonym": "Unpredictable, Inconsistent"
+        },
+        {
+            "text": "Perplexing",
+            "meaning": "Kafa karıştırıcı, şaşırtıcı",
+            "Synonym": "Puzzling, Bewildering"
+        },
+        {
+            "text": "Redundant",
+            "meaning": "Gereksiz, ihtiyaç fazlası",
+            "Synonym": "Unnecessary, Excess"
+        },
+        {
+            "text": "Invaluable",
+            "meaning": "Çok değerli, paha biçilemez",
+            "Synonym": "Priceless, Crucial"
+        },
+        {
+            "text": "Vulnerable (to)",
+            "meaning": "Savunmasız, hassas",
+            "Synonym": "Susceptible, Prone"
+        },
+        {
+            "text": "Arduous",
+            "meaning": "Güç, çetin, çok gayret gerektiren",
+            "Synonym": "Taxing, Strenuous"
+        },
+        {
+            "text": "Incessant",
+            "meaning": "Aralıksız, sürekli",
+            "Synonym": "Constant, Unending"
+        },
+        {
+            "text": "Feasible",
+            "meaning": "Yapılabilir, uygulanabilir",
+            "Synonym": "Viable, Practical"
+        },
+        {
+            "text": "Subtle",
+            "meaning": "Hemen göze çarpmayan, ince, narin",
+            "Synonym": "Delicate, Slight"
+        },
+        {
+            "text": "Vast",
+            "meaning": "Devasa, uçsuz bucaksız",
+            "Synonym": "Immense, Massive"
+        },
+        {
+            "text": "Prevalent",
+            "meaning": "Yaygın, her yerde olan",
+            "Synonym": "Widespread, Common"
+        },
+        {
+            "text": "Indifferent (to)",
+            "meaning": "Kayıtsız, ilgisiz",
+            "Synonym": "Unconcerned, Apathetic"
+        },
+        {
+            "text": "Hazardous",
+            "meaning": "Tehlikeli, riskli",
+            "Synonym": "Dangerous, Perilous"
+        },
+        {
+            "text": "Abundant",
+            "meaning": "Bol, bereketli",
+            "Synonym": "Plentiful, Ample"
+        },
+        {
+            "text": "Trivial",
+            "meaning": "Önemsiz, ıvır zıvır",
+            "Synonym": "Insignificant, Minor"
+        },
+        {
+            "text": "Resilient",
+            "meaning": "Dayanıklı, çabuk toparlanan",
+            "Synonym": "Tough, Flexible"
+        },
+        {
+            "text": "Profound",
+            "meaning": "Derin, köklü, çok büyük etki yapan",
+            "Synonym": "Deep, Intense"
+        },
+        {
+            "text": "Vivid",
+            "meaning": "Canlı, net, parlak",
+            "Synonym": "Bright, Graphic"
+        },
+        {
+            "text": "Obscure",
+            "meaning": "Belirsiz, pek bilinmeyen",
+            "Synonym": "Unknown, Vague"
+        },
+        {
+            "text": "Elusive",
+            "meaning": "Ele geçmez, anlaşılması zor",
+            "Synonym": "Evasive, Hard to find"
+        },
+        {
+            "text": "Sovereign",
+            "meaning": "Egemen, bağımsız",
+            "Synonym": "Autonomous, Independent"
+        },
+        {
+            "text": "Versatile",
+            "meaning": "Çok yönlü, her işe gelir",
+            "Synonym": "Adaptable, Multipurpose"
+        }
+    ]
+}

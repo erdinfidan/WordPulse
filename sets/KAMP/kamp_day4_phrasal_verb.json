@@ -1,0 +1,256 @@
+{
+    "setId": "kamp_day4_phrasal_verb",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Set back",
+            "meaning": "Geciktirmek, aksatmak",
+            "Synonym": "Delay, Hinder"
+        },
+        {
+            "text": "Lie in",
+            "meaning": "-den kaynaklanmak, -de yatmak (sorunun temeli vb.)",
+            "Synonym": "Exist in, Based on"
+        },
+        {
+            "text": "Get rid of",
+            "meaning": "Başından atmak, kurtulmak",
+            "Synonym": "Eliminate, Discard"
+        },
+        {
+            "text": "Bump into",
+            "meaning": "Rastlamak, tesadüfen karşılaşmak",
+            "Synonym": "Run into, Encounter"
+        },
+        {
+            "text": "Comply with",
+            "meaning": "(Kurala, kanuna) Uymak, itaat etmek",
+            "Synonym": "Abide by, Obey"
+        },
+        {
+            "text": "Split up",
+            "meaning": "Ayrılmak, parçalara bölünmek",
+            "Synonym": "Separate, Divide"
+        },
+        {
+            "text": "Dispense with",
+            "meaning": "-siz idare etmek, vazgeçmek, gereksiz görüp atmak",
+            "Synonym": "Do away with, Discard"
+        },
+        {
+            "text": "Interfere with",
+            "meaning": "Müdahale etmek, engel olmak",
+            "Synonym": "Disturb, Meddle"
+        },
+        {
+            "text": "Wipe out",
+            "meaning": "Yok etmek, kökünü kazımak",
+            "Synonym": "Eradicate, Destroy"
+        },
+        {
+            "text": "Pass for",
+            "meaning": "... olarak bilinmek, ... sanılmak",
+            "Synonym": "Be accepted as"
+        },
+        {
+            "text": "Come down with",
+            "meaning": "(Hastalığa) Yakalanmak",
+            "Synonym": "Fall ill, Catch"
+        },
+        {
+            "text": "Go in for",
+            "meaning": "(Sınava) Girmek, (hobiye) merak sarmak, -e ilgi duymak",
+            "Synonym": "Take part in, Participate"
+        },
+        {
+            "text": "Amount to",
+            "meaning": "-e karşılık gelmek, -e ulaşmak (toplamda)",
+            "Synonym": "Equal, Reach"
+        },
+        {
+            "text": "Pin down",
+            "meaning": "Tam olarak belirlemek, zorla kabul ettirmek",
+            "Synonym": "Identify, Constrain"
+        },
+        {
+            "text": "Pertain to",
+            "meaning": "-ile ilgili olmak, -e ait olmak",
+            "Synonym": "Relate to, Concern"
+        },
+        {
+            "text": "Turn down",
+            "meaning": "Reddetmek, (sesini) kısmak",
+            "Synonym": "Reject, Refuse"
+        },
+        {
+            "text": "Substitute for",
+            "meaning": "-in yerine geçmek , yedeklemek",
+            "Synonym": "Replace"
+        },
+        {
+            "text": "Delve into",
+            "meaning": "Araştırmak, derinlemesine incelemek",
+            "Synonym": "Investigate, Research"
+        },
+        {
+            "text": "Merge with",
+            "meaning": "-ile birleşmek",
+            "Synonym": "Combine, Unite"
+        },
+        {
+            "text": "Prevail over",
+            "meaning": "Yenmek, üstün gelmek, hakim olmak",
+            "Synonym": "Overcome, Triumph"
+        },
+        {
+            "text": "Embark on",
+            "meaning": "(Yeni/önemli bir şeye) Başlamak",
+            "Synonym": "Start, Commence"
+        },
+        {
+            "text": "Set off",
+            "meaning": "Yola çıkmak, (bombayı vb.) patlatmak, (bir olayı) tetiklemek",
+            "Synonym": "Depart, Trigger"
+        },
+        {
+            "text": "Go against",
+            "meaning": "-e karşı gelmek, aykırı olmak",
+            "Synonym": "Oppose, Contradict"
+        },
+        {
+            "text": "Get by on",
+            "meaning": "(Kısıtlı bir miktar ile) Geçinmek, idare etmek",
+            "Synonym": "Survive on, Manage"
+        },
+        {
+            "text": "Come along",
+            "meaning": "Gelişmek, ilerleme kaydetmek; beraberinde gelmek",
+            "Synonym": "Progress, Improve"
+        },
+        {
+            "text": "Credit with",
+            "meaning": "-e mal etmek, -den sorumlu tutmak/inanmak",
+            "Synonym": "Attribute to, Ascribe to"
+        },
+        {
+            "text": "Work out",
+            "meaning": "Çözmek, hesaplamak; (bir bütünün miktarını) belirlemek",
+            "Synonym": "Solve, Calculate, Figure out"
+        },
+        {
+            "text": "Rule out",
+            "meaning": "Göz ardı etmek, elemek  *",
+            "Synonym": "Exclude, Eliminate"
+        },
+        {
+            "text": "Bring about",
+            "meaning": "Sebep olmak, yol açmak",
+            "Synonym": "Cause, Lead to"
+        },
+        {
+            "text": "Carry out",
+            "meaning": "Gerçekleştirmek, uygulamak",
+            "Synonym": "Conduct, Implement"
+        },
+        {
+            "text": "Cope with",
+            "meaning": "Başa çıkmak, üstesinden gelmek",
+            "Synonym": "Deal with, Handle"
+        },
+        {
+            "text": "Take after",
+            "meaning": "Benzemek (fiziksel veya karakter olarak)",
+            "Synonym": "Resemble"
+        },
+        {
+            "text": "Look into",
+            "meaning": "Araştırmak, incelemek",
+            "Synonym": "Investigate, Examine"
+        },
+        {
+            "text": "Put off",
+            "meaning": "Ertelemek; soğutmak",
+            "Synonym": "Postpone, Deter"
+        },
+        {
+            "text": "Call for",
+            "meaning": "Gerektirmek; çağrıda bulunmak",
+            "Synonym": "Require, Deman d"
+        },
+        {
+            "text": "Break through",
+            "meaning": "Engeli aşmak, buluş yapmak",
+            "Synonym": "Advance, Penetrate"
+        },
+        {
+            "text": "Make up for",
+            "meaning": "Telafi etmek",
+            "Synonym": "Compensate for"
+        },
+        {
+            "text": "Give in",
+            "meaning": "Boyun eğmek, teslim olmak",
+            "Synonym": "Surrender"
+        },
+        {
+            "text": "Hold back",
+            "meaning": "Durdurmak, engellemek",
+            "Synonym": "Restrain, Hinder"
+        },
+        {
+            "text": "Break out",
+            "meaning": "Patlak vermek (savaş, hastalık)",
+            "Synonym": "Erupt, Start suddenly"
+        },
+        {
+            "text": "Set out",
+            "meaning": "Yola çıkmak; bir işe koyulmak",
+            "Synonym": "Embark on, Start"
+        },
+        {
+            "text": "Fall through",
+            "meaning": "Suya düşmek, başarısız olmak",
+            "Synonym": "Fail, Miscarry"
+        },
+        {
+            "text": "Bring up",
+            "meaning": "Çocuk büyütmek; konu açmak",
+            "Synonym": "Raise, Mention"
+        },
+        {
+            "text": "Go through",
+            "meaning": "İncelemek; (zor süreçten) geçmek",
+            "Synonym": "Undergo, Examine"
+        },
+        {
+            "text": "Keep up with",
+            "meaning": "Ayak uydurmak, hızına yetişmek",
+            "Synonym": "Match, Keep pace with"
+        },
+        {
+            "text": "Result in",
+            "meaning": "-ile sonuçlanmak",
+            "Synonym": "Lead to, Cause"
+        },
+        {
+            "text": "Turn out",
+            "meaning": "... olduğu ortaya çıkmak",
+            "Synonym": "Prove to be, Emerge"
+        },
+        {
+            "text": "Stand for",
+            "meaning": "Temsil etmek; müsamaha göstermek",
+            "Synonym": "Represent, Tolerate"
+        },
+        {
+            "text": "Back up",
+            "meaning": "Desteklemek; yedeklemek",
+            "Synonym": "Support, Confirm"
+        },
+        {
+            "text": "Run out of",
+            "meaning": "Tükenmek, bitmesi",
+            "Synonym": "Exhaust, Deplete"
+        }
+    ]
+}

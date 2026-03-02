@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day1_noun",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Ramification",
+            "meaning": "Dallanma, karmaşık sonuç",
+            "Synonym": "Consequence"
+        },
+        {
+            "text": "Implication",
+            "meaning": "Muhtemel sonuç, ima",
+            "Synonym": "Inference"
+        },
+        {
+            "text": "Discrepancy",
+            "meaning": "Tutarsızlık, çelişki",
+            "Synonym": "Inconsistency"
+        },
+        {
+            "text": "Prevalence",
+            "meaning": "Yaygınlık, görülme sıklığı",
+            "Synonym": "Ubiquity"
+        },
+        {
+            "text": "Constraint",
+            "meaning": "Kısıtlama, sınırlama",
+            "Synonym": "Limitation"
+        },
+        {
+            "text": "Incentive",
+            "meaning": "Teşvik, güdü",
+            "Synonym": "Motivation"
+        },
+        {
+            "text": "Consensus",
+            "meaning": "Uzlaşı, fikir birliği",
+            "Synonym": "Agreement"
+        },
+        {
+            "text": "Ambiguity",
+            "meaning": "Belirsizlik, muğlaklık",
+            "Synonym": "Vagueness"
+        },
+        {
+            "text": "Aftermath",
+            "meaning": "Bir olayın ertesi, kötü sonucu",
+            "Synonym": "Result"
+        },
+        {
+            "text": "Breakthrough",
+            "meaning": "Çığır açan buluş, büyük ilerleme",
+            "Synonym": "Innovation"
+        },
+        {
+            "text": "Deterrent",
+            "meaning": "Caydırıcı güç, engel",
+            "Synonym": "Obstacle"
+        },
+        {
+            "text": "Impairment",
+            "meaning": "Bozulma, eksilme",
+            "Synonym": "Damage"
+        },
+        {
+            "text": "Deprivation",
+            "meaning": "Yoksunluk, mahrumiyet",
+            "Synonym": "Lack"
+        },
+        {
+            "text": "Sustainability",
+            "meaning": "Sürdürülebilirlik",
+            "Synonym": "Continuity"
+        },
+        {
+            "text": "Intervention",
+            "meaning": "Müdahale",
+            "Synonym": "Interference"
+        },
+        {
+            "text": "Acquisition",
+            "meaning": "Edinme, kazanım",
+            "Synonym": "Gain"
+        },
+        {
+            "text": "Implementation",
+            "meaning": "Uygulama, yürütme",
+            "Synonym": "Execution"
+        },
+        {
+            "text": "Compliance",
+            "meaning": "Uyumluluk, riayet",
+            "Synonym": "Conformity"
+        },
+        {
+            "text": "Alteration",
+            "meaning": "Değişiklik, başkalaşım",
+            "Synonym": "Modification"
+        },
+        {
+            "text": "Fluctuation",
+            "meaning": "Dalgalanma, istikrarsızlık",
+            "Synonym": "Variation"
+        },
+        {
+            "text": "Assumption",
+            "meaning": "Varsayım",
+            "Synonym": "Premise"
+        },
+        {
+            "text": "Obstacle",
+            "meaning": "Engel, mani",
+            "Synonym": "Barrier"
+        },
+        {
+            "text": "Prejudice",
+            "meaning": "Önyargı",
+            "Synonym": "Bias"
+        },
+        {
+            "text": "Prosperity",
+            "meaning": "Refah, zenginlik",
+            "Synonym": "Wealth"
+        },
+        {
+            "text": "Correlation",
+            "meaning": "Karşılıklı ilişki, korelasyon",
+            "Synonym": "Association"
+        }
+    ]
+}

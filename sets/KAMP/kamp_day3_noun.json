@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day3_noun",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Precondition",
+            "meaning": "Ön koşul",
+            "Synonym": "Prerequisite, Requirement"
+        },
+        {
+            "text": "Shortcoming",
+            "meaning": "Eksiklik, kusur, noksan",
+            "Synonym": "Defect, Flaw"
+        },
+        {
+            "text": "Resilience",
+            "meaning": "Dayanıklılık, çabuk iyileşme gücü",
+            "Synonym": "Durability, Flexibility"
+        },
+        {
+            "text": "Disparity",
+            "meaning": "Farklılık, eşitsizlik",
+            "Synonym": "Inequality, Difference"
+        },
+        {
+            "text": "Vulnerability",
+            "meaning": "Hassasiyet, savunmasızlık",
+            "Synonym": "Fragility, Susceptibility"
+        },
+        {
+            "text": "Eradication",
+            "meaning": "Kökünü kazıma, yok etme",
+            "Synonym": "Elimination, Extermination"
+        },
+        {
+            "text": "Instability",
+            "meaning": "İstikrarsızlık, dengesizlik",
+            "Synonym": "Unsteadiness, Volatility"
+        },
+        {
+            "text": "Intercourse",
+            "meaning": "İletişim, ilişki",
+            "Synonym": "Communication, Relation"
+        },
+        {
+            "text": "Component",
+            "meaning": "Bileşen, parça",
+            "Synonym": "Element, Constituent"
+        },
+        {
+            "text": "Concession",
+            "meaning": "Taviz, ödün",
+            "Synonym": "Compromise, Yielding"
+        },
+        {
+            "text": "Disruption",
+            "meaning": "Aksama, bozulma, parçalanma",
+            "Synonym": "Disturbance, Disorder"
+        },
+        {
+            "text": "Expansion",
+            "meaning": "Genişleme, büyüme",
+            "Synonym": "Growth, Enlargement"
+        },
+        {
+            "text": "Incentive",
+            "meaning": "Teşvik, güdü",
+            "Synonym": "Stimulus, Motivation"
+        },
+        {
+            "text": "Violation",
+            "meaning": "İhlal, çiğneme",
+            "Synonym": "Breach, Infringement"
+        },
+        {
+            "text": "Predecessor",
+            "meaning": "Halef, bir önceki (makamdaki kişi vb.)",
+            "Synonym": "Ancestor, Forerunner"
+        },
+        {
+            "text": "Subsidization",
+            "meaning": "Sübvansiyon, mali destek sağlama",
+            "Synonym": "Funding, Financial Aid"
+        },
+        {
+            "text": "Consolidated",
+            "meaning": "Birleşmiş, güçlendirilmiş",
+            "Synonym": "Combined, Strengthened"
+        },
+        {
+            "text": "Depletion",
+            "meaning": "Tükenme, azalma",
+            "Synonym": "Reduction, Exhaustion"
+        },
+        {
+            "text": "Innovation",
+            "meaning": "Yenilik, icat",
+            "Synonym": "Novelty, Invention"
+        },
+        {
+            "text": "Recognition",
+            "meaning": "Tanıma, takdir etme",
+            "Synonym": "Identification, Appreciation"
+        },
+        {
+            "text": "Indifference",
+            "meaning": "Kayıtsızlık, ilgisizlik",
+            "Synonym": "Apathy, Unconcern"
+        },
+        {
+            "text": "Surveillance",
+            "meaning": "Gözetleme, denetim",
+            "Synonym": "Observation, Monitoring"
+        },
+        {
+            "text": "Mitigation",
+            "meaning": "Azaltma, hafifletme",
+            "Synonym": "Reduction, Alleviation"
+        },
+        {
+            "text": "Compensation",
+            "meaning": "Tazminat, telafi",
+            "Synonym": "Recompense, Indemnity"
+        },
+        {
+            "text": "Deviation",
+            "meaning": "Sapma, ayrılma",
+            "Synonym": "Departure, Divergence"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day3_phrasal_verb",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Abide by",
+            "meaning": "(Kurala, kanuna) Uymak, itaat etmek",
+            "Synonym": "Comply with, Obey"
+        },
+        {
+            "text": "Back out (of)",
+            "meaning": "Sözünden dönmek, vazgeçmek",
+            "Synonym": "Withdraw, Retreat"
+        },
+        {
+            "text": "Blow up",
+            "meaning": "Patlamak veya patlatmak",
+            "Synonym": "Explode, Detonate"
+        },
+        {
+            "text": "Break out",
+            "meaning": "Birdenbire başlamak, patlak vermek (Savaş, yangın vb.)",
+            "Synonym": "Erupt, Start suddenly"
+        },
+        {
+            "text": "Bring down",
+            "meaning": "Devirmek, (fiyatı/miktarı) düşürmek",
+            "Synonym": "Overthrow, Reduce"
+        },
+        {
+            "text": "Carry on",
+            "meaning": "Devam etmek",
+            "Synonym": "Continue, Keep on"
+        },
+        {
+            "text": "Check out",
+            "meaning": "İncelemek, kontrol etmek",
+            "Synonym": "Examine, Investigate"
+        },
+        {
+            "text": "Count on",
+            "meaning": "Güvenmek, bel bağlamak",
+            "Synonym": "Rely on, Depend on"
+        },
+        {
+            "text": "Draw up",
+            "meaning": "(Plan, sözleşme vb.) Hazırlamak, düzenlemek",
+            "Synonym": "Prepare, Draft"
+        },
+        {
+            "text": "Fall through",
+            "meaning": "Suya düşmek, başarısız olmak (Plan vb. için)",
+            "Synonym": "Fail, Miscarry"
+        },
+        {
+            "text": "Get along (with)",
+            "meaning": "Biriyle iyi geçinmek",
+            "Synonym": "Have a good relationship"
+        },
+        {
+            "text": "Give off",
+            "meaning": "(Gaz, ısı, koku vb.) Yaymak, salmak",
+            "Synonym": "Emit, Release"
+        },
+        {
+            "text": "Hold on",
+            "meaning": "Beklemek, tutunmak",
+            "Synonym": "Wait, Grip"
+        },
+        {
+            "text": "Keep off",
+            "meaning": "Uzak durmak, yaklaştırmamak",
+            "Synonym": "Stay away, Avoid"
+        },
+        {
+            "text": "Lay down",
+            "meaning": "(Kural vb.) Koymak, feda etmek",
+            "Synonym": "Establish, Sacrifice"
+        },
+        {
+            "text": "Look up to",
+            "meaning": "Hayranlık duymak, saygı duymak",
+            "Synonym": "Admire, Respect"
+        },
+        {
+            "text": "Point out",
+            "meaning": "İşaret etmek, belirtmek",
+            "Synonym": "Indicate, State"
+        },
+        {
+            "text": "Pull down",
+            "meaning": "Yıkmak (Bina vb.), moralini bozmak",
+            "Synonym": "Demolish, Destroy"
+        },
+        {
+            "text": "Put forward",
+            "meaning": "Öne sürmek, iddia etmek",
+            "Synonym": "Suggest, Propose"
+        },
+        {
+            "text": "Run over",
+            "meaning": "(Araçla) Ezmek, üstünden geçmek",
+            "Synonym": "Hit, Knock down"
+        },
+        {
+            "text": "Settle down",
+            "meaning": "Yerleşmek, durulmak",
+            "Synonym": "Establish a home, Calm down"
+        },
+        {
+            "text": "Show off",
+            "meaning": "Hava atmak, gösteriş yapmak",
+            "Synonym": "Boast, Display proudly"
+        },
+        {
+            "text": "Take off",
+            "meaning": "(Uçak) Havalanmak, (işlerde) başarılı olmak",
+            "Synonym": "Depart, Remove"
+        },
+        {
+            "text": "Try out",
+            "meaning": "Denemek, test etmek",
+            "Synonym": "Test, Sample"
+        },
+        {
+            "text": "Wear out",
+            "meaning": "Eskitmek, çok yormak",
+            "Synonym": "Erode, Exhaust"
+        }
+    ]
+}

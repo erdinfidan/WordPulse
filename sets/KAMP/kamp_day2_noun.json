@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day2_noun",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Likelihood",
+            "meaning": "Olasılık, ihtimal",
+            "Synonym": "Probability"
+        },
+        {
+            "text": "Paradigm",
+            "meaning": "Model, örnek, bakış açısı",
+            "Synonym": "Pattern"
+        },
+        {
+            "text": "Surplus",
+            "meaning": "Artık, miktar fazlası",
+            "Synonym": "Excess"
+        },
+        {
+            "text": "Scarcity",
+            "meaning": "Kıtlık, nadirlik",
+            "Synonym": "Shortage"
+        },
+        {
+            "text": "Repercussion",
+            "meaning": "Yanıt, yankı, (genelde kötü) sonuç",
+            "Synonym": "Consequence"
+        },
+        {
+            "text": "Contradiction",
+            "meaning": "Çelişki, tezat",
+            "Synonym": "Paradox"
+        },
+        {
+            "text": "Inclination",
+            "meaning": "Eğilim, meyil",
+            "Synonym": "Tendency"
+        },
+        {
+            "text": "Integrity",
+            "meaning": "Dürüstlük, bütünlük",
+            "Synonym": "Unity / Honesty"
+        },
+        {
+            "text": "Sanction",
+            "meaning": "Yaptırım, onay",
+            "Synonym": "Penalty / Approval"
+        },
+        {
+            "text": "Dimension",
+            "meaning": "Boyut, kapsam",
+            "Synonym": "Aspect"
+        },
+        {
+            "text": "Utility",
+            "meaning": "Fayda, yarar",
+            "Synonym": "Usefulness"
+        },
+        {
+            "text": "Cohesion",
+            "meaning": "Uyum, bağlılık, tutunma",
+            "Synonym": "Unity"
+        },
+        {
+            "text": "Predecessor",
+            "meaning": "Halef, bir önceki (makamdaki veya sürümdeki)",
+            "Synonym": "Forerunner"
+        },
+        {
+            "text": "Legacy",
+            "meaning": "Miras, kalıt",
+            "Synonym": "Heritage"
+        },
+        {
+            "text": "Inducement",
+            "meaning": "Teşvik, ikna edici şey",
+            "Synonym": "Incentive"
+        },
+        {
+            "text": "Grievance",
+            "meaning": "Şikayet, yakınma",
+            "Synonym": "Complaint"
+        },
+        {
+            "text": "Calamity",
+            "meaning": "Felaket, büyük yıkım",
+            "Synonym": "Disaster"
+        },
+        {
+            "text": "Proximity",
+            "meaning": "Yakınlık (zaman veya mekan olarak)",
+            "Synonym": "Closeness"
+        },
+        {
+            "text": "Authority",
+            "meaning": "Yetki, otorite",
+            "Synonym": "Power"
+        },
+        {
+            "text": "Composition",
+            "meaning": "Bileşim, yapı",
+            "Synonym": "Structure"
+        },
+        {
+            "text": "Inquiry",
+            "meaning": "Soruşturma, inceleme",
+            "Synonym": "Investigation"
+        },
+        {
+            "text": "Manifestation",
+            "meaning": "Gösterge, belirti",
+            "Synonym": "Expression"
+        },
+        {
+            "text": "Transition",
+            "meaning": "Geçiş, değişim süreci",
+            "Synonym": "Shift"
+        },
+        {
+            "text": "Abundance",
+            "meaning": "Bolluk, bereket",
+            "Synonym": "Plentifulness"
+        },
+        {
+            "text": "Magnitude",
+            "meaning": "Büyüklük, önem derecesi",
+            "Synonym": "Scale"
+        }
+    ]
+}

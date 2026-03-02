@@ -1,0 +1,251 @@
+{
+    "setId": "kamp_day4_noun",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Prospect",
+            "meaning": "Olasılık, umut, beklenti",
+            "Synonym": "Likelihood, Possibility"
+        },
+        {
+            "text": "Reinforcement",
+            "meaning": "Takviye, güçlendirme",
+            "Synonym": "Strengthening, Support"
+        },
+        {
+            "text": "Revelation",
+            "meaning": "Vahiy, açığa çıkma, ifşa",
+            "Synonym": "Disclosure, Declaration"
+        },
+        {
+            "text": "Sanction",
+            "meaning": "Yaptırım, onay",
+            "Synonym": "Penalty, Authorization"
+        },
+        {
+            "text": "Substitution",
+            "meaning": "Yedekleme, yerine geçirme",
+            "Synonym": "Replacement, Exchange"
+        },
+        {
+            "text": "Utilisation",
+            "meaning": "Kullanım, faydalanma",
+            "Synonym": "Usage, Application"
+        },
+        {
+            "text": "Violation",
+            "meaning": "İhlal, çiğneme",
+            "Synonym": "Breach, Infringement"
+        },
+        {
+            "text": "Proliferation",
+            "meaning": "Çoğalma, yayılma",
+            "Synonym": "Expansion, Increase"
+        },
+        {
+            "text": "Justification",
+            "meaning": "Gerekçe, haklı çıkarma",
+            "Synonym": "Reason, Basis"
+        },
+        {
+            "text": "Extinction",
+            "meaning": "Nesli tükenme, yok olma",
+            "Synonym": "Annihilation, Death"
+        },
+        {
+            "text": "Exemption",
+            "meaning": "Muafiyet",
+            "Synonym": "Immunity, Exclusion"
+        },
+        {
+            "text": "Distortion",
+            "meaning": "Çarpıtma, bozulma",
+            "Synonym": "Deformation, Misrepresentation"
+        },
+        {
+            "text": "Discrimination",
+            "meaning": "Ayrımcılık",
+            "Synonym": "Bias, Prejudice"
+        },
+        {
+            "text": "Constraint",
+            "meaning": "Kısıtlama, sınırlama",
+            "Synonym": "Limitation, Restriction"
+        },
+        {
+            "text": "Deprivation",
+            "meaning": "Yoksunluk, mahrumiyet",
+            "Synonym": "Lack, Deficiency"
+        },
+        {
+            "text": "Deterrent",
+            "meaning": "Caydırıcı, engel",
+            "Synonym": "Obstacle, Hindrance"
+        },
+        {
+            "text": "Competence",
+            "meaning": "Yetkinlik, yeterlilik",
+            "Synonym": "Ability, Capability"
+        },
+        {
+            "text": "Resilience",
+            "meaning": "Dayanıklılık, zorlukları aşma gücü",
+            "Synonym": "Durability, Flexibility"
+        },
+        {
+            "text": "Disparity",
+            "meaning": "Farklılık, eşitsizlik",
+            "Synonym": "Inequality, Difference"
+        },
+        {
+            "text": "Incentive",
+            "meaning": "Teşvik, güdü",
+            "Synonym": "Stimulus, Motivation"
+        },
+        {
+            "text": "Precondition",
+            "meaning": "Ön koşul",
+            "Synonym": "Prerequisite, Requirement"
+        },
+        {
+            "text": "Eradication",
+            "meaning": "Kökünü kazıma, yok etme",
+            "Synonym": "Elimination, Extermination"
+        },
+        {
+            "text": "Mitigation",
+            "meaning": "Hafifletme, azaltma",
+            "Synonym": "Reduction, Alleviation"
+        },
+        {
+            "text": "Compensation",
+            "meaning": "Tazminat, telafi",
+            "Synonym": "Recompense, Indemnity"
+        },
+        {
+            "text": "Deviation",
+            "meaning": "Sapma, ayrılma",
+            "Synonym": "Departure, Divergence"
+        },
+        {
+            "text": "Inception",
+            "meaning": "Başlangıç, aşama",
+            "Synonym": "Beginning, Outset"
+        },
+        {
+            "text": "Precursor",
+            "meaning": "Öncü, belirti",
+            "Synonym": "Forerunner, Ancestor"
+        },
+        {
+            "text": "Stagnation",
+            "meaning": "Duraklama, durgunluk",
+            "Synonym": "Inactivity, Standstill"
+        },
+        {
+            "text": "Dissemination",
+            "meaning": "(Bilgi, haber) Yayma, dağıtma",
+            "Synonym": "Spreading, Diffusion"
+        },
+        {
+            "text": "Exertion",
+            "meaning": "(Güç, çaba) Sarf etme, kullanma",
+            "Synonym": "Effort, Application"
+        },
+        {
+            "text": "Cultivation",
+            "meaning": "(Toprak) İşleme; (Yetenek) Geliştirme",
+            "Synonym": "Development, Breeding"
+        },
+        {
+            "text": "Determination (Perseverance)",
+            "meaning": "Kararlılık, azim",
+            "Synonym": "Resolution, Persistence"
+        },
+        {
+            "text": "Prevalence",
+            "meaning": "Yaygınlık, görülme sıklığı",
+            "Synonym": "Widespreadness, Commonness"
+        },
+        {
+            "text": "Extent",
+            "meaning": "Boyut, derece, kapsam",
+            "Synonym": "Range, Degree, Scope"
+        },
+        {
+            "text": "Temptation",
+            "meaning": "Cezbedicilik, (kötü bir şeye) özenme",
+            "Synonym": "Allure, Enticement"
+        },
+        {
+            "text": "Resilience",
+            "meaning": "Esneklik, zorlukları aşma gücü",
+            "Synonym": "Flexibility, Durability"
+        },
+        {
+            "text": "Interruption",
+            "meaning": "Kesinti, ara verme",
+            "Synonym": "Break, Disruption"
+        },
+        {
+            "text": "Tendency",
+            "meaning": "Eğilim, meyil",
+            "Synonym": "Inclination, Lean"
+        },
+        {
+            "text": "Retention",
+            "meaning": "Tutma, muhafaza etme",
+            "Synonym": "Keeping, Preservation"
+        },
+        {
+            "text": "Recurrence",
+            "meaning": "Tekerrür, yeniden oluşma",
+            "Synonym": "Repetition, Return"
+        },
+        {
+            "text": "Exploitation",
+            "meaning": "Sömürü, kendi çıkarına kullanma",
+            "Synonym": "Misuse, Abuse"
+        },
+        {
+            "text": "Extension",
+            "meaning": "Uzatma, genişletme",
+            "Synonym": "Expansion, Prolongation"
+        },
+        {
+            "text": "Priority",
+            "meaning": "Öncelik",
+            "Synonym": "Precedence, I mportance"
+        },
+        {
+            "text": "Consolidation",
+            "meaning": "Güçlendirme, birleştirip sağlamlaştırma",
+            "Synonym": "Strengthening, Unification"
+        },
+        {
+            "text": "Equilibrium",
+            "meaning": "Denge, istikrar",
+            "Synonym": "Balance, Stability"
+        },
+        {
+            "text": "Manifestation",
+            "meaning": "Belirti, gösterge, ortaya çıkma",
+            "Synonym": "Indication, Symptom"
+        },
+        {
+            "text": "Intervention",
+            "meaning": "Müdahale",
+            "Synonym": "Interference, Mediation"
+        },
+        {
+            "text": "Incentive",
+            "meaning": "Teşvik, güdüleyici etken",
+            "Synonym": "Stimulus, Motivation"
+        },
+        {
+            "text": "Incidence",
+            "meaning": "Görülme sıklığı, vaka oranı",
+            "Synonym": "Occurrence, Rate"
+        }
+    ]
+}

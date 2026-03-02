@@ -1,0 +1,256 @@
+{
+    "setId": "kamp_day3_verb",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Mitigate",
+            "meaning": "Azaltmak, hafifletmek",
+            "Synonym": "Alleviate, Relieve"
+        },
+        {
+            "text": "Aggravate",
+            "meaning": "Kötüleştirmek, şiddetlendirmek",
+            "Synonym": "Exacerbate, Worsen"
+        },
+        {
+            "text": "Surpass",
+            "meaning": "Aşmak, önüne geçmek, geride bırakmak",
+            "Synonym": "Exceed, Outdo"
+        },
+        {
+            "text": "Acknowledge",
+            "meaning": "Kabul etmek, itiraf etmek, tanımak",
+            "Synonym": "Admit, Recognize"
+        },
+        {
+            "text": "Undermine",
+            "meaning": "Zayıflatmak, baltalamak",
+            "Synonym": "Weaken, Sabotage"
+        },
+        {
+            "text": "Pinpoint",
+            "meaning": "Saptamak, yerini/nedenini tam olarak belirlemek",
+            "Synonym": "Identify, Determine"
+        },
+        {
+            "text": "Amplify",
+            "meaning": "Artırmak, güçlendirmek, şiddetini artırmak",
+            "Synonym": "Strengthen, Boost"
+        },
+        {
+            "text": "Hinder",
+            "meaning": "Engellemek, aksatmak",
+            "Synonym": "Prevent, Obstacle"
+        },
+        {
+            "text": "Implement",
+            "meaning": "Uygulamak, yürürlüğe koymak",
+            "Synonym": "Execute, Enforce"
+        },
+        {
+            "text": "Sustain",
+            "meaning": "Sürdürmek, devam ettirmek, ayakta tutmak",
+            "Synonym": "Maintain, Retain"
+        },
+        {
+            "text": "Jeopardize",
+            "meaning": "Tehlikeye atmak",
+            "Synonym": "Endanger, Risk"
+        },
+        {
+            "text": "Inhibit",
+            "meaning": "Engellemek, kısıtlamak, dizginlemek",
+            "Synonym": "Restrain, Suppress"
+        },
+        {
+            "text": "Enhance",
+            "meaning": "Artırmak, geliştirmek, iyileştirmek",
+            "Synonym": "Improve, Boost"
+        },
+        {
+            "text": "Deteriorate",
+            "meaning": "Bozulmak, kötüye gitmek",
+            "Synonym": "Worsen, Decline"
+        },
+        {
+            "text": "Assess",
+            "meaning": "Değerlendirmek",
+            "Synonym": "Evaluate, Appraise"
+        },
+        {
+            "text": "Induce",
+            "meaning": "Neden olmak, ikna etmek, tetiklemek",
+            "Synonym": "Persuade, Cause"
+        },
+        {
+            "text": "Constitute",
+            "meaning": "Oluşturmak, teşkil etmek",
+            "Synonym": "Form, Compose, Account for"
+        },
+        {
+            "text": "Reinforce",
+            "meaning": "Pekiştirmek, güçlendirmek, takviye etmek",
+            "Synonym": "Fortify, Strengthen"
+        },
+        {
+            "text": "Exceed",
+            "meaning": "Aşmak, (sınırı) geçmek",
+            "Synonym": "Surpass, Transcend"
+        },
+        {
+            "text": "Facilitate",
+            "meaning": "Kolaylaştırmak, olanak sağlamak",
+            "Synonym": "Aid, Ease"
+        },
+        {
+            "text": "Allocate",
+            "meaning": "Tahsis etmek, ayırmak (kaynak vb.)",
+            "Synonym": "Assign, Apportion"
+        },
+        {
+            "text": "Transform",
+            "meaning": "Dönüştürmek, biçimini değiştirmek",
+            "Synonym": "Alter, Convert"
+        },
+        {
+            "text": "Evolve",
+            "meaning": "Evrim geçirmek, yavaş yavaş gelişmek",
+            "Synonym": "Develop, Progress"
+        },
+        {
+            "text": "Trigger",
+            "meaning": "Tetiklemek, sebep olmak",
+            "Synonym": "Set off, Spark"
+        },
+        {
+            "text": "Attribute (to)",
+            "meaning": "-e yormak, -e atfetmek",
+            "Synonym": "Ascribe"
+        },
+        {
+            "text": "Tentatively",
+            "meaning": "Geçici olarak, kesinleşmemiş bir biçimde",
+            "Synonym": "Provisionally, Hesitantly"
+        },
+        {
+            "text": "Successively",
+            "meaning": "Art arda, birbirini izleyen şekilde",
+            "Synonym": "Consecutively, Sequentially"
+        },
+        {
+            "text": "Indisputably",
+            "meaning": "Tartışmasız bir şekilde",
+            "Synonym": "Unquestionably, Undeniably"
+        },
+        {
+            "text": "Coincidentally",
+            "meaning": "Tesadüfen",
+            "Synonym": "Accidentally, Fortuitously"
+        },
+        {
+            "text": "Radically",
+            "meaning": "Köklü bir şekilde, tamamen",
+            "Synonym": "Drastically, Fundamentally"
+        },
+        {
+            "text": "Ceaselessly",
+            "meaning": "Durmaksızın, aralıksız",
+            "Synonym": "Continuously, Relentlessly"
+        },
+        {
+            "text": "Prohibitively",
+            "meaning": "(Fiyat vb. için) Aşırı derecede, engelleyici düzeyde",
+            "Synonym": "Excessively, Extremely"
+        },
+        {
+            "text": "Intermittently",
+            "meaning": "Aralıklı olarak, kesintili bir şekilde",
+            "Synonym": "Sporadically, Periodically"
+        },
+        {
+            "text": "Exceedingly",
+            "meaning": "Aşırı derecede, fazlasıyla",
+            "Synonym": "Extremely, Exceptionally"
+        },
+        {
+            "text": "Conceivably",
+            "meaning": "Muhtemelen, akla yatkın bir şekilde",
+            "Synonym": "Possibly, Potentially"
+        },
+        {
+            "text": "Disastrously",
+            "meaning": "Feci şekilde, korkunç bir sonuçla",
+            "Synonym": "Catastrophically, Terribly"
+        },
+        {
+            "text": "Indiscriminately",
+            "meaning": "Ayırt etmeksizin, rastgele",
+            "Synonym": "Haphazardly, Randomly"
+        },
+        {
+            "text": "Vaguely",
+            "meaning": "Belirsizce, hayal meyal",
+            "Synonym": "Obscurely, Indistinctly"
+        },
+        {
+            "text": "Magnificently",
+            "meaning": "Görkemli bir şekilde",
+            "Synonym": "Splendidly, Grandly"
+        },
+        {
+            "text": "Diligently",
+            "meaning": "Gayretle, özenle",
+            "Synonym": "Assiduously, Attentively"
+        },
+        {
+            "text": "Indispensably",
+            "meaning": "Zorunlu olarak, vazgeçilmez bir şekilde",
+            "Synonym": "Necessarily, Essentially"
+        },
+        {
+            "text": "Abominably",
+            "meaning": "İğrenç bir ş ekilde, çok kötü",
+            "Synonym": "Dreadfully, Horribly"
+        },
+        {
+            "text": "Plausibly",
+            "meaning": "Akla yatkın bir şekilde",
+            "Synonym": "Reasonably, Believably"
+        },
+        {
+            "text": "Ambivalently",
+            "meaning": "Kararsız bir şekilde, ikilemde kalarak",
+            "Synonym": "Uncertainly"
+        },
+        {
+            "text": "Aggressively",
+            "meaning": "Saldırgan bir şekilde, oldukça hırslı",
+            "Synonym": "Forcefully"
+        },
+        {
+            "text": "Anonymously",
+            "meaning": "İsimsiz bir şekilde, anonim olarak",
+            "Synonym": "Namelessly"
+        },
+        {
+            "text": "Inexorably",
+            "meaning": "Durdurulamaz bir şekilde",
+            "Synonym": "Unstoppably, Relentlessly"
+        },
+        {
+            "text": "Precipitously",
+            "meaning": "Çok hızlı ve dik bir şekilde",
+            "Synonym": "Abruptly, Sharply"
+        },
+        {
+            "text": "Proficiently",
+            "meaning": "Yeterli ve becerikli bir şekilde",
+            "Synonym": "Skillfully, Adequately"
+        },
+        {
+            "text": "Superfluously",
+            "meaning": "Gereksiz yere, ihtiyaç fazlası olarak",
+            "Synonym": "Excessively, Redundantly"
+        }
+    ]
+}

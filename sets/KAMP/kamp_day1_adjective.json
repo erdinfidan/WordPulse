@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day1_adjective",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Considerable",
+            "meaning": "Önemli ölçüde, azımsanmayacak kadar",
+            "Synonym": "Substantial"
+        },
+        {
+            "text": "Slight",
+            "meaning": "Az, hafif, belli belirsiz",
+            "Synonym": "Minor"
+        },
+        {
+            "text": "Abundant",
+            "meaning": "Bol, bereketli, çok fazla",
+            "Synonym": "Plentiful"
+        },
+        {
+            "text": "Scarce",
+            "meaning": "Nadir, yetersiz, kıt",
+            "Synonym": "Rare, Inadequate"
+        },
+        {
+            "text": "Profound",
+            "meaning": "Derin, köklü, çok büyük (etki vb.)",
+            "Synonym": "Deep, Great"
+        },
+        {
+            "text": "Adverse",
+            "meaning": "Olumsuz, zıt, kötü",
+            "Synonym": "Unfavorable, Harmful"
+        },
+        {
+            "text": "Vulnerable (to)",
+            "meaning": "Hassas, savunmasız, -e açık",
+            "Synonym": "Susceptible, Defenseless"
+        },
+        {
+            "text": "Detrimental",
+            "meaning": "Zararlı",
+            "Synonym": "Damaging, Harmful"
+        },
+        {
+            "text": "Ambiguous",
+            "meaning": "Belirsiz, muğlak, iki anlamlı",
+            "Synonym": "Vague, Unclear"
+        },
+        {
+            "text": "Fragile",
+            "meaning": "Hassas, kolay kırılır/bozulur",
+            "Synonym": "Delicate"
+        },
+        {
+            "text": "Consistent",
+            "meaning": "Tutarlı, istikrarlı",
+            "Synonym": "Constant, Steady"
+        },
+        {
+            "text": "Inherent",
+            "meaning": "Doğasında olan, kalıtsal",
+            "Synonym": "Intrinsic, Natural"
+        },
+        {
+            "text": "Evident",
+            "meaning": "Açık, aşikar, belli",
+            "Synonym": "Obvious, Clear"
+        },
+        {
+            "text": "Persistent",
+            "meaning": "Israrcı, kalıcı, devam eden",
+            "Synonym": "Tenacious, Lasting"
+        },
+        {
+            "text": "Invaluable",
+            "meaning": "Paha biçilemez, çok değerli",
+            "Synonym": "Priceless"
+        },
+        {
+            "text": "Diverse",
+            "meaning": "Çeşitli, farklı farklı",
+            "Synonym": "Varied"
+        },
+        {
+            "text": "Disparate",
+            "meaning": "Tamamen farklı, uyumsuz",
+            "Synonym": "Distinct"
+        },
+        {
+            "text": "Identical",
+            "meaning": "Birebir aynı, eş",
+            "Synonym": "Same, Twin"
+        },
+        {
+            "text": "Mutual",
+            "meaning": "Karşılıklı, ortak",
+            "Synonym": "Shared"
+        },
+        {
+            "text": "Sole",
+            "meaning": "Tek, yegane",
+            "Synonym": "Only, Single"
+        },
+        {
+            "text": "Compulsory",
+            "meaning": "Zorunlu",
+            "Synonym": "Mandatory, Obligatory"
+        },
+        {
+            "text": "Feasible",
+            "meaning": "Yapılabilir, mümkün, uygulanabilir",
+            "Synonym": "Practical, Viable"
+        },
+        {
+            "text": "Inadequate",
+            "meaning": "Yetersiz",
+            "Synonym": "Insufficient"
+        },
+        {
+            "text": "Appropriate",
+            "meaning": "Uygun, yerinde",
+            "Synonym": "Suitable, Proper"
+        },
+        {
+            "text": "Crucial",
+            "meaning": "Çok önemli, hayati",
+            "Synonym": "Vital, Essential"
+        }
+    ]
+}

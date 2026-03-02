@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day2_phrasal_verb",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Set aside",
+            "meaning": "Ayırmak, bir kenara koymak",
+            "Synonym": "Reserve / Save"
+        },
+        {
+            "text": "Hold off",
+            "meaning": "Ertelemek, uzak tutmak, durdurmak",
+            "Synonym": "Delay / Postpone"
+        },
+        {
+            "text": "Call for",
+            "meaning": "Gerektirmek, çağrıda bulunmak",
+            "Synonym": "Require / Demand"
+        },
+        {
+            "text": "Ward off",
+            "meaning": "Savuşturmak, (hastalık, tehlike vb.) uzak tutmak",
+            "Synonym": "Repel / Fend off"
+        },
+        {
+            "text": "Wind down",
+            "meaning": "Rahatlamak, yavaş yavaş sona ermek",
+            "Synonym": "Relax / Terminate"
+        },
+        {
+            "text": "Fade away",
+            "meaning": "Yavaş yavaş yok olmak, gücünü yitirmek",
+            "Synonym": "Vanish / Dissolve"
+        },
+        {
+            "text": "Run out of",
+            "meaning": "Bitirmek, tüketmek",
+            "Synonym": "Exhaust / Deplete"
+        },
+        {
+            "text": "Bring up",
+            "meaning": "Ortaya atmak (konu), ço cuk yetiştirmek",
+            "Synonym": "Mention / Rear"
+        },
+        {
+            "text": "Break through",
+            "meaning": "Engeli aşmak, yarıp geçmek",
+            "Synonym": "Penetrate / Overcome"
+        },
+        {
+            "text": "Back up",
+            "meaning": "Desteklemek, doğrulamak, yedeklemek",
+            "Synonym": "Support / Confirm"
+        },
+        {
+            "text": "Close down",
+            "meaning": "Kapatmak, faaliyetine son vermek",
+            "Synonym": "Shut / Cease"
+        },
+        {
+            "text": "Come up with",
+            "meaning": "(Çözüm, fikir) bulmak, üretmek",
+            "Synonym": "Propose / Suggest"
+        },
+        {
+            "text": "Do away with",
+            "meaning": "Yürürlükten kaldırmak, son vermek",
+            "Synonym": "Abolish / Eliminate"
+        },
+        {
+            "text": "Fall apart",
+            "meaning": "Parçalanmak, başa çıkamayıp dağılmak",
+            "Synonym": "Disintegrate / Crumble"
+        },
+        {
+            "text": "Get through",
+            "meaning": "(Zor bir süreci) atlatmak, tüketmek",
+            "Synonym": "Survive / Complete"
+        },
+        {
+            "text": "Hand over",
+            "meaning": "Devretmek, teslim etmek",
+            "Synonym": "Relinquish / Deliver"
+        },
+        {
+            "text": "Lay off",
+            "meaning": "İşten çıkarmak (ekonomik nedenlerle)",
+            "Synonym": "Dismiss / Fire"
+        },
+        {
+            "text": "Look down on",
+            "meaning": "Küçümsemek, hor görmek",
+            "Synonym": "Despise / Scorn"
+        },
+        {
+            "text": "Make out",
+            "meaning": "Anlamak, seçebilmek",
+            "Synonym": "Discern / Understand"
+        },
+        {
+            "text": "Pass out",
+            "meaning": "Bayılmak, dağıtmak",
+            "Synonym": "Faint / Distribute"
+        },
+        {
+            "text": "Pull through",
+            "meaning": "İyileşmek, (zor bir durumdan) kurtulmak",
+            "Synonym": "Recover / Survive"
+        },
+        {
+            "text": "Rule out",
+            "meaning": "Saf dışı bırakmak, olasılığını elemek",
+            "Synonym": "Exclude / Reject"
+        },
+        {
+            "text": "Take after",
+            "meaning": "(Birine) benzemek",
+            "Synonym": "Resemble"
+        },
+        {
+            "text": "Use up",
+            "meaning": "Tamamını tüketmek, bitirmek",
+            "Synonym": "Consume / Finish"
+        },
+        {
+            "text": "Yield to",
+            "meaning": "Boyun eğmek, -e teslim olmak",
+            "Synonym": "Surrender / Succumb"
+        }
+    ]
+}

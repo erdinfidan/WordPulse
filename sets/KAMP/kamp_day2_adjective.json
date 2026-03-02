@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day2_adjective",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Tumultuous",
+            "meaning": "Çalkantılı, gürültülü, karmaşık",
+            "Synonym": "Turbulent / Chaotic"
+        },
+        {
+            "text": "Ubiquitous",
+            "meaning": "Her yerde bulunan, yaygın",
+            "Synonym": "Ever -present / Pervasive"
+        },
+        {
+            "text": "Ambivalent",
+            "meaning": "Kararsız, zıt duyguları bir arada yaşayan",
+            "Synonym": "Uncertain / Mixed"
+        },
+        {
+            "text": "Complacent",
+            "meaning": "Halinden memnun (rehavete kapılmış anlamında)",
+            "Synonym": "Smug / Self - satisfied"
+        },
+        {
+            "text": "Compelling",
+            "meaning": "İkna edici, çok güçlü (kanıt/neden)",
+            "Synonym": "Persuasive / Gripping"
+        },
+        {
+            "text": "Deceptive",
+            "meaning": "Yanıltıcı, aldatıcı",
+            "Synonym": "Misleading"
+        },
+        {
+            "text": "Diligent",
+            "meaning": "Çalışkan, gayretli, titiz",
+            "Synonym": "Industrious / Hard -working"
+        },
+        {
+            "text": "Elusive",
+            "meaning": "Ele geçmez, anlaşılması zor",
+            "Synonym": "Slippery / Hard to define"
+        },
+        {
+            "text": "Erratic",
+            "meaning": "Düzensiz, değişken, kararsız",
+            "Synonym": "Unpredictable / Irregular"
+        },
+        {
+            "text": "Exquisite",
+            "meaning": "Çok zarif, mükemmel işlenmiş",
+            "Synonym": "Beautiful / Superb"
+        },
+        {
+            "text": "Formidable",
+            "meaning": "Korkutucu, aşılması zor, dişli",
+            "Synonym": "Challenging / Daunting"
+        },
+        {
+            "text": "Incessant",
+            "meaning": "Aralıksız, durmaksızın devam eden",
+            "Synonym": "Constant / Never -ending"
+        },
+        {
+            "text": "Indispensable",
+            "meaning": "Vazgeçilmez, çok gerekli",
+            "Synonym": "Essential / Vital"
+        },
+        {
+            "text": "Intricate",
+            "meaning": "Karışık, detaylı, girift",
+            "Synonym": "Complex / Detailed"
+        },
+        {
+            "text": "Lethal",
+            "meaning": "Öldürücü, ölümcül",
+            "Synonym": "Deadly / Fatal"
+        },
+        {
+            "text": "Lucrative",
+            "meaning": "Karlı, kazançlı",
+            "Synonym": "Profitable / Money -making"
+        },
+        {
+            "text": "Negligible",
+            "meaning": "İhmal edilebilir, çok küçük",
+            "Synonym": "Insignificant / Tiny"
+        },
+        {
+            "text": "Obscure",
+            "meaning": "Belirsiz, pek bilinmeyen",
+            "Synonym": "Unknown / Vague"
+        },
+        {
+            "text": "Plausible",
+            "meaning": "Makul, akla yatkın",
+            "Synonym": "Credible / Reasonable"
+        },
+        {
+            "text": "Prohibitive",
+            "meaning": "(Fiyat vb.) aşırı yüksek, engelleyici",
+            "Synonym": "Expensive / Restrictive"
+        },
+        {
+            "text": "Redundant",
+            "meaning": "Gereksiz, ihtiyaç fazlası",
+            "Synonym": "Superfluous / Unnecessary"
+        },
+        {
+            "text": "Resilient",
+            "meaning": "Dirençli, çabuk toparlanan",
+            "Synonym": "Tough / Strong"
+        },
+        {
+            "text": "Stringent",
+            "meaning": "Sıkı, katı (kural/tedbir)",
+            "Synonym": "Strict / Rigorous"
+        },
+        {
+            "text": "Susceptible (to)",
+            "meaning": "Hassas, -e açık, kolay etkilenen",
+            "Synonym": "Vulnerable / Prone"
+        },
+        {
+            "text": "Volatile",
+            "meaning": "Kararsız, her an değişebilen (piyasa vb.)",
+            "Synonym": "Unstable / Explosive"
+        }
+    ]
+}

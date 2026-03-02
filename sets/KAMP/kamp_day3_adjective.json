@@ -1,0 +1,131 @@
+{
+    "setId": "kamp_day3_adjective",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Tremendous",
+            "meaning": "Devasa, çok büyük",
+            "Synonym": "Enormous, Vast"
+        },
+        {
+            "text": "Intricate",
+            "meaning": "Karmaşık, girift",
+            "Synonym": "Complex, Elaborate"
+        },
+        {
+            "text": "Ambiguous",
+            "meaning": "Belirsiz, muğlak, iki anlamlı",
+            "Synonym": "Vague, Unclear"
+        },
+        {
+            "text": "Vulnerable (to)",
+            "meaning": "Hassas, savunmasız, -e açık",
+            "Synonym": "Susceptible, Prone"
+        },
+        {
+            "text": "Invaluable",
+            "meaning": "Paha biçilemez, çok değerli",
+            "Synonym": "Priceless, Precious"
+        },
+        {
+            "text": "Detrimental",
+            "meaning": "Zararlı",
+            "Synonym": "Harmful, Damaging"
+        },
+        {
+            "text": "Feasible",
+            "meaning": "Yapılabilir, mümkün, uygulanabilir",
+            "Synonym": "Viable, Practical"
+        },
+        {
+            "text": "Abundant",
+            "meaning": "Bol, bereketli, çok fazla",
+            "Synonym": "Plentiful, Ample"
+        },
+        {
+            "text": "Scarce",
+            "meaning": "Nadir, yetersiz, kıt",
+            "Synonym": "Rare, Inadequate"
+        },
+        {
+            "text": "Persistent",
+            "meaning": "Israrcı, kalıcı, devam eden",
+            "Synonym": "Tenacious, Lasting"
+        },
+        {
+            "text": "Profound",
+            "meaning": "Derin, köklü, çok büyük (etki vb.)",
+            "Synonym": "Deep, Great"
+        },
+        {
+            "text": "Consistent",
+            "meaning": "Tutarlı, istikrarlı",
+            "Synonym": "Constant, Steady"
+        },
+        {
+            "text": "Inherent",
+            "meaning": "Doğasında olan, kalıtsal",
+            "Synonym": "Intrinsic, Natural"
+        },
+        {
+            "text": "Disparate",
+            "meaning": "Tamamen farklı, uyumsuz",
+            "Synonym": "Distinct, Diverse"
+        },
+        {
+            "text": "Fragile",
+            "meaning": "Hassas, kolay kırılır/bozulur",
+            "Synonym": "Delicate, Weak"
+        },
+        {
+            "text": "Compulsory",
+            "meaning": "Zorunlu",
+            "Synonym": "Mandatory, Obligatory"
+        },
+        {
+            "text": "Exceptional",
+            "meaning": "Olağanüstü, istisnai",
+            "Synonym": "Extraordinary, Remarkable"
+        },
+        {
+            "text": "Simultaneous",
+            "meaning": "Eş zamanlı, aynı anda meydana gelen",
+            "Synonym": "Concurrent, Coexisting"
+        },
+        {
+            "text": "Devastating",
+            "meaning": "Yıkıcı, tahrip edici, mahveden",
+            "Synonym": "Destructive, Ruinous"
+        },
+        {
+            "text": "Preliminary",
+            "meaning": "Ön, başlangıç niteliğinde",
+            "Synonym": "Initial, Introductory"
+        },
+        {
+            "text": "Pervasive",
+            "meaning": "Yaygın, her tarafa yayılan",
+            "Synonym": "Widespread, Common"
+        },
+        {
+            "text": "Inexplicable",
+            "meaning": "Açıklanamaz, izahı mümkün olmayan",
+            "Synonym": "Unaccountable, Mysterious"
+        },
+        {
+            "text": "Notable",
+            "meaning": "Kayda değer, önemli",
+            "Synonym": "Significant, Remarkable"
+        },
+        {
+            "text": "Swift",
+            "meaning": "Hızlı, süratli",
+            "Synonym": "Rapid, Quick"
+        },
+        {
+            "text": "Comprehensive",
+            "meaning": "Kapsamlı, geniş çaplı",
+            "Synonym": "Extensive, Thorough"
+        }
+    ]
+}

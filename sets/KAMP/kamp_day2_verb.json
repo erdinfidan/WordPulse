@@ -1,0 +1,256 @@
+{
+    "setId": "kamp_day2_verb",
+    "version": "1.1.0",
+    "words": [
+        {
+            "text": "Abide by",
+            "meaning": "(Kurala/Kanuna) uymak, itaat etmek",
+            "Synonym": "Comply with"
+        },
+        {
+            "text": "Adhere to",
+            "meaning": "Bağlı kalmak, sadık kalmak",
+            "Synonym": "Stick to"
+        },
+        {
+            "text": "Administer",
+            "meaning": "Yönetmek, (ilaç/tedavi) uygulamak",
+            "Synonym": "Manage / Direct"
+        },
+        {
+            "text": "Allude to",
+            "meaning": "İma etmek, dolaylı yoldan değinmek",
+            "Synonym": "Hint at"
+        },
+        {
+            "text": "Assimilate",
+            "meaning": "Benimsemek, özümsemek",
+            "Synonym": "Absorb"
+        },
+        {
+            "text": "Coincide with",
+            "meaning": "Aynı ana denk gelmek, çakışmak",
+            "Synonym": "Match"
+        },
+        {
+            "text": "Collaborate",
+            "meaning": "İş birliği yapmak",
+            "Synonym": "Work together"
+        },
+        {
+            "text": "Commence",
+            "meaning": "Başlamak",
+            "Synonym": "Start / Begin"
+        },
+        {
+            "text": "Compel",
+            "meaning": "Zorlamak, mecbur bırakmak",
+            "Synonym": "Force"
+        },
+        {
+            "text": "Concede",
+            "meaning": "(İstemeyerek de olsa) kabul etmek, itiraf etmek",
+            "Synonym": "Admit"
+        },
+        {
+            "text": "Curb",
+            "meaning": "Dizginlemek, kontrol altına almak",
+            "Synonym": "Restrain / Check"
+        },
+        {
+            "text": "Decipher",
+            "meaning": "Çözmek, deşifre etmek",
+            "Synonym": "Decode / Solve"
+        },
+        {
+            "text": "Deviate",
+            "meaning": "(Yoldan/Konudan) sapmak",
+            "Synonym": "Diverge"
+        },
+        {
+            "text": "Disseminate",
+            "meaning": "(Bilgi/Haber) yaymak",
+            "Synonym": "Spread"
+        },
+        {
+            "text": "Elicit",
+            "meaning": "(Cevap/Tepki) uyandırmak, ortaya çıkarmak",
+            "Synonym": "Extract"
+        },
+        {
+            "text": "Embody",
+            "meaning": "Somutlaştırmak, bünyesinde barındırmak",
+            "Synonym": "Represent"
+        },
+        {
+            "text": "Evoke",
+            "meaning": "Anımsatmak, uyandırmak",
+            "Synonym": "Remind / Invoke"
+        },
+        {
+            "text": "Exert",
+            "meaning": "(Güç/Çaba) sarf etmek, uygulamak",
+            "Synonym": "Apply"
+        },
+        {
+            "text": "Forgo",
+            "meaning": "-den vazgeçmek, mahrum kalmayı kabul etmek",
+            "Synonym": "Give up"
+        },
+        {
+            "text": "Harness",
+            "meaning": "(Bir gücü/kaynağı) kullanmak, dizginlemek",
+            "Synonym": "Utilize"
+        },
+        {
+            "text": "Induce",
+            "meaning": "Sebep olmak, ikna etmek",
+            "Synonym": "Persuade / Stimulate"
+        },
+        {
+            "text": "Incur",
+            "meaning": "(Borç/Ceza/Zarar) uğramak, maruz kalmak",
+            "Synonym": "Suffer"
+        },
+        {
+            "text": "Jeopardize",
+            "meaning": "Tehlikeye atmak",
+            "Synonym": "Endanger / Compromise"
+        },
+        {
+            "text": "Nullify",
+            "meaning": "Geçersiz kılmak, iptal etmek",
+            "Synonym": "Cancel / Void"
+        },
+        {
+            "text": "Thrive",
+            "meaning": "Gelişmek, serpilmek, çok başarılı olmak",
+            "Synonym": "Flourish / Prosper"
+        },
+        {
+            "text": "Adversely",
+            "meaning": "Olumsuz yönde, kötü bir şekilde",
+            "Synonym": "Negatively / Harmfully"
+        },
+        {
+            "text": "Inadvertently",
+            "meaning": "İstemeyerek, kazara",
+            "Synonym": "Unintentionally / Accidentally"
+        },
+        {
+            "text": "Ambiguously",
+            "meaning": "Belirsiz bir şekilde, muğlakça",
+            "Synonym": "Vaguely / Unclearly"
+        },
+        {
+            "text": "Conclusively",
+            "meaning": "Kesin olarak, tartışmasız bir biçimde",
+            "Synonym": "Decisively / Finally"
+        },
+        {
+            "text": "Drastically",
+            "meaning": "Radikal bir şekilde, şiddetle",
+            "Synonym": "Radically / Severely"
+        },
+        {
+            "text": "Exclusively",
+            "meaning": "Sadece, yalnızca, özel olarak",
+            "Synonym": "Solely / Only"
+        },
+        {
+            "text": "Implicitly",
+            "meaning": "İma yollu, üstü kapalı olarak",
+            "Synonym": "Indirectly"
+        },
+        {
+            "text": "Inevitably",
+            "meaning": "Kaçınılmaz bir şekilde",
+            "Synonym": "Unavoidably"
+        },
+        {
+            "text": "Reluctantly",
+            "meaning": "İsteksizce, gönülsüzce",
+            "Synonym": "Unwillingly"
+        },
+        {
+            "text": "Simultaneously",
+            "meaning": "Eş zamanlı olarak",
+            "Synonym": "Concurrently / At the same time"
+        },
+        {
+            "text": "Superficially",
+            "meaning": "Yüzeysel olarak",
+            "Synonym": "On the surface"
+        },
+        {
+            "text": "Unanimously",
+            "meaning": "Oy birliğiyle, herkesçe kabul edilerek",
+            "Synonym": "Consistently"
+        },
+        {
+            "text": "Virtually",
+            "meaning": "Neredeyse, hemen hemen",
+            "Synonym": "Practically / Almost"
+        },
+        {
+            "text": "Abruptly",
+            "meaning": "Aniden, birdenbire",
+            "Synonym": "Suddenly"
+        },
+        {
+            "text": "Appropriately",
+            "meaning": "Uygun bir şekilde",
+            "Synonym": "Suitably / Properly"
+        },
+        {
+            "text": "Deliberately",
+            "meaning": "Kasten, bilerek",
+            "Synonym": "On purpose / Intentionally"
+        },
+        {
+            "text": "Extensively",
+            "meaning": "Kapsamlı bir şekilde, yaygınca",
+            "Synonym": "Widely / Broadly"
+        },
+        {
+            "text": "Inherentely",
+            "meaning": "Doğası gereği, do ğuştan",
+            "Synonym": "Intrinsically / Naturally"
+        },
+        {
+            "text": "Mutually",
+            "meaning": "Karşılıklı olarak",
+            "Synonym": "Reciprocally"
+        },
+        {
+            "text": "Profoundly",
+            "meaning": "Derinden, oldukça fazla",
+            "Synonym": "Deeply / Greatly"
+        },
+        {
+            "text": "Scarcely",
+            "meaning": "Neredeyse hiç, zar zor",
+            "Synonym": "Hardly / Barely"
+        },
+        {
+            "text": "Specifically",
+            "meaning": "Özellikle, mahsusen",
+            "Synonym": "Particularly"
+        },
+        {
+            "text": "Thoroughly",
+            "meaning": "Tamamen, derinlemesine",
+            "Synonym": "Completely / Fully"
+        },
+        {
+            "text": "Vigorously",
+            "meaning": "Güçlü bir şekilde, enerjikçe",
+            "Synonym": "Energetically / Strongly"
+        },
+        {
+            "text": "Utterly",
+            "meaning": "Tamamen, büsbütün (Genelde olumsuz durumlar için)",
+            "Synonym": "Entirely / Totally"
+        }
+    ]
+}
