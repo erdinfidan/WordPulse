@@ -3,84 +3,176 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "birthday",
-            "meaning": "doğum günü"
+            "meaning": "Doğum günü",
+            "text": "Birthday"
         },
         {
-            "text": "wedding",
-            "meaning": "düğün"
+            "meaning": "Düğün",
+            "text": "Wedding"
         },
         {
-            "text": "anniversary",
-            "meaning": "yıl dönümü"
+            "meaning": "Yıl dönümü",
+            "text": "Anniversary"
         },
         {
-            "text": "festival",
-            "meaning": "festival"
+            "meaning": "Mezuniyet",
+            "text": "Graduation"
         },
         {
-            "text": "graduation",
-            "meaning": "mezuniyet"
+            "meaning": "Davetiye",
+            "text": "Invitation"
         },
         {
-            "text": "invitation",
-            "meaning": "davetiye"
+            "meaning": "Misafir",
+            "text": "Guest"
         },
         {
-            "text": "guest",
-            "meaning": "misafir"
+            "meaning": "Hediye",
+            "text": "Gift"
         },
         {
-            "text": "gift",
-            "meaning": "hediye"
+            "meaning": "Paketlemek",
+            "text": "Wrap"
         },
         {
-            "text": "wrap",
-            "meaning": "paketlemek"
+            "meaning": "Süslemek",
+            "text": "Decorate"
         },
         {
-            "text": "decorate",
-            "meaning": "süslemek"
+            "meaning": "Havai fişek",
+            "text": "Fireworks"
         },
         {
-            "text": "balloon",
-            "meaning": "balon"
+            "meaning": "Gelenek",
+            "text": "Tradition"
         },
         {
-            "text": "fireworks",
-            "meaning": "havai fişek"
+            "meaning": "Kutlamak",
+            "text": "Celebrate"
         },
         {
-            "text": "costume",
-            "meaning": "kostüm"
+            "meaning": "Tören",
+            "text": "Ceremony"
         },
         {
-            "text": "tradition",
-            "meaning": "gelenek"
+            "meaning": "Geçit töreni",
+            "text": "Parade"
         },
         {
-            "text": "holiday",
-            "meaning": "tatil/bayram"
+            "meaning": "Mum",
+            "text": "Candle"
         },
         {
-            "text": "celebrate",
-            "meaning": "kutlamak"
+            "text": "Need",
+            "meaning": "İhtiyaç"
         },
         {
-            "text": "ceremony",
-            "meaning": "tören"
+            "text": "Beverage",
+            "meaning": "İçecek"
         },
         {
-            "text": "parade",
-            "meaning": "geçit töreni"
+            "text": "Food",
+            "meaning": "Yiyecek"
         },
         {
-            "text": "candle",
-            "meaning": "mum"
+            "text": "Drink",
+            "meaning": "İçecek"
         },
         {
-            "text": "venue",
-            "meaning": "etkinlik yeri"
+            "text": "Invitation card",
+            "meaning": "Davetiye"
+        },
+        {
+            "text": "To-do list",
+            "meaning": "Yapılacak listesi"
+        },
+        {
+            "text": "Flower",
+            "meaning": "Çiçek"
+        },
+        {
+            "text": "Guest list",
+            "meaning": "Konuk listesi"
+        },
+        {
+            "text": "Cookie",
+            "meaning": "Kurabiye"
+        },
+        {
+            "text": "Eid al-Fitr",
+            "meaning": "Ramazan bayramı"
+        },
+        {
+            "text": "Eid al -Adha",
+            "meaning": "Kurban bayramı"
+        },
+        {
+            "text": "Farewell",
+            "meaning": "Veda"
+        },
+        {
+            "text": "Prepare",
+            "meaning": "Hazırlamak"
+        },
+        {
+            "text": "Write",
+            "meaning": "Yazmak"
+        },
+        {
+            "text": "Attend",
+            "meaning": "Katılmak"
+        },
+        {
+            "text": "Organise",
+            "meaning": "Organize etmek"
+        },
+        {
+            "text": "Buy",
+            "meaning": "Satın almak"
+        },
+        {
+            "text": "Send",
+            "meaning": "Göndermek"
+        },
+        {
+            "text": "A lot of",
+            "meaning": "Çok"
+        },
+        {
+            "text": "Some",
+            "meaning": "Biraz/Birkaç"
+        },
+        {
+            "text": "A few",
+            "meaning": "Birkaç"
+        },
+        {
+            "text": "A little",
+            "meaning": "Biraz"
+        },
+        {
+            "text": "Any",
+            "meaning": "Hiç"
+        },
+        {
+            "text": "First",
+            "meaning": "Birinci"
+        },
+        {
+            "text": "Second",
+            "meaning": "İkinci"
+        },
+        {
+            "text": "Next",
+            "meaning": "Sonraki"
+        },
+        {
+            "text": "Then",
+            "meaning": "Sonra"
+        },
+        {
+            "text": "Finally",
+            "meaning": "Son olarak"
         }
     ]
 }

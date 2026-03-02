@@ -3,76 +3,128 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "holiday",
-            "meaning": "tatil"
+            "meaning": "Tatil",
+            "text": "Holiday"
         },
         {
-            "text": "celebration",
-            "meaning": "kutlama"
+            "text": "Seaside",
+            "meaning": "Deniz kenarı"
         },
         {
-            "text": "festival",
-            "meaning": "festival"
+            "text": "Farm",
+            "meaning": "Çiftlik"
         },
         {
-            "text": "tradition",
-            "meaning": "gelenek"
+            "text": "Mountain",
+            "meaning": "Dağ"
         },
         {
-            "text": "birthday",
-            "meaning": "doğum günü"
+            "text": "Lake",
+            "meaning": "Göl"
         },
         {
-            "text": "wedding",
-            "meaning": "düğün"
+            "text": "Summer",
+            "meaning": "Yaz"
         },
         {
-            "text": "invitation",
-            "meaning": "davetiye"
+            "text": "Winter",
+            "meaning": "Kış"
         },
         {
-            "text": "gift",
-            "meaning": "hediye"
+            "text": "Sea",
+            "meaning": "Deniz"
         },
         {
-            "text": "decorate",
-            "meaning": "süslemek"
+            "text": "Beach",
+            "meaning": "Sahil"
         },
         {
-            "text": "balloon",
-            "meaning": "balon"
+            "text": "Weekend",
+            "meaning": "Haftasonu"
         },
         {
-            "text": "party",
-            "meaning": "parti"
+            "text": "Plant tree",
+            "meaning": "Ağaç dikmek"
         },
         {
-            "text": "fireworks",
-            "meaning": "havai fişek"
+            "text": "Travel",
+            "meaning": "Seyahat etmek"
         },
         {
-            "text": "costume",
-            "meaning": "kostüm"
+            "text": "Skiing",
+            "meaning": "Kayak"
         },
         {
-            "text": "prepare",
-            "meaning": "hazırlamak"
+            "text": "Diving",
+            "meaning": "Dalış yapmak"
         },
         {
-            "text": "wish",
-            "meaning": "dilemek"
+            "text": "Historical place",
+            "meaning": "Tarihi yer"
         },
         {
-            "text": "celebrate",
-            "meaning": "kutlamak"
+            "text": "Ancient city",
+            "meaning": "Antik kent"
         },
         {
-            "text": "special day",
-            "meaning": "özel gün"
+            "text": "Sailing",
+            "meaning": "Yelkenli sporu"
         },
         {
-            "text": "traditional food",
-            "meaning": "geleneksel yemek"
+            "text": "Climb tree",
+            "meaning": "Ağaca tırmanmak"
+        },
+        {
+            "text": "Help",
+            "meaning": "Yardım etmek"
+        },
+        {
+            "text": "Collect wood",
+            "meaning": "Odun toplamak"
+        },
+        {
+            "text": "Pick fruit",
+            "meaning": "Meyve toplamak"
+        },
+        {
+            "text": "Sunbath",
+            "meaning": "Güneşlenmek"
+        },
+        {
+            "text": "Sightseeing tour",
+            "meaning": "Gezi turu"
+        },
+        {
+            "text": "Campfire",
+            "meaning": "Kamp ateşi"
+        },
+        {
+            "text": "Cruise",
+            "meaning": "Gemi gezisi"
+        },
+        {
+            "text": "New skill",
+            "meaning": "Yeni yetenek"
+        },
+        {
+            "text": "Learn",
+            "meaning": "Öğrenmek"
+        },
+        {
+            "text": "Water the vegetable",
+            "meaning": "Sebze sulamak"
+        },
+        {
+            "text": "Last",
+            "meaning": "Geçen"
+        },
+        {
+            "text": "Ago",
+            "meaning": "Önce"
+        },
+        {
+            "text": "Yesterday",
+            "meaning": "Dün"
         }
     ]
 }

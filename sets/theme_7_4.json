@@ -3,100 +3,232 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "lion",
-            "meaning": "aslan"
+            "meaning": "Aslan",
+            "text": "Lion"
         },
         {
-            "text": "tiger",
-            "meaning": "kaplan"
+            "meaning": "Kaplan",
+            "text": "Tiger"
         },
         {
-            "text": "bear",
-            "meaning": "ayı"
+            "meaning": "Ayı",
+            "text": "Bear"
         },
         {
-            "text": "wolf",
-            "meaning": "kurt"
+            "meaning": "Kurt",
+            "text": "Wolf"
         },
         {
-            "text": "fox",
-            "meaning": "tilki"
+            "meaning": "Tilki",
+            "text": "Fox"
         },
         {
-            "text": "giraffe",
-            "meaning": "zürafa"
+            "meaning": "Zürafa",
+            "text": "Giraffe"
         },
         {
-            "text": "elephant",
-            "meaning": "fil"
+            "meaning": "Fil",
+            "text": "Elephant"
         },
         {
-            "text": "rhino",
-            "meaning": "gergedan"
+            "meaning": "Gergedan",
+            "text": "Rhino"
         },
         {
-            "text": "hippo",
-            "meaning": "su aygırı"
+            "meaning": "Su aygırı",
+            "text": "Hippo"
         },
         {
-            "text": "kangaroo",
-            "meaning": "kanguru"
+            "meaning": "Çita",
+            "text": "Cheetah"
         },
         {
-            "text": "zebra",
-            "meaning": "zebra"
+            "meaning": "Leopar",
+            "text": "Leopard"
         },
         {
-            "text": "cheetah",
-            "meaning": "çita"
+            "meaning": "Maymun",
+            "text": "Monkey"
         },
         {
-            "text": "leopard",
-            "meaning": "leopar"
+            "meaning": "Goril",
+            "text": "Gorilla"
         },
         {
-            "text": "monkey",
-            "meaning": "maymun"
+            "meaning": "Yılan",
+            "text": "Snake"
         },
         {
-            "text": "gorilla",
-            "meaning": "goril"
+            "meaning": "Timsah",
+            "text": "Crocodile"
         },
         {
-            "text": "snake",
-            "meaning": "yılan"
+            "meaning": "Kartal",
+            "text": "Eagle"
         },
         {
-            "text": "crocodile",
-            "meaning": "timsah"
+            "meaning": "Köpekbalığı",
+            "text": "Shark"
         },
         {
-            "text": "eagle",
-            "meaning": "kartal"
+            "meaning": "Balina",
+            "text": "Whale"
         },
         {
-            "text": "shark",
-            "meaning": "köpekbalığı"
+            "meaning": "Yunus balığı",
+            "text": "Dolphin"
         },
         {
-            "text": "whale",
-            "meaning": "balina"
+            "meaning": "Deve",
+            "text": "Camel"
         },
         {
-            "text": "dolphin",
-            "meaning": "yunus"
+            "text": "Deer",
+            "meaning": "Geyik"
         },
         {
-            "text": "penguin",
-            "meaning": "penguen"
+            "text": "Seal",
+            "meaning": "Fok balığı"
         },
         {
-            "text": "camel",
-            "meaning": "deve"
+            "text": "Meerkat",
+            "meaning": "Mirket"
         },
         {
-            "text": "hyena",
-            "meaning": "sırtlan"
+            "text": "Lovebird",
+            "meaning": "Muhabbet kuşu"
+        },
+        {
+            "text": "Octopus",
+            "meaning": "Ahtapot"
+        },
+        {
+            "text": "Owl",
+            "meaning": "Baykuş"
+        },
+        {
+            "text": "Canary",
+            "meaning": "Kanarya"
+        },
+        {
+            "text": "Lizard",
+            "meaning": "Kertenkele"
+        },
+        {
+            "text": "Stork",
+            "meaning": "Leylek"
+        },
+        {
+            "text": "Falcon",
+            "meaning": "Doğan/Şahin"
+        },
+        {
+            "text": "Bat",
+            "meaning": "Yarasa"
+        },
+        {
+            "text": "Insect",
+            "meaning": "Böcek"
+        },
+        {
+            "text": "Seagull",
+            "meaning": "Martı"
+        },
+        {
+            "text": "Pigeon",
+            "meaning": "Güvercin"
+        },
+        {
+            "text": "Carnivore",
+            "meaning": "Etçil"
+        },
+        {
+            "text": "Herbivore",
+            "meaning": "Otçul"
+        },
+        {
+            "text": "Omnivore",
+            "meaning": "Hem etçil hem otçul"
+        },
+        {
+            "text": "Reptile",
+            "meaning": "Sürüngen"
+        },
+        {
+            "text": "Mammal",
+            "meaning": "Memeli hayvan"
+        },
+        {
+            "text": "Bird",
+            "meaning": "Kuş"
+        },
+        {
+            "text": "Claw",
+            "meaning": "Pençe"
+        },
+        {
+            "text": "Beak",
+            "meaning": "Gaga"
+        },
+        {
+            "text": "Neck",
+            "meaning": "Boyun"
+        },
+        {
+            "text": "Wing",
+            "meaning": "Kanat"
+        },
+        {
+            "text": "Tail",
+            "meaning": "Kuyruk"
+        },
+        {
+            "text": "Skin",
+            "meaning": "Deri"
+        },
+        {
+            "text": "Hump",
+            "meaning": "Hörgüç"
+        },
+        {
+            "text": "Fin",
+            "meaning": "Yüzgeç"
+        },
+        {
+            "text": "Tusk",
+            "meaning": "Fildişi"
+        },
+        {
+            "text": "Trunk",
+            "meaning": "Fil hortumu"
+        },
+        {
+            "text": "Habitat",
+            "meaning": "Yaşam alanı"
+        },
+        {
+            "text": "Population",
+            "meaning": "Nüfus"
+        },
+        {
+            "text": "Endangered",
+            "meaning": "Nesli tehlikede"
+        },
+        {
+            "text": "Extinct",
+            "meaning": "Nesli tükenmiş"
+        },
+        {
+            "text": "Poisonous",
+            "meaning": "Zehirli"
+        },
+        {
+            "text": "Dangerous",
+            "meaning": "Tehlikeli"
+        },
+        {
+            "text": "Harmless",
+            "meaning": "Zararsız"
         }
     ]
 }

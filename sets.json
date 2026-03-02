@@ -1,6 +1,6 @@
 {
     "version": "1.2.1",
-    "lastUpdated": "2026-03-02",
+    "lastUpdated": "2026-03-03",
     "sets": [
         {
             "id": "kamp_day1_noun",
@@ -807,12 +807,12 @@
             "icon": "🔥",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 5",
-            "wordCount": 19,
+            "wordCount": 26,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_5_4.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-24"
+            "lastUpdated": "2026-03-02"
         },
         {
             "id": "theme_5_5",
@@ -821,12 +821,12 @@
             "icon": "🔥",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 5",
-            "wordCount": 23,
+            "wordCount": 38,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_5_5.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-02"
         },
         {
             "id": "theme_5_6",
@@ -1405,100 +1405,100 @@
         {
             "id": "theme_6_1",
             "name": "Theme 1",
-            "description": "",
-            "icon": "📚",
-            "category": "ORTAOKUL",
-            "subCategory": "GRADE 6",
-            "wordCount": 19,
-            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_1.json",
-            "size": "0.1 KB",
-            "difficulty": "intermediate",
-            "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
-        },
-        {
-            "id": "theme_6_2",
-            "name": "Theme 2",
-            "description": "",
-            "icon": "📚",
-            "category": "ORTAOKUL",
-            "subCategory": "GRADE 6",
-            "wordCount": 25,
-            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_2.json",
-            "size": "0.1 KB",
-            "difficulty": "intermediate",
-            "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
-        },
-        {
-            "id": "theme_6_3",
-            "name": "Theme 3",
-            "description": "",
-            "icon": "📚",
-            "category": "ORTAOKUL",
-            "subCategory": "GRADE 6",
-            "wordCount": 25,
-            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_3.json",
-            "size": "0.1 KB",
-            "difficulty": "intermediate",
-            "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
-        },
-        {
-            "id": "theme_6_4",
-            "name": "Theme 4",
-            "description": "",
+            "description": "LIFE",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 6",
             "wordCount": 22,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_1.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-03-02"
+        },
+        {
+            "id": "theme_6_2",
+            "name": "Theme 2",
+            "description": "YUMMY BREAKFAST",
+            "icon": "📚",
+            "category": "ORTAOKUL",
+            "subCategory": "GRADE 6",
+            "wordCount": 35,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_2.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-03-02"
+        },
+        {
+            "id": "theme_6_3",
+            "name": "Theme 3",
+            "description": "DOWNTOWN",
+            "icon": "📚",
+            "category": "ORTAOKUL",
+            "subCategory": "GRADE 6",
+            "wordCount": 37,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_3.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-03-02"
+        },
+        {
+            "id": "theme_6_4",
+            "name": "Theme 4",
+            "description": "WEATHER AND EMOTIONS",
+            "icon": "📚",
+            "category": "ORTAOKUL",
+            "subCategory": "GRADE 6",
+            "wordCount": 36,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_4.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-02"
         },
         {
             "id": "theme_6_5",
             "name": "Theme 5",
-            "description": "",
+            "description": "AT THE FAIR",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 6",
-            "wordCount": 20,
+            "wordCount": 30,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_5.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-02"
         },
         {
             "id": "theme_6_6",
             "name": "Theme 6",
-            "description": "",
+            "description": "OCCUPATIONS",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 6",
-            "wordCount": 23,
+            "wordCount": 47,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_6.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-02"
         },
         {
             "id": "theme_6_7",
             "name": "Theme 7",
-            "description": "",
+            "description": "HOLIDAYS",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 6",
-            "wordCount": 18,
+            "wordCount": 31,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_6_7.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-02"
         },
         {
             "id": "theme_6_8",
@@ -1545,86 +1545,86 @@
         {
             "id": "theme_7_1",
             "name": "Theme 1",
-            "description": "",
+            "description": "APPEARANCE AND PERSONALITY",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 7",
-            "wordCount": 22,
+            "wordCount": 55,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_7_1.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-03"
         },
         {
             "id": "theme_7_2",
             "name": "Theme 2",
-            "description": "",
+            "description": "SPORTS",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 7",
-            "wordCount": 23,
+            "wordCount": 59,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_7_2.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-03"
         },
         {
             "id": "theme_7_3",
             "name": "Theme 3",
-            "description": "",
+            "description": "BIOGRAPHIES",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 7",
-            "wordCount": 20,
+            "wordCount": 42,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_7_3.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-03"
         },
         {
             "id": "theme_7_4",
             "name": "Theme 4",
-            "description": "",
+            "description": "WILD ANIMALS",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 7",
-            "wordCount": 24,
+            "wordCount": 57,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_7_4.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-03"
         },
         {
             "id": "theme_7_5",
             "name": "Theme 5",
-            "description": "",
+            "description": "TELEVISION",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 7",
-            "wordCount": 22,
+            "wordCount": 34,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_7_5.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-03"
         },
         {
             "id": "theme_7_6",
             "name": "Theme 6",
-            "description": "",
+            "description": "CELEBRATIONS",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 7",
-            "wordCount": 20,
+            "wordCount": 43,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_7_6.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-03"
         },
         {
             "id": "theme_7_7",
@@ -2115,6 +2115,20 @@
             "difficulty": "intermediate",
             "version": "1.0.0",
             "lastUpdated": "2026-02-26"
+        },
+        {
+            "id": "theme_2_5",
+            "name": "Theme 5",
+            "description": "HOMES / HOUSES / NEIGHBOURHOODS",
+            "icon": "📖",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 2",
+            "wordCount": 24,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_2_5.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-03-03"
         }
     ]
 }

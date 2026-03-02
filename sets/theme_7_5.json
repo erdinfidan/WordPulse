@@ -3,92 +3,140 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "remote control",
-            "meaning": "kumanda"
+            "meaning": "Kumanda",
+            "text": "Remote control"
         },
         {
-            "text": "documentary",
-            "meaning": "belgesel"
+            "meaning": "Belgesel",
+            "text": "Documentary"
         },
         {
-            "text": "reality show",
-            "meaning": "reality program"
+            "meaning": "Reality program",
+            "text": "Reality show"
         },
         {
-            "text": "quiz show",
-            "meaning": "bilgi yarışması"
+            "meaning": "Bilgi yarışması",
+            "text": "Quiz show"
         },
         {
-            "text": "series",
-            "meaning": "dizi"
+            "meaning": "Dizi",
+            "text": "Series"
         },
         {
-            "text": "news",
-            "meaning": "haberler"
+            "meaning": "Haber",
+            "text": "News"
         },
         {
-            "text": "weather forecast",
-            "meaning": "hava durumu"
+            "meaning": "Hava durumu",
+            "text": "Weather forecast"
         },
         {
-            "text": "commercial",
-            "meaning": "reklam"
+            "meaning": "Reklam",
+            "text": "Commercial"
         },
         {
-            "text": "cartoon",
-            "meaning": "çizgi film"
+            "meaning": "Çizgi film",
+            "text": "Cartoon"
         },
         {
-            "text": "channel",
-            "meaning": "kanal"
+            "meaning": "Kanal",
+            "text": "Channel"
         },
         {
-            "text": "screen",
-            "meaning": "ekran"
+            "meaning": "Ekran",
+            "text": "Screen"
         },
         {
-            "text": "volume",
-            "meaning": "ses seviyesi"
+            "meaning": "Ses seviyesi",
+            "text": "Volume"
         },
         {
-            "text": "subtitle",
-            "meaning": "altyazı"
+            "meaning": "Bölüm",
+            "text": "Episode"
         },
         {
-            "text": "episode",
-            "meaning": "bölüm"
+            "meaning": "Canlı yayın",
+            "text": "Live show"
         },
         {
-            "text": "broadcast",
-            "meaning": "yayınlamak"
+            "meaning": "İzleyici",
+            "text": "Audience"
         },
         {
-            "text": "live show",
-            "meaning": "canlı yayın"
+            "text": "Discussion programme",
+            "meaning": "Tartışma programı"
         },
         {
-            "text": "reporter",
-            "meaning": "muhabir"
+            "text": "Cookery programme",
+            "meaning": "Yemek programı"
         },
         {
-            "text": "audience",
-            "meaning": "izleyici"
+            "text": "Fashion show",
+            "meaning": "Moda programı"
         },
         {
-            "text": "vote",
-            "meaning": "oy vermek"
+            "text": "Talk show",
+            "meaning": "Sohbet programı"
         },
         {
-            "text": "download",
-            "meaning": "indirmek"
+            "text": "Soap opera",
+            "meaning": "Pembe dizi"
         },
         {
-            "text": "upload",
-            "meaning": "yüklemek"
+            "text": "Sitcom",
+            "meaning": "Durum komedisi"
         },
         {
-            "text": "stream",
-            "meaning": "akış (internetten izlemek)"
+            "text": "Couch potato",
+            "meaning": "Tv bağımlısı"
+        },
+        {
+            "text": "Knowledge",
+            "meaning": "Bilgi"
+        },
+        {
+            "text": "Plot",
+            "meaning": "Konu"
+        },
+        {
+            "text": "Informative",
+            "meaning": "Bilgilendirici"
+        },
+        {
+            "text": "Nonsense",
+            "meaning": "Saçma"
+        },
+        {
+            "text": "Educational",
+            "meaning": "Eğitici"
+        },
+        {
+            "text": "Advertisement",
+            "meaning": "Reklam"
+        },
+        {
+            "text": "Change",
+            "meaning": "Değiştirmek"
+        },
+        {
+            "text": "Entertaining",
+            "meaning": "Eğlenceli"
+        },
+        {
+            "text": "Enjoyable",
+            "meaning": "Eğlenceli"
+        },
+        {
+            "text": "Dull",
+            "meaning": "Sıkıcı"
+        },
+        {
+            "text": "Similar",
+            "meaning": "Benzer"
+        },
+        {
+            "text": "Different",
+            "meaning": "Farklı"
         }
     ]
 }

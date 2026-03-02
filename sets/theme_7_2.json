@@ -3,96 +3,240 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "athletics",
-            "meaning": "atletizm"
+            "meaning": "Atletizm",
+            "text": "Athletics"
         },
         {
-            "text": "basketball",
-            "meaning": "basketbol"
+            "meaning": "Masa tenisi",
+            "text": "Table tennis"
         },
         {
-            "text": "volleyball",
-            "meaning": "voleybol"
+            "meaning": "Dövüş sanatları",
+            "text": "Martial arts"
         },
         {
-            "text": "football",
-            "meaning": "futbol"
+            "meaning": "Yüzme",
+            "text": "Swimming"
         },
         {
-            "text": "tennis",
-            "meaning": "tenis"
+            "meaning": "Bisiklet sürme",
+            "text": "Cycling"
         },
         {
-            "text": "table tennis",
-            "meaning": "masa tenisi"
+            "meaning": "Koşu",
+            "text": "Running"
         },
         {
-            "text": "martial arts",
-            "meaning": "dövüş sanatları"
+            "meaning": "Kayak",
+            "text": "Skiing"
         },
         {
-            "text": "karate",
-            "meaning": "karate"
+            "meaning": "Buz pateni",
+            "text": "Ice skating"
         },
         {
-            "text": "taekwondo",
-            "meaning": "taekwondo"
+            "meaning": "Okçuluk",
+            "text": "Archery"
         },
         {
-            "text": "swimming",
-            "meaning": "yüzme"
+            "meaning": "Hafif koşu",
+            "text": "Jogging"
         },
         {
-            "text": "cycling",
-            "meaning": "bisiklet sürme"
+            "meaning": "Egzersiz yapmak",
+            "text": "Exercise"
         },
         {
-            "text": "running",
-            "meaning": "koşu"
+            "meaning": "Skor",
+            "text": "Score"
         },
         {
-            "text": "skiing",
-            "meaning": "kayak"
+            "meaning": "Kazanmak",
+            "text": "Win"
         },
         {
-            "text": "ice skating",
-            "meaning": "buz pateni"
+            "meaning": "Kaybetmek",
+            "text": "Lose"
         },
         {
-            "text": "badminton",
-            "meaning": "badminton"
+            "meaning": "Kaleci",
+            "text": "Goalkeeper"
         },
         {
-            "text": "archery",
-            "meaning": "okçuluk"
+            "text": "Baseball",
+            "meaning": "Beyzbol"
         },
         {
-            "text": "jogging",
-            "meaning": "hafif koşu"
+            "text": "Climbing",
+            "meaning": "Tırmanma"
         },
         {
-            "text": "exercise",
-            "meaning": "egzersiz yapmak"
+            "text": "Hiking",
+            "meaning": "Doğa yürüyüşü"
         },
         {
-            "text": "score",
-            "meaning": "skor"
+            "text": "Roller-skating",
+            "meaning": "Paten sürme"
         },
         {
-            "text": "win",
-            "meaning": "kazanmak"
+            "text": "Wrestling",
+            "meaning": "Güreş"
         },
         {
-            "text": "lose",
-            "meaning": "kaybetmek"
+            "text": "Handball",
+            "meaning": "Hentbol"
         },
         {
-            "text": "tie",
-            "meaning": "berabere"
+            "text": "Snowboarding",
+            "meaning": "Kar kayağı"
         },
         {
-            "text": "goalkeeper",
-            "meaning": "kaleci"
+            "text": "Bow",
+            "meaning": "Yay"
+        },
+        {
+            "text": "Arrow",
+            "meaning": "Ok"
+        },
+        {
+            "text": "Backpack",
+            "meaning": "Sırt çantası"
+        },
+        {
+            "text": "Walking sticks",
+            "meaning": "Yürüme çubuğu"
+        },
+        {
+            "text": "Gloves",
+            "meaning": "Eldiven"
+        },
+        {
+            "text": "Swimsuit",
+            "meaning": "Mayo"
+        },
+        {
+            "text": "Helmet",
+            "meaning": "Kask"
+        },
+        {
+            "text": "Bat",
+            "meaning": "Beyzbol sopası"
+        },
+        {
+            "text": "Net",
+            "meaning": "Ağ"
+        },
+        {
+            "text": "Equipment",
+            "meaning": "Ekipman"
+        },
+        {
+            "text": "Outdoor",
+            "meaning": "Dışarı"
+        },
+        {
+            "text": "Indoor",
+            "meaning": "İçeri"
+        },
+        {
+            "text": "Team",
+            "meaning": "Takım"
+        },
+        {
+            "text": "Individual",
+            "meaning": "Bireysel"
+        },
+        {
+            "text": "Teammate",
+            "meaning": "Takım arkadaşı"
+        },
+        {
+            "text": "Train",
+            "meaning": "Antreman yapmak"
+        },
+        {
+            "text": "Spectator",
+            "meaning": "Seyirci"
+        },
+        {
+            "text": "Success",
+            "meaning": "Başarı"
+        },
+        {
+            "text": "Achieve",
+            "meaning": "Başarmak"
+        },
+        {
+            "text": "Pool",
+            "meaning": "Havuz"
+        },
+        {
+            "text": "Draw",
+            "meaning": "Brebare kalmak"
+        },
+        {
+            "text": "Beat",
+            "meaning": "Yenmek"
+        },
+        {
+            "text": "Injury",
+            "meaning": "Yaralanma"
+        },
+        {
+            "text": "Opponent",
+            "meaning": "Rakip"
+        },
+        {
+            "text": "Hit",
+            "meaning": "Vurmak"
+        },
+        {
+            "text": "Achievement",
+            "meaning": "Başarı"
+        },
+        {
+            "text": "Support",
+            "meaning": "Desteklemek"
+        },
+        {
+            "text": "Gold",
+            "meaning": "Altın"
+        },
+        {
+            "text": "Silver",
+            "meaning": "Gümüş"
+        },
+        {
+            "text": "Always",
+            "meaning": "Herzaman"
+        },
+        {
+            "text": "Usually",
+            "meaning": "Genellikle"
+        },
+        {
+            "text": "Often",
+            "meaning": "Sık sık"
+        },
+        {
+            "text": "Sometimes",
+            "meaning": "Bazen"
+        },
+        {
+            "text": "Rarely",
+            "meaning": "Nadiren"
+        },
+        {
+            "text": "Never",
+            "meaning": "Hiç"
+        },
+        {
+            "text": "Once",
+            "meaning": "Bir kez"
+        },
+        {
+            "text": "Twice",
+            "meaning": "İki kez"
         }
     ]
 }

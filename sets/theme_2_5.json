@@ -1,0 +1,102 @@
+{
+    "setId": "theme_2_5",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Room",
+            "meaning": "Oda"
+        },
+        {
+            "text": "Bedroom",
+            "meaning": "Yatakodası"
+        },
+        {
+            "text": "Bathroom",
+            "meaning": "Banyo"
+        },
+        {
+            "text": "Sitting room",
+            "meaning": "Oturma odası"
+        },
+        {
+            "text": "Dining room",
+            "meaning": "Yemek odası"
+        },
+        {
+            "text": "Kitchen",
+            "meaning": "Mutfak"
+        },
+        {
+            "text": "Balcony",
+            "meaning": "Balkon"
+        },
+        {
+            "text": "Garden",
+            "meaning": "Bahçe"
+        },
+        {
+            "text": "Sofa",
+            "meaning": "Kanepe"
+        },
+        {
+            "text": "Bed",
+            "meaning": "Yatak"
+        },
+        {
+            "text": "Table",
+            "meaning": "Masa"
+        },
+        {
+            "text": "Chair",
+            "meaning": "Sandalye"
+        },
+        {
+            "text": "Pet",
+            "meaning": "Evcil hayvan"
+        },
+        {
+            "text": "Fish",
+            "meaning": "Balık"
+        },
+        {
+            "text": "Rabbit",
+            "meaning": "Tavşan"
+        },
+        {
+            "text": "Cat",
+            "meaning": "Kedi"
+        },
+        {
+            "text": "Bird",
+            "meaning": "Kuş"
+        },
+        {
+            "text": "Dog",
+            "meaning": "Köpek"
+        },
+        {
+            "text": "Claw",
+            "meaning": "Pençe"
+        },
+        {
+            "text": "Tail",
+            "meaning": "Kuyruk"
+        },
+        {
+            "text": "Beak",
+            "meaning": "Gaga"
+        },
+        {
+            "text": "Whisker",
+            "meaning": "Bıyık"
+        },
+        {
+            "text": "Paw",
+            "meaning": "Pati"
+        },
+        {
+            "text": "Goldfish",
+            "meaning": "Süs balığı"
+        }
+    ]
+}

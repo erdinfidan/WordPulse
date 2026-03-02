@@ -3,92 +3,224 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "tall",
-            "meaning": "uzun"
+            "meaning": "Uzun",
+            "text": "Tall"
         },
         {
-            "text": "short",
-            "meaning": "kısa"
+            "meaning": "Kısa",
+            "text": "Short"
         },
         {
-            "text": "slim",
-            "meaning": "zayıf"
+            "meaning": "Zayıf",
+            "text": "Slim"
         },
         {
-            "text": "plump",
-            "meaning": "tombul"
+            "meaning": "Tombul",
+            "text": "Plump"
         },
         {
-            "text": "handsome",
-            "meaning": "yakışıklı"
+            "meaning": "Yakışıklı",
+            "text": "Handsome"
         },
         {
-            "text": "beautiful",
-            "meaning": "güzel"
+            "meaning": "Güzel",
+            "text": "Beautiful"
         },
         {
-            "text": "curly hair",
-            "meaning": "kıvırcık saç"
+            "meaning": "Kıvırcık saç",
+            "text": "Curly hair"
         },
         {
-            "text": "straight hair",
-            "meaning": "düz saç"
+            "meaning": "Düz saç",
+            "text": "Straight hair"
         },
         {
-            "text": "wavy hair",
-            "meaning": "dalgalı saç"
+            "meaning": "Dalgalı saç",
+            "text": "Wavy hair"
         },
         {
-            "text": "friendly",
-            "meaning": "arkadaş canlısı"
+            "meaning": "Arkadaş canlısı",
+            "text": "Friendly"
         },
         {
-            "text": "shy",
-            "meaning": "utangaç"
+            "meaning": "Utangaç",
+            "text": "Shy"
         },
         {
-            "text": "generous",
-            "meaning": "cömert"
+            "meaning": "Cömert",
+            "text": "Generous"
         },
         {
-            "text": "selfish",
-            "meaning": "bencil"
+            "meaning": "Bencil",
+            "text": "Selfish"
         },
         {
-            "text": "honest",
-            "meaning": "dürüst"
+            "meaning": "Dürüst",
+            "text": "Honest"
         },
         {
-            "text": "dishonest",
-            "meaning": "dürüst olmayan"
+            "meaning": "Dürüst olmayan",
+            "text": "Dishonest"
         },
         {
-            "text": "cheerful",
-            "meaning": "neşeli"
+            "meaning": "Neşeli",
+            "text": "Cheerful"
         },
         {
-            "text": "serious",
-            "meaning": "ciddi"
+            "meaning": "Ciddi",
+            "text": "Serious"
         },
         {
-            "text": "lazy",
-            "meaning": "tembel"
+            "meaning": "Tembel",
+            "text": "Lazy"
         },
         {
-            "text": "hardworking",
-            "meaning": "çalışkan"
+            "meaning": "Çalışkan",
+            "text": "Hardworking"
         },
         {
-            "text": "smart",
-            "meaning": "zeki"
+            "meaning": "Zeki",
+            "text": "Smart"
         },
         {
-            "text": "brave",
-            "meaning": "cesur"
+            "meaning": "Cesur",
+            "text": "Brave"
         },
         {
-            "text": "crazy",
-            "meaning": "çılgın"
+            "meaning": "Çılgın",
+            "text": "Crazy"
+        },
+        {
+            "text": "Blonde",
+            "meaning": "Sarışın"
+        },
+        {
+            "text": "Ugly",
+            "meaning": "Çirkin"
+        },
+        {
+            "text": "Headscarf",
+            "meaning": "Başörtüsü"
+        },
+        {
+            "text": "Glasses",
+            "meaning": "Gözlük"
+        },
+        {
+            "text": "Middle-aged",
+            "meaning": "Orta yaşlı"
+        },
+        {
+            "text": "Young",
+            "meaning": "Genç"
+        },
+        {
+            "text": "Old",
+            "meaning": "Yaşlı"
+        },
+        {
+            "text": "Well-built",
+            "meaning": "Kaslı"
+        },
+        {
+            "text": "Hazel",
+            "meaning": "Ela"
+        },
+        {
+            "text": "Medium height",
+            "meaning": "Orta boylı"
+        },
+        {
+            "text": "Medium weight",
+            "meaning": "Orta kilolu"
+        },
+        {
+            "text": "Beard",
+            "meaning": "Sakal"
+        },
+        {
+            "text": "Moustache",
+            "meaning": "Bıyık"
+        },
+        {
+            "text": "Cute",
+            "meaning": "Sevimli"
+        },
+        {
+            "text": "Bald",
+            "meaning": "Kel"
+        },
+        {
+            "text": "Dark",
+            "meaning": "Esmek"
+        },
+        {
+            "text": "Stubborn",
+            "meaning": "İnatçı"
+        },
+        {
+            "text": "Easy-going",
+            "meaning": "Uysal"
+        },
+        {
+            "text": "Outgoing",
+            "meaning": "Sosyal"
+        },
+        {
+            "text": "Thoughtful",
+            "meaning": "Düşünceli"
+        },
+        {
+            "text": "Talkative",
+            "meaning": "Konuşkan"
+        },
+        {
+            "text": "Punctual",
+            "meaning": "Dakik"
+        },
+        {
+            "text": "Age",
+            "meaning": "Yaş"
+        },
+        {
+            "text": "Trait",
+            "meaning": "Kişisel özellik"
+        },
+        {
+            "text": "Girl",
+            "meaning": "Kız"
+        },
+        {
+            "text": "Boy",
+            "meaning": "Erkek"
+        },
+        {
+            "text": "Present",
+            "meaning": "Hediye"
+        },
+        {
+            "text": "Get on welll with",
+            "meaning": "İyi anlaşmak"
+        },
+        {
+            "text": "Change mind",
+            "meaning": "Fikrini değiştirmek"
+        },
+        {
+            "text": "Share",
+            "meaning": "Paylaşmak"
+        },
+        {
+            "text": "Joke",
+            "meaning": "Şaka"
+        },
+        {
+            "text": "Laugh",
+            "meaning": "Gülmek"
+        },
+        {
+            "text": "On time",
+            "meaning": "Zamanında"
         }
     ]
 }

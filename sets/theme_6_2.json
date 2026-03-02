@@ -3,104 +3,144 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "breakfast",
-            "meaning": "kahvaltı"
+            "meaning": "Kahvaltı",
+            "text": "Breakfast"
         },
         {
-            "text": "lunch",
-            "meaning": "öğle yemeği"
+            "meaning": "Yiyecek",
+            "text": "Food"
         },
         {
-            "text": "dinner",
-            "meaning": "akşam yemeği"
+            "meaning": "İçecek",
+            "text": "Drink"
         },
         {
-            "text": "meal",
-            "meaning": "öğün"
+            "meaning": "Ekmek",
+            "text": "Bread"
         },
         {
-            "text": "food",
-            "meaning": "yiyecek"
+            "meaning": "Peynir",
+            "text": "Cheese"
         },
         {
-            "text": "drink",
-            "meaning": "içecek"
+            "meaning": "Yumurta",
+            "text": "Egg"
         },
         {
-            "text": "bread",
-            "meaning": "ekmek"
+            "meaning": "Reçel",
+            "text": "Jam"
         },
         {
-            "text": "cheese",
-            "meaning": "peynir"
+            "meaning": "Bal",
+            "text": "Honey"
         },
         {
-            "text": "egg",
-            "meaning": "yumurta"
+            "meaning": "Süt",
+            "text": "Milk"
         },
         {
-            "text": "jam",
-            "meaning": "reçel"
+            "meaning": "Çay",
+            "text": "Tea"
         },
         {
-            "text": "honey",
-            "meaning": "bal"
+            "meaning": "Domates",
+            "text": "Tomato"
         },
         {
-            "text": "milk",
-            "meaning": "süt"
+            "meaning": "Salatalık",
+            "text": "Cucumber"
         },
         {
-            "text": "tea",
-            "meaning": "çay"
+            "meaning": "Zeytin",
+            "text": "Olive"
         },
         {
-            "text": "tomato",
-            "meaning": "domates"
+            "meaning": "Tereyağı",
+            "text": "Butter"
         },
         {
-            "text": "cucumber",
-            "meaning": "salatalık"
+            "meaning": "Meyve",
+            "text": "Fruit"
         },
         {
-            "text": "olive",
-            "meaning": "zeytin"
+            "meaning": "Sebze",
+            "text": "Vegetable"
         },
         {
-            "text": "butter",
-            "meaning": "tereyağı"
+            "meaning": "Lezzetli",
+            "text": "Delicious"
         },
         {
-            "text": "fruit",
-            "meaning": "meyve"
+            "meaning": "Taze",
+            "text": "Fresh"
         },
         {
-            "text": "vegetable",
-            "meaning": "sebze"
+            "meaning": "Tercih etmek",
+            "text": "Prefer"
         },
         {
-            "text": "delicious",
-            "meaning": "lezzetli"
+            "meaning": "Sağlıklı",
+            "text": "Healthy"
         },
         {
-            "text": "fresh",
-            "meaning": "taze"
+            "text": "Bagel",
+            "meaning": "Simit"
         },
         {
-            "text": "prefer",
-            "meaning": "tercih etmek"
+            "text": "Muffin",
+            "meaning": "Kek"
         },
         {
-            "text": "healthy",
-            "meaning": "sağlıklı"
+            "text": "Cereal",
+            "meaning": "Kahvaltılık gevrek"
         },
         {
-            "text": "order",
-            "meaning": "sipariş vermek"
+            "text": "Omelette",
+            "meaning": "Omlet"
         },
         {
-            "text": "cook",
-            "meaning": "yemek yapmak"
+            "text": "Croissant",
+            "meaning": "Kruvasan"
+        },
+        {
+            "text": "Mushroom",
+            "meaning": "Mantar"
+        },
+        {
+            "text": "Traditional",
+            "meaning": "Geleneksel"
+        },
+        {
+            "text": "Fried",
+            "meaning": "Kızarmış"
+        },
+        {
+            "text": "Boiled",
+            "meaning": "Kaynamış"
+        },
+        {
+            "text": "Nutritious",
+            "meaning": "Besleyici"
+        },
+        {
+            "text": "Full",
+            "meaning": "Tok"
+        },
+        {
+            "text": "Oatmeal",
+            "meaning": "Yulaf ezmesi"
+        },
+        {
+            "text": "Junk food",
+            "meaning": "Abur cubur"
+        },
+        {
+            "text": "Hungry",
+            "meaning": "Acıkmış"
+        },
+        {
+            "text": "Thirsty",
+            "meaning": "Susamış"
         }
     ]
 }

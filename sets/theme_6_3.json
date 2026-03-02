@@ -3,104 +3,152 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "downtown",
-            "meaning": "şehir merkezi"
+            "meaning": "Şehir merkezi",
+            "text": "Downtown"
         },
         {
-            "text": "street",
-            "meaning": "sokak"
+            "meaning": "Sokak",
+            "text": "Street"
         },
         {
-            "text": "avenue",
-            "meaning": "cadde"
+            "meaning": "Bina",
+            "text": "Building"
         },
         {
-            "text": "square",
-            "meaning": "meydan"
+            "meaning": "Belediye",
+            "text": "City hall"
         },
         {
-            "text": "building",
-            "meaning": "bina"
+            "meaning": "Kütüphane",
+            "text": "Library"
         },
         {
-            "text": "city hall",
-            "meaning": "belediye"
+            "meaning": "Eczane",
+            "text": "Pharmacy"
         },
         {
-            "text": "library",
-            "meaning": "kütüphane"
+            "meaning": "Yakın",
+            "text": "Near"
         },
         {
-            "text": "restaurant",
-            "meaning": "restoran"
+            "meaning": "Uzak",
+            "text": "Far"
         },
         {
-            "text": "cafe",
-            "meaning": "kafe"
+            "text": "Kiosk",
+            "meaning": "Büfe"
         },
         {
-            "text": "pharmacy",
-            "meaning": "eczane"
+            "text": "Skyscraper",
+            "meaning": "Gökdelen"
         },
         {
-            "text": "bakery",
-            "meaning": "fırın"
+            "text": "Bookstore",
+            "meaning": "Kitapçı"
         },
         {
-            "text": "butcher",
-            "meaning": "kasap"
+            "text": "stationery",
+            "meaning": "Kırtasiye"
         },
         {
-            "text": "mall",
-            "meaning": "alışveriş merkezi"
+            "text": "Mosque",
+            "meaning": "Cami"
         },
         {
-            "text": "bus station",
-            "meaning": "otobüs terminali"
+            "text": "Bookshop",
+            "meaning": "Kİtapçı"
         },
         {
-            "text": "subway",
-            "meaning": "metro"
+            "text": "Environment",
+            "meaning": "Çevre"
         },
         {
-            "text": "traffic light",
-            "meaning": "trafik ışığı"
+            "text": "Neighbourhood",
+            "meaning": "Muhit/Çevre"
         },
         {
-            "text": "crosswalk",
-            "meaning": "yaya geçidi"
+            "text": "Countryside",
+            "meaning": "Kırsal"
         },
         {
-            "text": "turn left",
-            "meaning": "sola dön"
+            "text": "Village",
+            "meaning": "Köy"
         },
         {
-            "text": "turn right",
-            "meaning": "sağa dön"
+            "text": "Busy",
+            "meaning": "Yoğun"
         },
         {
-            "text": "go straight",
-            "meaning": "dümdüz git"
+            "text": "Traffic jam",
+            "meaning": "Trafik sıkışıklığı"
         },
         {
-            "text": "near",
-            "meaning": "yakın"
+            "text": "Crowded",
+            "meaning": "Kalabalık"
         },
         {
-            "text": "far",
-            "meaning": "uzak"
+            "text": "Noisy",
+            "meaning": "Gürültülü"
         },
         {
-            "text": "opposite",
-            "meaning": "karşısında"
+            "text": "Large",
+            "meaning": "Geniş"
         },
         {
-            "text": "between",
-            "meaning": "arasında"
+            "text": "Quiet",
+            "meaning": "Sessiz"
         },
         {
-            "text": "next to",
-            "meaning": "yanında"
+            "text": "Clean",
+            "meaning": "Temiz"
+        },
+        {
+            "text": "Dirty",
+            "meaning": "Kirli"
+        },
+        {
+            "text": "Peaceful",
+            "meaning": "Huzurlu"
+        },
+        {
+            "text": "Exciting",
+            "meaning": "Heyecanlı"
+        },
+        {
+            "text": "Relaxing",
+            "meaning": "Dinlendirici"
+        },
+        {
+            "text": "High",
+            "meaning": "Yüksek"
+        },
+        {
+            "text": "Difficult",
+            "meaning": "Zor"
+        },
+        {
+            "text": "Low",
+            "meaning": "Alçak"
+        },
+        {
+            "text": "New",
+            "meaning": "Yeni"
+        },
+        {
+            "text": "Old",
+            "meaning": "Eski"
+        },
+        {
+            "text": "Cheap",
+            "meaning": "Ucuz"
+        },
+        {
+            "text": "Now",
+            "meaning": "Şimdi"
+        },
+        {
+            "text": "At present",
+            "meaning": "Şuan"
         }
     ]
 }

@@ -3,96 +3,192 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "job",
-            "meaning": "meslek"
+            "meaning": "Meslek",
+            "text": "Job"
         },
         {
-            "text": "occupation",
-            "meaning": "iş"
+            "meaning": "İş",
+            "text": "Occupation"
         },
         {
-            "text": "doctor",
-            "meaning": "doktor"
+            "meaning": "Hemşire",
+            "text": "Nurse"
         },
         {
-            "text": "nurse",
-            "meaning": "hemşire"
+            "meaning": "Öğretmen",
+            "text": "Teacher"
         },
         {
-            "text": "teacher",
-            "meaning": "öğretmen"
+            "meaning": "Mühendis",
+            "text": "Engineer"
         },
         {
-            "text": "pilot",
-            "meaning": "pilot"
+            "meaning": "Şef/aşçı",
+            "text": "Chef"
         },
         {
-            "text": "engineer",
-            "meaning": "mühendis"
+            "meaning": "İtfaiyeci",
+            "text": "Firefighter"
         },
         {
-            "text": "chef",
-            "meaning": "şef/aşçı"
+            "meaning": "Çiftçi",
+            "text": "Farmer"
         },
         {
-            "text": "police officer",
-            "meaning": "polis memuru"
+            "meaning": "Sanatçı",
+            "text": "Artist"
         },
         {
-            "text": "firefighter",
-            "meaning": "itfaiyeci"
+            "meaning": "Şoför",
+            "text": "Driver"
         },
         {
-            "text": "farmer",
-            "meaning": "çiftçi"
+            "meaning": "Tamirci",
+            "text": "Mechanic"
         },
         {
-            "text": "artist",
-            "meaning": "sanatçı"
+            "meaning": "Marangoz",
+            "text": "Carpenter"
         },
         {
-            "text": "singer",
-            "meaning": "şarkıcı"
+            "meaning": "Aşçı",
+            "text": "Cook"
         },
         {
-            "text": "driver",
-            "meaning": "şoför"
+            "meaning": "İş yeri",
+            "text": "Workplace"
         },
         {
-            "text": "mechanic",
-            "meaning": "tamirci"
+            "text": "Dentist",
+            "meaning": "Dişçi"
         },
         {
-            "text": "carpenter",
-            "meaning": "marangoz"
+            "text": "Hairdresser",
+            "meaning": "Kuaför"
         },
         {
-            "text": "cook",
-            "meaning": "aşçı"
+            "text": "Worker",
+            "meaning": "İşçi"
         },
         {
-            "text": "job description",
-            "meaning": "iş tanımı"
+            "text": "Manager",
+            "meaning": "Müdür"
         },
         {
-            "text": "workplace",
-            "meaning": "iş yeri"
+            "text": "Lawyer",
+            "meaning": "Avukat"
         },
         {
-            "text": "salary",
-            "meaning": "maaş"
+            "text": "Tailor",
+            "meaning": "Terzi"
         },
         {
-            "text": "shift",
-            "meaning": "vardiya"
+            "text": "Waiter",
+            "meaning": "Erkek Garson"
         },
         {
-            "text": "dangerous",
-            "meaning": "tehlikeli"
+            "text": "Waitress",
+            "meaning": "Kadın Garson"
         },
         {
-            "text": "use tools",
-            "meaning": "alet kullanmak"
+            "text": "Salesman",
+            "meaning": "Erkek satış danışmanı"
+        },
+        {
+            "text": "Saleswoman",
+            "meaning": "Kadın satış danışmanı"
+        },
+        {
+            "text": "Architect",
+            "meaning": "Mimar"
+        },
+        {
+            "text": "Pharmacist",
+            "meaning": "Eczacı"
+        },
+        {
+            "text": "Electrician",
+            "meaning": "Elektrikçi"
+        },
+        {
+            "text": "Hair salon",
+            "meaning": "Kuaför dükkanı"
+        },
+        {
+            "text": "Company",
+            "meaning": "Şirket"
+        },
+        {
+            "text": "Clinic",
+            "meaning": "Klinik"
+        },
+        {
+            "text": "Store/Shop",
+            "meaning": "Dükkan"
+        },
+        {
+            "text": "Courthouse",
+            "meaning": "Adliye"
+        },
+        {
+            "text": "Factory",
+            "meaning": "Fabrika"
+        },
+        {
+            "text": "Dye",
+            "meaning": "Boyamak"
+        },
+        {
+            "text": "Draw plan",
+            "meaning": "Plan çizmek"
+        },
+        {
+            "text": "Design",
+            "meaning": "Tasarlamak"
+        },
+        {
+            "text": "Patient",
+            "meaning": "Hasta"
+        },
+        {
+            "text": "Tooth",
+            "meaning": "Diş"
+        },
+        {
+            "text": "Defend",
+            "meaning": "Savunmak"
+        },
+        {
+            "text": "Fix",
+            "meaning": "Tamir etmek"
+        },
+        {
+            "text": "Fabric",
+            "meaning": "Kumaş"
+        },
+        {
+            "text": "Cloth",
+            "meaning": "Kıyafet"
+        },
+        {
+            "text": "Sew",
+            "meaning": "Dikmek"
+        },
+        {
+            "text": "Repair",
+            "meaning": "Tamir etmek"
+        },
+        {
+            "text": "Software",
+            "meaning": "Yazılım"
+        },
+        {
+            "text": "Order",
+            "meaning": "Sipariş etmek"
+        },
+        {
+            "text": "Raise",
+            "meaning": "Yetiştirmek"
         }
     ]
 }

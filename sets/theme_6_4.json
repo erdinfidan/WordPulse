@@ -3,92 +3,148 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "weather",
-            "meaning": "hava durumu"
+            "meaning": "Hava durumu",
+            "text": "Weather"
         },
         {
-            "text": "sunny",
-            "meaning": "güneşli"
+            "meaning": "Güneşli",
+            "text": "Sunny"
         },
         {
-            "text": "rainy",
-            "meaning": "yağmurlu"
+            "meaning": "Yağmurlu",
+            "text": "Rainy"
         },
         {
-            "text": "cloudy",
-            "meaning": "bulutlu"
+            "meaning": "Bulutlu",
+            "text": "Cloudy"
         },
         {
-            "text": "windy",
-            "meaning": "rüzgarlı"
+            "meaning": "Rüzgarlı",
+            "text": "Windy"
         },
         {
-            "text": "stormy",
-            "meaning": "fırtınalı"
+            "meaning": "Fırtınalı",
+            "text": "Stormy"
         },
         {
-            "text": "snowy",
-            "meaning": "karlı"
+            "meaning": "Karlı",
+            "text": "Snowy"
         },
         {
-            "text": "hot",
-            "meaning": "sıcak"
+            "meaning": "Sıcak",
+            "text": "Hot"
         },
         {
-            "text": "cold",
-            "meaning": "soğuk"
+            "meaning": "Soğuk",
+            "text": "Cold"
         },
         {
-            "text": "freezing",
-            "meaning": "dondurucu"
+            "meaning": "Dondurucu",
+            "text": "Freezing"
         },
         {
-            "text": "warm",
-            "meaning": "ılık"
+            "meaning": "Ilık",
+            "text": "Warm"
         },
         {
-            "text": "temperature",
-            "meaning": "sıcaklık"
+            "meaning": "Sıcaklık",
+            "text": "Temperature"
         },
         {
-            "text": "forecast",
-            "meaning": "hava tahmini"
+            "meaning": "Hava tahmini",
+            "text": "Forecast"
         },
         {
-            "text": "feeling",
-            "meaning": "his"
+            "meaning": "His/Duygu",
+            "text": "Feeling"
         },
         {
-            "text": "happy",
-            "meaning": "mutlu"
+            "meaning": "Mutlu",
+            "text": "Happy"
         },
         {
-            "text": "sad",
-            "meaning": "üzgün"
+            "meaning": "Üzgün",
+            "text": "Sad"
         },
         {
-            "text": "angry",
-            "meaning": "kızgın"
+            "meaning": "Kızgın",
+            "text": "Angry"
         },
         {
-            "text": "excited",
-            "meaning": "heyecanlı"
+            "meaning": "Heyecanlı",
+            "text": "Excited"
         },
         {
-            "text": "scared",
-            "meaning": "korkmuş"
+            "meaning": "Korkmuş",
+            "text": "Scared"
         },
         {
-            "text": "bored",
-            "meaning": "sıkılmış"
+            "meaning": "Sıkılmış",
+            "text": "Bored"
         },
         {
-            "text": "worried",
-            "meaning": "endişeli"
+            "meaning": "Endişeli",
+            "text": "Worried"
         },
         {
-            "text": "surprised",
-            "meaning": "şaşırmış"
+            "meaning": "Şaşırmış",
+            "text": "Surprised"
+        },
+        {
+            "text": "Lightning",
+            "meaning": "Şimşek"
+        },
+        {
+            "text": "Wet",
+            "meaning": "Yağışlı"
+        },
+        {
+            "text": "Dry",
+            "meaning": "Kuru"
+        },
+        {
+            "text": "Nice",
+            "meaning": "Güzel"
+        },
+        {
+            "text": "Foggy",
+            "meaning": "Sisli"
+        },
+        {
+            "text": "Hailing",
+            "meaning": "Dolu yağışlı"
+        },
+        {
+            "text": "Cool",
+            "meaning": "Serin"
+        },
+        {
+            "text": "Moody",
+            "meaning": "Karamsar"
+        },
+        {
+            "text": "Sleepy",
+            "meaning": "Uykulu"
+        },
+        {
+            "text": "Spring",
+            "meaning": "İlkbahar"
+        },
+        {
+            "text": "Summer",
+            "meaning": "Yaz"
+        },
+        {
+            "text": "Autumn/Fall",
+            "meaning": "Sonbahar"
+        },
+        {
+            "text": "Winter",
+            "meaning": "Kış"
+        },
+        {
+            "text": "Emotion",
+            "meaning": "Duygu/His"
         }
     ]
 }

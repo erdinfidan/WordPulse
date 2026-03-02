@@ -3,84 +3,124 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "fair",
-            "meaning": "fuar"
+            "meaning": "Fuar",
+            "text": "Fair"
         },
         {
-            "text": "amusement park",
-            "meaning": "lunapark"
+            "meaning": "Lunapark",
+            "text": "Amusement park"
         },
         {
-            "text": "ride",
-            "meaning": "binmek"
+            "meaning": "Binmek",
+            "text": "Ride"
         },
         {
-            "text": "roller coaster",
-            "meaning": "hız treni"
+            "meaning": "Hız treni",
+            "text": "Roller coaster"
         },
         {
-            "text": "bumper cars",
-            "meaning": "çarpışan arabalar"
+            "meaning": "Çarpışan arabalar",
+            "text": "Bumper cars"
         },
         {
-            "text": "ferris wheel",
-            "meaning": "dönme dolap"
+            "meaning": "Dönme dolap",
+            "text": "Ferris wheel"
         },
         {
-            "text": "ticket",
-            "meaning": "bilet"
+            "meaning": "Bilet",
+            "text": "Ticket"
         },
         {
-            "text": "queue",
-            "meaning": "sıra"
+            "meaning": "Eğlence",
+            "text": "Fun"
         },
         {
-            "text": "crowd",
-            "meaning": "kalabalık"
+            "meaning": "Heyecan verici",
+            "text": "Exciting"
         },
         {
-            "text": "fun",
-            "meaning": "eğlence"
+            "meaning": "Sıkıcı",
+            "text": "Boring"
         },
         {
-            "text": "exciting",
-            "meaning": "heyecan verici"
+            "meaning": "İlginç",
+            "text": "Interesting"
         },
         {
-            "text": "boring",
-            "meaning": "sıkıcı"
+            "meaning": "Satın almak",
+            "text": "Buy"
         },
         {
-            "text": "interesting",
-            "meaning": "ilginç"
+            "meaning": "Satmak",
+            "text": "Sell"
         },
         {
-            "text": "buy",
-            "meaning": "satın almak"
+            "text": "Ghost train",
+            "meaning": "Korku treni"
         },
         {
-            "text": "sell",
-            "meaning": "satmak"
+            "text": "Carrousel",
+            "meaning": "Atlı karınca"
         },
         {
-            "text": "prize",
-            "meaning": "ödül"
+            "text": "Wave swinger",
+            "meaning": "Salıncak"
         },
         {
-            "text": "game booth",
-            "meaning": "oyun standı"
+            "text": "Train ride",
+            "meaning": "Trene binmek"
         },
         {
-            "text": "win",
-            "meaning": "kazanmak"
+            "text": "Token",
+            "meaning": "Bilet"
         },
         {
-            "text": "lose",
-            "meaning": "kaybetmek"
+            "text": "Safe",
+            "meaning": "Güvenli"
         },
         {
-            "text": "shooting game",
-            "meaning": "atış oyunu"
+            "text": "Dull",
+            "meaning": "Sıkıcı"
+        },
+        {
+            "text": "Crazy",
+            "meaning": "Çılgın"
+        },
+        {
+            "text": "Thrilling",
+            "meaning": "Heyecan verici"
+        },
+        {
+            "text": "Amazing",
+            "meaning": "Şaşırtıcı"
+        },
+        {
+            "text": "Horrible",
+            "meaning": "Korkunç"
+        },
+        {
+            "text": "Terrifying",
+            "meaning": "Korkunç"
+        },
+        {
+            "text": "Frightening",
+            "meaning": "Korkutucu"
+        },
+        {
+            "text": "Enjoy",
+            "meaning": "Eğlenmek"
+        },
+        {
+            "text": "Hate",
+            "meaning": "Nefret etmek"
+        },
+        {
+            "text": "Agree",
+            "meaning": "Katılmak"
+        },
+        {
+            "text": "Disagree",
+            "meaning": "Katılmamak"
         }
     ]
 }

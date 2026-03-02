@@ -3,80 +3,92 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "life",
-            "meaning": "hayat"
+            "meaning": "Hayat",
+            "text": "Life"
         },
         {
-            "text": "daily routine",
-            "meaning": "günlük rutin"
+            "meaning": "Günlük rutin",
+            "text": "Daily routine"
         },
         {
-            "text": "wake up",
-            "meaning": "uyanmak"
+            "meaning": "Uyanmak",
+            "text": "Wake / Get  up"
         },
         {
-            "text": "get dressed",
-            "meaning": "giyinmek"
+            "meaning": "kahvaltı yapmak",
+            "text": "have breakfast"
         },
         {
-            "text": "have breakfast",
-            "meaning": "kahvaltı yapmak"
+            "meaning": "Ders çalışmak",
+            "text": "Study"
         },
         {
-            "text": "go to school",
-            "meaning": "okula gitmek"
+            "meaning": "Dinlenmek",
+            "text": "Rest"
         },
         {
-            "text": "study",
-            "meaning": "ders çalışmak"
+            "meaning": "Uyumak",
+            "text": "Go to bed"
         },
         {
-            "text": "rest",
-            "meaning": "dinlenmek"
+            "text": "Meet friends",
+            "meaning": "Arkadaşlarla buluşmak"
         },
         {
-            "text": "sleep",
-            "meaning": "uyumak"
+            "text": "Visit grandparents",
+            "meaning": "Büyükleri ziyaret etmek"
         },
         {
-            "text": "busy",
-            "meaning": "meşgul"
+            "text": "Visit relatives",
+            "meaning": "Akrabaları ziyaret etmek"
         },
         {
-            "text": "free time",
-            "meaning": "boş zaman"
+            "text": "Write book",
+            "meaning": "Kitap yazmak"
         },
         {
-            "text": "activity",
-            "meaning": "aktivite"
+            "text": "Get back home",
+            "meaning": "Eve dönmek"
         },
         {
-            "text": "finish",
-            "meaning": "bitirmek"
+            "text": "Leave home",
+            "meaning": "Evden çıkmak"
         },
         {
-            "text": "start",
-            "meaning": "başlamak"
+            "text": "Have a shower",
+            "meaning": "Banyo yapmak"
         },
         {
-            "text": "schedule",
-            "meaning": "program"
+            "text": "Go shopping",
+            "meaning": "Alışverişe gitmek"
         },
         {
-            "text": "habit",
-            "meaning": "alışkanlık"
+            "text": "Tidy room",
+            "meaning": "Odayı toplamak"
         },
         {
-            "text": "usually",
-            "meaning": "genellikle"
+            "text": "Arrive home",
+            "meaning": "Eve varmak"
         },
         {
-            "text": "sometimes",
-            "meaning": "bazen"
+            "text": "Have a snack",
+            "meaning": "Atıştırmak"
         },
         {
-            "text": "rarely",
-            "meaning": "nadiren"
+            "text": "Run errands",
+            "meaning": "Getir götür işi yapmak"
+        },
+        {
+            "text": "Morning",
+            "meaning": "Sabah"
+        },
+        {
+            "text": "Afternoon",
+            "meaning": "Öğleden sonra"
+        },
+        {
+            "text": "Evening",
+            "meaning": "Akşam"
         }
     ]
 }

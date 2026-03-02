@@ -3,84 +3,172 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "born",
-            "meaning": "doğmak"
+            "meaning": "Doğmak",
+            "text": "Be born"
         },
         {
-            "text": "die",
-            "meaning": "ölmek"
+            "meaning": "Ölmek",
+            "text": "Die"
         },
         {
-            "text": "grow up",
-            "meaning": "büyümek"
+            "meaning": "Büyümek",
+            "text": "Grow up"
         },
         {
-            "text": "education",
-            "meaning": "eğitim"
+            "meaning": "Eğitim",
+            "text": "Education"
         },
         {
-            "text": "graduate",
-            "meaning": "mezun olmak"
+            "meaning": "Mezun olmak",
+            "text": "Graduate"
         },
         {
-            "text": "success",
-            "meaning": "başarı"
+            "meaning": "Başarı",
+            "text": "Success"
         },
         {
-            "text": "famous",
-            "meaning": "ünlü"
+            "meaning": "Ünlü",
+            "text": "Famous"
         },
         {
-            "text": "discover",
-            "meaning": "keşfetmek"
+            "meaning": "Keşfetmek",
+            "text": "Discover"
         },
         {
-            "text": "invent",
-            "meaning": "icat etmek"
+            "meaning": "İcat etmek",
+            "text": "Invent"
         },
         {
-            "text": "career",
-            "meaning": "kariyer"
+            "meaning": "Kariyer",
+            "text": "Career"
         },
         {
-            "text": "achieve",
-            "meaning": "başarmak"
+            "meaning": "Doğum tarihi",
+            "text": "Date of birth"
         },
         {
-            "text": "date of birth",
-            "meaning": "doğum tarihi"
+            "meaning": "Çocukluk",
+            "text": "Childhood"
         },
         {
-            "text": "childhood",
-            "meaning": "çocukluk"
+            "meaning": "Yaşam tarzı",
+            "text": "Lifestyle"
         },
         {
-            "text": "lifestyle",
-            "meaning": "yaşam tarzı"
+            "meaning": "Evlenmek",
+            "text": "Marry"
         },
         {
-            "text": "marry",
-            "meaning": "evlenmek"
+            "meaning": "Ödül",
+            "text": "Award"
         },
         {
-            "text": "award",
-            "meaning": "ödül"
+            "meaning": "Etkilemek",
+            "text": "Influence"
         },
         {
-            "text": "influence",
-            "meaning": "etkilemek"
+            "meaning": "Hayat hikayesi",
+            "text": "Life story"
         },
         {
-            "text": "publish",
-            "meaning": "yayınlamak"
+            "meaning": "Biyografi",
+            "text": "Biography"
         },
         {
-            "text": "life story",
-            "meaning": "hayat hikayesi"
+            "text": "Work",
+            "meaning": "Çalışmak"
         },
         {
-            "text": "biography",
-            "meaning": "biyografi"
+            "text": "Move",
+            "meaning": "Taşınmak"
+        },
+        {
+            "text": "Have children",
+            "meaning": "Çocuk sahibi olmak"
+        },
+        {
+            "text": "Daughter",
+            "meaning": "Kız evlat"
+        },
+        {
+            "text": "Son",
+            "meaning": "Erkek evlat"
+        },
+        {
+            "text": "Get retired",
+            "meaning": "Emekli olmak"
+        },
+        {
+            "text": "Get married",
+            "meaning": "Evlenmek"
+        },
+        {
+            "text": "Get engaged",
+            "meaning": "Nişanlanmak"
+        },
+        {
+            "text": "Compose",
+            "meaning": "Üretmek"
+        },
+        {
+            "text": "Live",
+            "meaning": "Yaşamak"
+        },
+        {
+            "text": "Alone",
+            "meaning": "Yalnız"
+        },
+        {
+            "text": "Prize",
+            "meaning": "Ödül"
+        },
+        {
+            "text": "Own",
+            "meaning": "Kendi"
+        },
+        {
+            "text": "Marriage",
+            "meaning": "Evlilik"
+        },
+        {
+            "text": "Profession",
+            "meaning": "Meslek"
+        },
+        {
+            "text": "Bard",
+            "meaning": "Ozan"
+        },
+        {
+            "text": "Scientist",
+            "meaning": "Bilim insanı"
+        },
+        {
+            "text": "Biochemist",
+            "meaning": "Biyokimyacı"
+        },
+        {
+            "text": "Director",
+            "meaning": "Yönetmen"
+        },
+        {
+            "text": "Founder",
+            "meaning": "Kurucu"
+        },
+        {
+            "text": "Historian",
+            "meaning": "Tarihçi"
+        },
+        {
+            "text": "Yesterday",
+            "meaning": "Dün"
+        },
+        {
+            "text": "Ago",
+            "meaning": "Önce"
+        },
+        {
+            "text": "Last",
+            "meaning": "Geçen"
         }
     ]
 }

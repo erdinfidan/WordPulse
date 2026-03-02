@@ -3,96 +3,156 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "town",
-            "meaning": "kasaba"
+            "meaning": "Kasaba",
+            "text": "Town"
         },
         {
-            "text": "city",
-            "meaning": "şehir"
+            "meaning": "Şehir",
+            "text": "City"
         },
         {
-            "text": "street",
-            "meaning": "sokak"
+            "meaning": "Sokak",
+            "text": "Street"
         },
         {
-            "text": "park",
-            "meaning": "park"
+            "meaning": "Köy",
+            "text": "Village"
         },
         {
-            "text": "hospital",
-            "meaning": "hastane"
+            "text": "Mosque",
+            "meaning": "Cami"
         },
         {
-            "text": "bank",
-            "meaning": "banka"
+            "text": "Castle",
+            "meaning": "Kale"
         },
         {
-            "text": "school",
-            "meaning": "okul"
+            "text": "Tower",
+            "meaning": "Kule"
         },
         {
-            "text": "market",
-            "meaning": "pazar / market"
+            "text": "Shop",
+            "meaning": "Dükkan"
         },
         {
-            "text": "restaurant",
-            "meaning": "restoran"
+            "text": "Square",
+            "meaning": "Meydan"
         },
         {
-            "text": "bus stop",
-            "meaning": "otobüs durağı"
+            "text": "Art gallery",
+            "meaning": "Sanat galerisi"
         },
         {
-            "text": "traffic light",
-            "meaning": "trafik ışığı"
+            "text": "Gym",
+            "meaning": "Spor salonu"
         },
         {
-            "text": "bridge",
-            "meaning": "köprü"
+            "text": "Ancient site",
+            "meaning": "Antik yer"
         },
         {
-            "text": "post office",
-            "meaning": "postane"
+            "text": "Museum",
+            "meaning": "Müze"
         },
         {
-            "text": "near",
-            "meaning": "yakın"
+            "text": "Street fair",
+            "meaning": "Sokak fuarı"
         },
         {
-            "text": "far",
-            "meaning": "uzak"
+            "text": "Furniture",
+            "meaning": "Mobilya"
         },
         {
-            "text": "village",
-            "meaning": "köy"
+            "text": "Bathroom",
+            "meaning": "Banyo"
         },
         {
-            "text": "road",
-            "meaning": "yol"
+            "text": "Bedroom",
+            "meaning": "Yatak odası"
         },
         {
-            "text": "supermarket",
-            "meaning": "süpermarket"
+            "text": "Sitting room",
+            "meaning": "Oturma odası"
         },
         {
-            "text": "train station",
-            "meaning": "tren garı"
+            "text": "Kitchen",
+            "meaning": "Mutfak"
         },
         {
-            "text": "pharmacy",
-            "meaning": "eczane"
+            "text": "Roof",
+            "meaning": "Çatı"
         },
         {
-            "text": "police station",
-            "meaning": "polis merkezi"
+            "text": "Flat",
+            "meaning": "Apartman dairesi"
         },
         {
-            "text": "fire station",
-            "meaning": "itfaiye"
+            "text": "Dining room",
+            "meaning": "Yemek odası"
         },
         {
-            "text": "sign",
-            "meaning": "işaret"
+            "text": "Fridge",
+            "meaning": "Buzdolabı"
+        },
+        {
+            "text": "Dishwasher",
+            "meaning": "Bulaşık makinası"
+        },
+        {
+            "text": "Sofa",
+            "meaning": "Kanepe"
+        },
+        {
+            "text": "Armchair",
+            "meaning": "Koltuk"
+        },
+        {
+            "text": "Chair",
+            "meaning": "Sandalye"
+        },
+        {
+            "text": "Oven",
+            "meaning": "Fırın"
+        },
+        {
+            "text": "Knife",
+            "meaning": "Bıçak"
+        },
+        {
+            "text": "Spoon",
+            "meaning": "Kaşık"
+        },
+        {
+            "text": "Fork",
+            "meaning": "Çatal"
+        },
+        {
+            "text": "Wooden",
+            "meaning": "Ahşap"
+        },
+        {
+            "text": "Comfortable",
+            "meaning": "Rahat"
+        },
+        {
+            "text": "Peaceful",
+            "meaning": "Huzurlu"
+        },
+        {
+            "text": "Crowded",
+            "meaning": "Kalabalık"
+        },
+        {
+            "text": "Quiet",
+            "meaning": "Sessiz"
+        },
+        {
+            "text": "Bright",
+            "meaning": "Aydınlık"
+        },
+        {
+            "text": "Skyscraper",
+            "meaning": "Gökdelen"
         }
     ]
 }

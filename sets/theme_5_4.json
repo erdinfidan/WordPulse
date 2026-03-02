@@ -3,80 +3,108 @@
     "version": "1.0.0",
     "words": [
         {
-            "meaning": "aile",
-            "text": "family"
+            "meaning": "Aile",
+            "text": "Family"
         },
         {
-            "meaning": "anne",
-            "text": "mother"
+            "meaning": "Anne",
+            "text": "Mother"
         },
         {
-            "meaning": "baba",
-            "text": "father"
+            "meaning": "Baba",
+            "text": "Father"
         },
         {
-            "meaning": "kız kardeş",
-            "text": "sister"
+            "meaning": "Kız kardeş",
+            "text": "Sister"
         },
         {
-            "meaning": "erkek kardeş",
-            "text": "brother"
+            "meaning": "Erkek kardeş",
+            "text": "Brother"
         },
         {
-            "meaning": "büyükanne",
-            "text": "grandmother"
+            "meaning": "Büyükanne",
+            "text": "Grandmother"
         },
         {
-            "meaning": "büyükbaba",
-            "text": "grandfather"
+            "meaning": "Büyükbaba",
+            "text": "Grandfather"
         },
         {
-            "meaning": "teyze / hala",
-            "text": "aunt"
+            "meaning": "Teyze / Hala",
+            "text": "Aunt"
         },
         {
-            "meaning": "amca / dayı",
-            "text": "uncle"
+            "meaning": "Amca / Dayı",
+            "text": "Uncle"
         },
         {
-            "meaning": "kuzen",
-            "text": "cousin"
+            "meaning": "Kuzen",
+            "text": "Cousin"
         },
         {
-            "meaning": "ebeveynler",
-            "text": "parents"
+            "meaning": "Ebeveynler",
+            "text": "Parents"
         },
         {
-            "meaning": "akraba",
-            "text": "relative"
+            "meaning": "Akraba",
+            "text": "Relative"
         },
         {
-            "meaning": "yüzmek",
-            "text": "swim"
+            "meaning": "Yüzmek",
+            "text": "Swim"
         },
         {
-            "meaning": "okumak",
-            "text": "read"
+            "meaning": "Okumak",
+            "text": "Read"
         },
         {
-            "meaning": "futbol oynamak",
-            "text": "play football"
+            "meaning": "Bisiklete binmek",
+            "text": "Cycling"
         },
         {
-            "meaning": "bisiklete binmek",
-            "text": "ride a bike"
+            "text": "Tidy up",
+            "meaning": "Toplamak"
         },
         {
-            "meaning": "toplamak / biriktirmek",
-            "text": "collect"
+            "text": "Have a barbecue",
+            "meaning": "Mangal yapmak"
         },
         {
-            "meaning": "koşmak",
-            "text": "run"
+            "text": "Write a diary",
+            "meaning": "Günlük tutmak"
         },
         {
-            "meaning": "televizyon izlemek",
-            "text": "watch TV"
+            "text": "Rest",
+            "meaning": "Dinlenmek"
+        },
+        {
+            "text": "Wash the car",
+            "meaning": "Arabayı yıkamak"
+        },
+        {
+            "text": "Take care of",
+            "meaning": "İlgilenmek"
+        },
+        {
+            "text": "Take photograph",
+            "meaning": "Fotoğraf çekmek"
+        },
+        {
+            "text": "Go out",
+            "meaning": "Dışarı çıkmak"
+        },
+        {
+            "text": "Visit",
+            "meaning": "Ziyaret etmek"
+        },
+        {
+            "text": "Stay at home",
+            "meaning": "Evde kalmak"
+        },
+        {
+            "text": "Cook",
+            "meaning": "Yemek pişirmek"
         }
     ]
 }
