@@ -8,7 +8,7 @@
         },
         {
             "text": "Overexposure",
-            "meaning": "Aşırı M aruz Kalma"
+            "meaning": "Aşırı Maruz Kalma"
         },
         {
             "text": "Sleep Apnea",
@@ -36,7 +36,7 @@
         },
         {
             "text": "Life Expectancy",
-            "meaning": "Yaşam Bekl entisi"
+            "meaning": "Yaşam Beklentisi"
         },
         {
             "text": "Digestive Enzymes",
@@ -63,7 +63,7 @@
             "meaning": "Genler, Sinir Hücreleri ve Hormonlar"
         },
         {
-            "text": "A Rudimentary Nervous S ystem",
+            "text": "A Rudimentary Nervous System",
             "meaning": "Bir Temel Sinir Sistemi"
         },
         {
@@ -99,7 +99,7 @@
             "meaning": "Hareketsiz Durum"
         },
         {
-            "text": "Counter -Intuitive",
+            "text": "Counter-Intuitive",
             "meaning": "Zıt Sezgi"
         },
         {
@@ -107,8 +107,20 @@
             "meaning": "Doğal Fizyolojik Tepki"
         },
         {
-            "text": "Headache, Digestive Issues, Insomnia or Other Sleep Issues, and Brain Fog",
-            "meaning": ""
+            "text": "Headache",
+            "meaning": "Baş ağrısı"
+        },
+        {
+            "text": "Digestive Issues",
+            "meaning": "Sindirim Sorunları"
+        },
+        {
+            "text": "Insomnia or Other Sleep Issues",
+            "meaning": "Uykusuzluk veya Diğer Uyku Sorunları"
+        },
+        {
+            "text": "Brain Fog",
+            "meaning": "Beyin Sisi"
         },
         {
             "text": "Premature Births",
