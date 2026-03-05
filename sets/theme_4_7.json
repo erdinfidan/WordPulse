@@ -1,0 +1,146 @@
+{
+    "setId": "theme_4_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Job",
+            "meaning": "Meslek"
+        },
+        {
+            "text": "Fireman",
+            "meaning": "İtfaiyeci"
+        },
+        {
+            "text": "Actress",
+            "meaning": "Kadın oyuncu"
+        },
+        {
+            "text": "Nurse",
+            "meaning": "Hemşire"
+        },
+        {
+            "text": "Actor",
+            "meaning": "Erkek oyuncu"
+        },
+        {
+            "text": "Writer",
+            "meaning": "Yazar"
+        },
+        {
+            "text": "Singer",
+            "meaning": "Şarkıcı"
+        },
+        {
+            "text": "Businessman",
+            "meaning": "İş adamı"
+        },
+        {
+            "text": "Engineer",
+            "meaning": "Mühendis"
+        },
+        {
+            "text": "Farmer",
+            "meaning": "Çiftçi"
+        },
+        {
+            "text": "Policeman",
+            "meaning": "Erkek polis"
+        },
+        {
+            "text": "Policewoman",
+            "meaning": "Kadın polis"
+        },
+        {
+            "text": "Vet",
+            "meaning": "Veteriner"
+        },
+        {
+            "text": "Chef",
+            "meaning": "Aşçı"
+        },
+        {
+            "text": "Teacher",
+            "meaning": "Öğretmen"
+        },
+        {
+            "text": "Doctor",
+            "meaning": "Doktor"
+        },
+        {
+            "text": "Waiter",
+            "meaning": "Erkek garson"
+        },
+        {
+            "text": "Waitress",
+            "meaning": "Kadın garson"
+        },
+        {
+            "text": "Musician",
+            "meaning": "Müzisyen"
+        },
+        {
+            "text": "Student",
+            "meaning": "Öğrenci"
+        },
+        {
+            "text": "Dentist",
+            "meaning": "Dişçi"
+        },
+        {
+            "text": "Plane",
+            "meaning": "Uçak"
+        },
+        {
+            "text": "Fly",
+            "meaning": "Uçmak"
+        },
+        {
+            "text": "School",
+            "meaning": "Okul"
+        },
+        {
+            "text": "Teach",
+            "meaning": "Öğretmek"
+        },
+        {
+            "text": "Fire station",
+            "meaning": "İtfaiye"
+        },
+        {
+            "text": "Police station",
+            "meaning": "Karakol"
+        },
+        {
+            "text": "Hospital",
+            "meaning": "Hastane"
+        },
+        {
+            "text": "Animal",
+            "meaning": "Hayvan"
+        },
+        {
+            "text": "Clinic",
+            "meaning": "Klinik"
+        },
+        {
+            "text": "Office",
+            "meaning": "Ofis"
+        },
+        {
+            "text": "Children",
+            "meaning": "Çocuklar"
+        },
+        {
+            "text": "Save",
+            "meaning": "Kurtarmak/Korumak"
+        },
+        {
+            "text": "Help",
+            "meaning": "Yardım etmek"
+        },
+        {
+            "text": "Theatre",
+            "meaning": "Tiyatro"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "version": "1.2.1",
-    "lastUpdated": "2026-03-05",
+    "lastUpdated": "2026-03-06",
     "sets": [
         {
             "id": "kamp_day1_noun",
@@ -831,16 +831,16 @@
         {
             "id": "theme_5_6",
             "name": "Theme 6",
-            "description": "",
+            "description": "LIFE IN THE WORLD",
             "icon": "🔥",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 5",
-            "wordCount": 25,
+            "wordCount": 45,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_5_6.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-06"
         },
         {
             "id": "theme_5_7",
@@ -1498,7 +1498,7 @@
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-03-02"
+            "lastUpdated": "2026-03-06"
         },
         {
             "id": "theme_6_8",
@@ -1629,16 +1629,16 @@
         {
             "id": "theme_7_7",
             "name": "Theme 7",
-            "description": "",
+            "description": "DREAMS",
             "icon": "📚",
             "category": "ORTAOKUL",
             "subCategory": "GRADE 7",
-            "wordCount": 22,
+            "wordCount": 44,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_7_7.json",
             "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
-            "lastUpdated": "2026-02-17"
+            "lastUpdated": "2026-03-06"
         },
         {
             "id": "theme_7_8",
@@ -2504,6 +2504,34 @@
             "wordCount": 4,
             "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/YÖKDİL/yokdil_sağlik_karisik_3.json",
             "size": "0.5 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-03-05"
+        },
+        {
+            "id": "theme_3_7",
+            "name": "Theme 7",
+            "description": "IN MY CITY",
+            "icon": "📚",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 3",
+            "wordCount": 9,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_3_7.json",
+            "size": "0.1 KB",
+            "difficulty": "intermediate",
+            "version": "1.0.0",
+            "lastUpdated": "2026-03-05"
+        },
+        {
+            "id": "theme_4_7",
+            "name": "Theme 7",
+            "description": "JOBS",
+            "icon": "📝",
+            "category": "İLKOKUL",
+            "subCategory": "GRADE 4",
+            "wordCount": 35,
+            "fileUrl": "https://raw.githubusercontent.com/erdinfidan/WordPulse/main/sets/theme_4_7.json",
+            "size": "0.1 KB",
             "difficulty": "intermediate",
             "version": "1.0.0",
             "lastUpdated": "2026-03-05"

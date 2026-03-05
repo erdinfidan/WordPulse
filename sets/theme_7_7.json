@@ -3,92 +3,180 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "dream",
-            "meaning": "rüya"
+            "meaning": "Rüya",
+            "text": "Dream"
         },
         {
-            "text": "nightmare",
-            "meaning": "kabus"
+            "meaning": "Dilek",
+            "text": "Wish"
         },
         {
-            "text": "wish",
-            "meaning": "dilek"
+            "meaning": "Hayal etmek",
+            "text": "Imagine"
         },
         {
-            "text": "imagine",
-            "meaning": "hayal etmek"
+            "meaning": "Gelecek",
+            "text": "Future"
         },
         {
-            "text": "future",
-            "meaning": "gelecek"
+            "meaning": "Ummak",
+            "text": "Hope"
         },
         {
-            "text": "goal",
-            "meaning": "hedef"
+            "meaning": "Yetenekli",
+            "text": "Talented"
         },
         {
-            "text": "ambition",
-            "meaning": "istek"
+            "meaning": "Başarılı",
+            "text": "Successful"
         },
         {
-            "text": "hope",
-            "meaning": "umut"
+            "meaning": "İnanmak",
+            "text": "Believe"
         },
         {
-            "text": "talented",
-            "meaning": "yetenekli"
+            "meaning": "Kariyer",
+            "text": "Career"
         },
         {
-            "text": "skill",
-            "meaning": "beceri"
+            "meaning": "Yazılım mühendisi",
+            "text": "Software engineer"
         },
         {
-            "text": "ability",
-            "meaning": "yetenek"
+            "text": "Luck",
+            "meaning": "Şans"
         },
         {
-            "text": "success",
-            "meaning": "başarı"
+            "text": "Four-leaf clover",
+            "meaning": "Dört yapraklı yonca"
         },
         {
-            "text": "believe",
-            "meaning": "inanmak"
+            "text": "Self-driving car",
+            "meaning": "Sürücüsüz araba"
         },
         {
-            "text": "inspire",
-            "meaning": "ilham vermek"
+            "text": "Innovation",
+            "meaning": "Yenilik"
         },
         {
-            "text": "motivate",
-            "meaning": "motive etmek"
+            "text": "Smart glass lens",
+            "meaning": "Akıllı lens"
         },
         {
-            "text": "career",
-            "meaning": "kariyer"
+            "text": "Excellent",
+            "meaning": "Harika"
         },
         {
-            "text": "astronaut",
-            "meaning": "astronot"
+            "text": "Exam",
+            "meaning": "Sınav"
         },
         {
-            "text": "pilot",
-            "meaning": "pilot"
+            "text": "Department",
+            "meaning": "Bölüm"
         },
         {
-            "text": "engineer",
-            "meaning": "mühendis"
+            "text": "Alien",
+            "meaning": "Uzaylı"
         },
         {
-            "text": "scientist",
-            "meaning": "bilim insanı"
+            "text": "Wearable",
+            "meaning": "Giyilebilir"
         },
         {
-            "text": "artist",
-            "meaning": "sanatçı"
+            "text": "Blief",
+            "meaning": "İnanış"
         },
         {
-            "text": "musician",
-            "meaning": "müzisyen"
+            "text": "Prediction",
+            "meaning": "Tahmin"
+        },
+        {
+            "text": "Guess",
+            "meaning": "Tahmin etmek"
+        },
+        {
+            "text": "Probably",
+            "meaning": "Belki"
+        },
+        {
+            "text": "Cure",
+            "meaning": "Tedavi"
+        },
+        {
+            "text": "Develop",
+            "meaning": "Geliştirmek"
+        },
+        {
+            "text": "Increase",
+            "meaning": "Artmak"
+        },
+        {
+            "text": "Space",
+            "meaning": "Uzay"
+        },
+        {
+            "text": "Scholarship",
+            "meaning": "Burs"
+        },
+        {
+            "text": "Shortage",
+            "meaning": "Kıtlık"
+        },
+        {
+            "text": "Disease",
+            "meaning": "Hastalık"
+        },
+        {
+            "text": "Salary",
+            "meaning": "Maaş"
+        },
+        {
+            "text": "Food pill",
+            "meaning": "Yiyecek hapı"
+        },
+        {
+            "text": "Come true",
+            "meaning": "Gerçekleşmek"
+        },
+        {
+            "text": "Maybe",
+            "meaning": "Belki"
+        },
+        {
+            "text": "Foreign Country",
+            "meaning": "Yabancı ülke"
+        },
+        {
+            "text": "Travel in time",
+            "meaning": "Zamanda yolculuk"
+        },
+        {
+            "text": "World",
+            "meaning": "Dünya"
+        },
+        {
+            "text": "Private life",
+            "meaning": "Özel hayat"
+        },
+        {
+            "text": "Next",
+            "meaning": "Sonraki"
+        },
+        {
+            "text": "Tomorrow",
+            "meaning": "Yarın"
+        },
+        {
+            "text": "Later",
+            "meaning": "Sonra"
+        },
+        {
+            "text": "Following",
+            "meaning": "Sonraki"
+        },
+        {
+            "text": "Expect",
+            "meaning": "Ümit etmek"
         }
     ]
 }

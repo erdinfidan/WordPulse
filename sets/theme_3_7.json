@@ -1,0 +1,42 @@
+{
+    "setId": "theme_3_7",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "City",
+            "meaning": "Şehir"
+        },
+        {
+            "text": "School",
+            "meaning": "Okul"
+        },
+        {
+            "text": "Museum",
+            "meaning": "Müze"
+        },
+        {
+            "text": "Hospital",
+            "meaning": "Hastane"
+        },
+        {
+            "text": "Zoo",
+            "meaning": "Hayvanat bahçesi"
+        },
+        {
+            "text": "Mosque",
+            "meaning": "Cami"
+        },
+        {
+            "text": "Bank",
+            "meaning": "Banka"
+        },
+        {
+            "text": "Library",
+            "meaning": "Kütüphane"
+        },
+        {
+            "text": "Shopping centre",
+            "meaning": "Alışveriş merkezi"
+        }
+    ]
+}

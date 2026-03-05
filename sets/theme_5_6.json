@@ -3,104 +3,184 @@
     "version": "1.0.0",
     "words": [
         {
-            "text": "healthy",
-            "meaning": "sağlıklı"
+            "meaning": "İçecek",
+            "text": "Drink"
         },
         {
-            "text": "unhealthy",
-            "meaning": "sağlıksız"
+            "meaning": "Meyve suyu",
+            "text": "Fruit"
         },
         {
-            "text": "sick",
-            "meaning": "hasta"
+            "meaning": "Su",
+            "text": "Water"
         },
         {
-            "text": "tired",
-            "meaning": "yorgun"
+            "text": "Main dish",
+            "meaning": "Ana yemek"
         },
         {
-            "text": "hungry",
-            "meaning": "aç"
+            "text": "Dessert",
+            "meaning": "Tatlı"
         },
         {
-            "text": "thirsty",
-            "meaning": "susamış"
+            "text": "Ingredient",
+            "meaning": "Malzeme"
         },
         {
-            "text": "headache",
-            "meaning": "baş ağrısı"
+            "text": "Beef",
+            "meaning": "Et"
         },
         {
-            "text": "stomachache",
-            "meaning": "mide ağrısı"
+            "text": "Sweets",
+            "meaning": "Şekerleme"
         },
         {
-            "text": "fever",
-            "meaning": "ateş"
+            "text": "Mashed potatoe",
+            "meaning": "Patates püresi"
         },
         {
-            "text": "cough",
-            "meaning": "öksürük"
+            "text": "Special souce",
+            "meaning": "Özel sos"
         },
         {
-            "text": "medicine",
-            "meaning": "ilaç"
+            "text": "Salad",
+            "meaning": "Salata"
         },
         {
-            "text": "doctor",
-            "meaning": "doktor"
+            "text": "Apple tart",
+            "meaning": "Elmalı tart"
         },
         {
-            "text": "rest",
-            "meaning": "dinlenmek"
+            "text": "Home made",
+            "meaning": "Ev yapımı"
         },
         {
-            "text": "drink water",
-            "meaning": "su içmek"
+            "text": "Bread",
+            "meaning": "Ekmek"
         },
         {
-            "text": "sleep well",
-            "meaning": "iyi uyumak"
+            "text": "Baking powder",
+            "meaning": "Kabartma tozu"
         },
         {
-            "text": "health",
-            "meaning": "sağlık"
+            "text": "Dough",
+            "meaning": "Hamur"
         },
         {
-            "text": "eat",
-            "meaning": "yemek"
+            "text": "Bean",
+            "meaning": "Fasülye"
         },
         {
-            "text": "drink",
-            "meaning": "içmek"
+            "text": "Jam",
+            "meaning": "Reçel"
         },
         {
-            "text": "food",
-            "meaning": "yiyecek"
+            "text": "Meal",
+            "meaning": "Yemek"
         },
         {
-            "text": "vegetable",
-            "meaning": "sebze"
+            "text": "Oil",
+            "meaning": "Yağ"
         },
         {
-            "text": "fruit",
-            "meaning": "meyve"
+            "text": "Nut",
+            "meaning": "Ceviz"
         },
         {
-            "text": "water",
-            "meaning": "su"
+            "text": "Pasta",
+            "meaning": "Makarna"
         },
         {
-            "text": "clinic",
-            "meaning": "klinik"
+            "text": "Butter",
+            "meaning": "Tereyağ"
         },
         {
-            "text": "exercise",
-            "meaning": "egzersiz"
+            "text": "Salt",
+            "meaning": "Tuz"
         },
         {
-            "text": "sleep",
-            "meaning": "uyumak"
+            "text": "Garlic",
+            "meaning": "Sarımsak"
+        },
+        {
+            "text": "Cheese",
+            "meaning": "Peynir"
+        },
+        {
+            "text": "Mushroom",
+            "meaning": "Mantar"
+        },
+        {
+            "text": "Grilled chicken",
+            "meaning": "Izgara tavuk"
+        },
+        {
+            "text": "Egg",
+            "meaning": "Yumurta"
+        },
+        {
+            "text": "Pepper",
+            "meaning": "Biber"
+        },
+        {
+            "text": "Baked Potatoe",
+            "meaning": "Fırında patates"
+        },
+        {
+            "text": "Spice",
+            "meaning": "Baharat"
+        },
+        {
+            "text": "Dairy products",
+            "meaning": "Süt ürünleri"
+        },
+        {
+            "text": "Olive",
+            "meaning": "Zeytin"
+        },
+        {
+            "text": "Corn",
+            "meaning": "Mısır"
+        },
+        {
+            "text": "Meatball",
+            "meaning": "Köfte"
+        },
+        {
+            "text": "Ice cream",
+            "meaning": "Dondurma"
+        },
+        {
+            "text": "Sugar",
+            "meaning": "Şeker"
+        },
+        {
+            "text": "Flour",
+            "meaning": "Un"
+        },
+        {
+            "text": "Lettuce",
+            "meaning": "Marul"
+        },
+        {
+            "text": "Cucumber",
+            "meaning": "Salatalık"
+        },
+        {
+            "text": "Tomato",
+            "meaning": "Domates"
+        },
+        {
+            "text": "Milk",
+            "meaning": "Süt"
+        },
+        {
+            "text": "Omelette",
+            "meaning": "Omlet"
+        },
+        {
+            "text": "Soup",
+            "meaning": "Çorba"
         }
     ]
 }
