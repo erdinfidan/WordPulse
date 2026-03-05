@@ -1,0 +1,34 @@
+{
+    "setId": "yokdil_fen_uzay_gezegen_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Greenhouse Effect",
+            "meaning": "Sera Etkisi"
+        },
+        {
+            "text": "Terraforming",
+            "meaning": "Gezegen Dönüşümü"
+        },
+        {
+            "text": "Ha bitat",
+            "meaning": "Yaşam Alanı"
+        },
+        {
+            "text": "Space Probe",
+            "meaning": "Uzay Probu"
+        },
+        {
+            "text": "Redshift",
+            "meaning": "Kırmızıya Kayma"
+        },
+        {
+            "text": "Event Horizon",
+            "meaning": "Olay Ufku"
+        },
+        {
+            "text": "Satellite",
+            "meaning": "Uydu"
+        }
+    ]
+}

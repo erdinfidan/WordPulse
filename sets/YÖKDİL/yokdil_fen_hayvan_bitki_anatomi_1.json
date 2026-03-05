@@ -1,0 +1,126 @@
+{
+    "setId": "yokdil_fen_hayvan_bitki_anatomi_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Anatomy",
+            "meaning": "Anatomi"
+        },
+        {
+            "text": "Physiology",
+            "meaning": "Fizyoloji"
+        },
+        {
+            "text": "Skeletal System",
+            "meaning": "İskelet Sistemi"
+        },
+        {
+            "text": "Muscular System",
+            "meaning": "Kas Sistemi"
+        },
+        {
+            "text": "Circulatory System",
+            "meaning": "Dolaşım Sistemi"
+        },
+        {
+            "text": "Nervous System",
+            "meaning": "Sinir Sistemi"
+        },
+        {
+            "text": "Digestive System",
+            "meaning": "Sindirim Sistemi"
+        },
+        {
+            "text": "Respiratory System",
+            "meaning": "Solunum Sistemi"
+        },
+        {
+            "text": "Excretory System",
+            "meaning": "Boşaltım Sistemi"
+        },
+        {
+            "text": "Endocrine System",
+            "meaning": "Endokrin Sistemi"
+        },
+        {
+            "text": "Lymphatic System",
+            "meaning": "Lenfatik Sistem"
+        },
+        {
+            "text": "Reproductive System",
+            "meaning": "Üreme Sistemi"
+        },
+        {
+            "text": "Cardiovascular System",
+            "meaning": "Kardiyovasküler Sistem"
+        },
+        {
+            "text": "Cranial",
+            "meaning": "Kafatası ile İlgili"
+        },
+        {
+            "text": "Thoracic",
+            "meaning": "Göğüs Bölgesi ile İlgili"
+        },
+        {
+            "text": "Abdominal",
+            "meaning": "Karın Bölgesi ile İlgili"
+        },
+        {
+            "text": "Pelvic",
+            "meaning": "Pelvik Bölge ile İlgili"
+        },
+        {
+            "text": "Veins",
+            "meaning": "Damarlar"
+        },
+        {
+            "text": "Arteries",
+            "meaning": "Atardamarlar"
+        },
+        {
+            "text": "Capillaries",
+            "meaning": "Kılcal Damarlar"
+        },
+        {
+            "text": "Oxygenation",
+            "meaning": "Oksijenleme"
+        },
+        {
+            "text": "Hemoglobin",
+            "meaning": "Hemoglobin"
+        },
+        {
+            "text": "Cartilage",
+            "meaning": "K ıkırdak"
+        },
+        {
+            "text": "Ligaments",
+            "meaning": "Bağlar"
+        },
+        {
+            "text": "Tendons",
+            "meaning": "Kas İpi"
+        },
+        {
+            "text": "Spinal Cord",
+            "meaning": "Omurilik"
+        },
+        {
+            "text": "Neurons",
+            "meaning": "Sinir Hücreleri"
+        },
+        {
+            "text": "Endorphins",
+            "meaning": "Endorfinler"
+        },
+        {
+            "text": "Homeostasis",
+            "meaning": "Homeostaz"
+        },
+        {
+            "text": "Metabolism",
+            "meaning": "Metabolizma"
+        }
+    ]
+}

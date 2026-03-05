@@ -1,0 +1,46 @@
+{
+    "setId": "yokdil_fen_hayvan_bitki_anatomi_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Immune System",
+            "meaning": "Bağışıklık Sistemi"
+        },
+        {
+            "text": "Inflammation",
+            "meaning": "İltihaplanma"
+        },
+        {
+            "text": "Fibrils",
+            "meaning": "Fibriller"
+        },
+        {
+            "text": "Bile",
+            "meaning": "Safra"
+        },
+        {
+            "text": "Synapse",
+            "meaning": "Sinaps"
+        },
+        {
+            "text": "Digestive Enzymes",
+            "meaning": "Sindirim Enzimleri"
+        },
+        {
+            "text": "Antibodies",
+            "meaning": "Antikorlar"
+        },
+        {
+            "text": "Pheromones",
+            "meaning": "Feromonlar"
+        },
+        {
+            "text": "Cholesterol",
+            "meaning": "Kolesterol"
+        },
+        {
+            "text": "Vitamins",
+            "meaning": "Vitaminler"
+        }
+    ]
+}

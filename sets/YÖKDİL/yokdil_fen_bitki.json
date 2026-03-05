@@ -1,0 +1,126 @@
+{
+    "setId": "yokdil_fen_bitki",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Photosynthesis",
+            "meaning": "Fotosentez"
+        },
+        {
+            "text": "Chlorophyll",
+            "meaning": "Klorofil"
+        },
+        {
+            "text": "Root",
+            "meaning": "Kök"
+        },
+        {
+            "text": "Stem",
+            "meaning": "Sap"
+        },
+        {
+            "text": "Leaf",
+            "meaning": "Yaprak"
+        },
+        {
+            "text": "Flower",
+            "meaning": "Çiçek"
+        },
+        {
+            "text": "Pollination",
+            "meaning": "Tozlaşma"
+        },
+        {
+            "text": "Seed",
+            "meaning": "Tohum"
+        },
+        {
+            "text": "Fertilization",
+            "meaning": "Döllenme"
+        },
+        {
+            "text": "Pollen",
+            "meaning": "Polen"
+        },
+        {
+            "text": "Transpiration",
+            "meaning": "Terleme"
+        },
+        {
+            "text": "Vascular tissue",
+            "meaning": "Damar dokusu"
+        },
+        {
+            "text": "Xylem",
+            "meaning": "Kömür"
+        },
+        {
+            "text": "Phloem",
+            "meaning": "S ünger Dokusu"
+        },
+        {
+            "text": "Growth",
+            "meaning": "Büyüme"
+        },
+        {
+            "text": "Germination",
+            "meaning": "Çimlenme"
+        },
+        {
+            "text": "Deciduous",
+            "meaning": "Dökücü"
+        },
+        {
+            "text": "Evergreen",
+            "meaning": "Yeşil Yapraklı"
+        },
+        {
+            "text": "Root system",
+            "meaning": "Kök Sistemi"
+        },
+        {
+            "text": "Climate",
+            "meaning": "İklim"
+        },
+        {
+            "text": "Nutrient",
+            "meaning": "Besin"
+        },
+        {
+            "text": "Hydration",
+            "meaning": "Hidratasyon"
+        },
+        {
+            "text": "Pollinator",
+            "meaning": "Tozlayıcı"
+        },
+        {
+            "text": "Herbivores",
+            "meaning": "Otçullar"
+        },
+        {
+            "text": "Photosynthetic pigments",
+            "meaning": "Fotosentetik Pigmentler"
+        },
+        {
+            "text": "Ecosystem",
+            "meaning": "Ekosistem"
+        },
+        {
+            "text": "Compost",
+            "meaning": "Kompost"
+        },
+        {
+            "text": "Biodiversity",
+            "meaning": "Biyolojik Ç eşitlilik"
+        },
+        {
+            "text": "Fungi",
+            "meaning": "Maya"
+        },
+        {
+            "text": "Pest",
+            "meaning": "Zararlı"
+        }
+    ]
+}

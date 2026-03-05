@@ -1,0 +1,126 @@
+{
+    "setId": "yokdil_sağlik_dis_2",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Sunburn",
+            "meaning": "Güneş Yanığı"
+        },
+        {
+            "text": "Overexposure",
+            "meaning": "Aşırı M aruz Kalma"
+        },
+        {
+            "text": "Sleep Apnea",
+            "meaning": "Uyku Apnesi"
+        },
+        {
+            "text": "Clinical Disorder",
+            "meaning": "Klinik Bozukluk"
+        },
+        {
+            "text": "Syndrome",
+            "meaning": "Sendrom"
+        },
+        {
+            "text": "Respiratory Condition",
+            "meaning": "Solunum Koşulu"
+        },
+        {
+            "text": "Stem Cell",
+            "meaning": "Kök Hücre"
+        },
+        {
+            "text": "Progression of the Disease",
+            "meaning": "Hastalık İlerlemesi"
+        },
+        {
+            "text": "Life Expectancy",
+            "meaning": "Yaşam Bekl entisi"
+        },
+        {
+            "text": "Digestive Enzymes",
+            "meaning": "Sindirim Enzimleri"
+        },
+        {
+            "text": "Intestine",
+            "meaning": "Bağırsak"
+        },
+        {
+            "text": "The Measles Virus",
+            "meaning": "Kızamık Virüsü"
+        },
+        {
+            "text": "Bloodstream",
+            "meaning": "Kan Dolaşımı"
+        },
+        {
+            "text": "The Lymph System",
+            "meaning": "Lenf Sistemi"
+        },
+        {
+            "text": "Genes, Nerve Cells, and Hormones",
+            "meaning": "Genler, Sinir Hücreleri ve Hormonlar"
+        },
+        {
+            "text": "A Rudimentary Nervous S ystem",
+            "meaning": "Bir Temel Sinir Sistemi"
+        },
+        {
+            "text": "Blood Clot",
+            "meaning": "Kan Pıhtısı"
+        },
+        {
+            "text": "Interior Veins",
+            "meaning": "İç Damarlar"
+        },
+        {
+            "text": "Platelets",
+            "meaning": "Trombositler"
+        },
+        {
+            "text": "The Limb",
+            "meaning": "Uzuv"
+        },
+        {
+            "text": "Appetite",
+            "meaning": "İştah"
+        },
+        {
+            "text": "Ingredient",
+            "meaning": "İçerik/İçerik Maddesi"
+        },
+        {
+            "text": "Cancer Being in Remission",
+            "meaning": "Kanserin Remisyonda Olması"
+        },
+        {
+            "text": "Inactive State",
+            "meaning": "Hareketsiz Durum"
+        },
+        {
+            "text": "Counter -Intuitive",
+            "meaning": "Zıt Sezgi"
+        },
+        {
+            "text": "Natural Physiological Reaction",
+            "meaning": "Doğal Fizyolojik Tepki"
+        },
+        {
+            "text": "Headache, Digestive Issues, Insomnia or Other Sleep Issues, and Brain Fog",
+            "meaning": ""
+        },
+        {
+            "text": "Premature Births",
+            "meaning": "Erken Doğumlar"
+        },
+        {
+            "text": "Neonatal Intensive Care Unit",
+            "meaning": "Neonatal Yoğun Bakım Ünitesi"
+        },
+        {
+            "text": "Transplant",
+            "meaning": "Nakil"
+        }
+    ]
+}

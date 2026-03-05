@@ -1,0 +1,126 @@
+{
+    "setId": "yokdil_fen_uzay_gezegen_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Planet",
+            "meaning": "Gezegen"
+        },
+        {
+            "text": "Orbit",
+            "meaning": "Yörünge"
+        },
+        {
+            "text": "Atmosphere",
+            "meaning": "Atmosfer"
+        },
+        {
+            "text": "Gravity",
+            "meaning": "Yerçekimi"
+        },
+        {
+            "text": "Rings",
+            "meaning": "Halkalar"
+        },
+        {
+            "text": "Örnek",
+            "meaning": "Satürn gezegeni"
+        },
+        {
+            "text": "Moons",
+            "meaning": "Aylar"
+        },
+        {
+            "text": "Solar System",
+            "meaning": "Güneş Sistemi"
+        },
+        {
+            "text": "Exoplanet",
+            "meaning": "Ötegezegen"
+        },
+        {
+            "text": "Habitable Zone",
+            "meaning": "Yaşanabilir Bölge"
+        },
+        {
+            "text": "Core",
+            "meaning": "Çekirdek"
+        },
+        {
+            "text": "Mantle",
+            "meaning": "Manto"
+        },
+        {
+            "text": "Crust",
+            "meaning": "Kabuk"
+        },
+        {
+            "text": "Tectoni c Plates",
+            "meaning": "Tektonik Levhalar"
+        },
+        {
+            "text": "Volcano",
+            "meaning": "Volkan"
+        },
+        {
+            "text": "Asteroids",
+            "meaning": "Asteroitler"
+        },
+        {
+            "text": "Comets",
+            "meaning": "Kuyruklu Yıldızlar"
+        },
+        {
+            "text": "Dwarf Planet",
+            "meaning": "Cüce Gezegen"
+        },
+        {
+            "text": "Eclipse",
+            "meaning": "Tutulma"
+        },
+        {
+            "text": "Light Year",
+            "meaning": "Işık Yılı"
+        },
+        {
+            "text": "Gravitational Pull",
+            "meaning": "Gravitasyonel  Çekim"
+        },
+        {
+            "text": "Solar Flare",
+            "meaning": "Güneş Patlaması"
+        },
+        {
+            "text": "Magnetic Field",
+            "meaning": "Manyetik Alan"
+        },
+        {
+            "text": "Climate",
+            "meaning": "İklim"
+        },
+        {
+            "text": "Poles",
+            "meaning": "Kutup Noktaları"
+        },
+        {
+            "text": "Equator",
+            "meaning": "Ekvator"
+        },
+        {
+            "text": "Atmospheric Pressure",
+            "meaning": "Atmosferik Basınç"
+        },
+        {
+            "text": "Solar Wind",
+            "meaning": "Güneş Rüzgar ı"
+        },
+        {
+            "text": "Astrobiology",
+            "meaning": "Astrobiyoloji"
+        },
+        {
+            "text": "Radiation",
+            "meaning": "Radyasyon"
+        }
+    ]
+}

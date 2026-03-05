@@ -1,0 +1,90 @@
+{
+    "setId": "yokdil_sağlik_dis",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Oral Health",
+            "meaning": "Ağız Sağlığı"
+        },
+        {
+            "text": "Cavities",
+            "meaning": "Diş Çürüğü"
+        },
+        {
+            "text": "Plaque",
+            "meaning": "Diş Plağı"
+        },
+        {
+            "text": "Tartar",
+            "meaning": "Diş Taşı"
+        },
+        {
+            "text": "Root Canal Treatment",
+            "meaning": "Kök Kanal Tedavisi"
+        },
+        {
+            "text": "Braces",
+            "meaning": "Diş Teli"
+        },
+        {
+            "text": "Wisdom Teeth",
+            "meaning": "Yirmilik Diş"
+        },
+        {
+            "text": "Enamel",
+            "meaning": "Diş Minesi"
+        },
+        {
+            "text": "Sensitivity",
+            "meaning": "Diş Hassasiyeti"
+        },
+        {
+            "text": "Filling",
+            "meaning": "Diş Dolgusu"
+        },
+        {
+            "text": "Fluoride",
+            "meaning": "Florür"
+        },
+        {
+            "text": "Oral Hygiene",
+            "meaning": "Ağız Hijyeni"
+        },
+        {
+            "text": "Halitosis",
+            "meaning": "Ağız Kokusu"
+        },
+        {
+            "text": "Crown",
+            "meaning": "Diş Kapağı"
+        },
+        {
+            "text": "Scal ing and Polishing",
+            "meaning": "Diş Temizliği ve Parlatma"
+        },
+        {
+            "text": "Oral Cancer",
+            "meaning": "Ağız Kanseri"
+        },
+        {
+            "text": "Gum Disease",
+            "meaning": "Diş Eti Hastalığı"
+        },
+        {
+            "text": "Mouthwash",
+            "meaning": "Ağız Gargarası"
+        },
+        {
+            "text": "Chewing Gum",
+            "meaning": "Sakız Çiğneme"
+        },
+        {
+            "text": "Tooth Sensitivity",
+            "meaning": "Diş Hassasiyeti"
+        },
+        {
+            "text": "Dental Check -up",
+            "meaning": "Diş Muayenesi"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "setId": "yokdil_fen_bocek_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Insect",
+            "meaning": "Böcek"
+        },
+        {
+            "text": "Exoskeleton",
+            "meaning": "Dış iskelet"
+        },
+        {
+            "text": "Antenna",
+            "meaning": "Duyarga"
+        },
+        {
+            "text": "Mandibles",
+            "meaning": "Çene"
+        },
+        {
+            "text": "Metamorphosis",
+            "meaning": "Metamorfoz"
+        },
+        {
+            "text": "Larva",
+            "meaning": "Larva"
+        },
+        {
+            "text": "Pupa",
+            "meaning": "Pupa"
+        },
+        {
+            "text": "Nymph",
+            "meaning": "Nymph"
+        },
+        {
+            "text": "Pollination",
+            "meaning": "Tozlaşma"
+        },
+        {
+            "text": "Insecticide",
+            "meaning": "Böcek ilacı"
+        },
+        {
+            "text": "Pheromones",
+            "meaning": "Feromonlar"
+        },
+        {
+            "text": "Excretion",
+            "meaning": "Atık atma"
+        },
+        {
+            "text": "Metabolism",
+            "meaning": "Metabolizma"
+        },
+        {
+            "text": "Wings",
+            "meaning": "Kanatlar"
+        },
+        {
+            "text": "Oviposition",
+            "meaning": "Yumurtlama"
+        },
+        {
+            "text": "Feeding",
+            "meaning": "Beslenme"
+        },
+        {
+            "text": "Symbiosis",
+            "meaning": "Simbiyoz"
+        },
+        {
+            "text": "Predator",
+            "meaning": "Yı rtıcı"
+        },
+        {
+            "text": "Parasite",
+            "meaning": "Parazit"
+        },
+        {
+            "text": "Pollinator",
+            "meaning": "Tozlayıcı"
+        },
+        {
+            "text": "Cocoon",
+            "meaning": "Kokoon"
+        },
+        {
+            "text": "Habitat",
+            "meaning": "Yaşam alanı"
+        },
+        {
+            "text": "Colony",
+            "meaning": "Koloni"
+        },
+        {
+            "text": "Flight",
+            "meaning": "Uçuş"
+        },
+        {
+            "text": "Venom",
+            "meaning": "Zehir"
+        },
+        {
+            "text": "Camouflage",
+            "meaning": "Kamuflaj"
+        },
+        {
+            "text": "Defense mechanism",
+            "meaning": "Savunma mekanizması"
+        },
+        {
+            "text": "Antagonist",
+            "meaning": "Antagonist"
+        },
+        {
+            "text": "Life cycle",
+            "meaning": "Yaşam döngüsü"
+        },
+        {
+            "text": "Mating",
+            "meaning": "Eşleşme"
+        }
+    ]
+}

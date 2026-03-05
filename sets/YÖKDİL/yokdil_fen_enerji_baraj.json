@@ -1,0 +1,126 @@
+{
+    "setId": "yokdil_fen_enerji_baraj",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Air Pollution",
+            "meaning": "Hava Kirliliği"
+        },
+        {
+            "text": "Greenhouse Gases",
+            "meaning": "Sera Gazları"
+        },
+        {
+            "text": "Carbon Emissions",
+            "meaning": "Karbon Salınımı"
+        },
+        {
+            "text": "Fossil Fuels",
+            "meaning": "Fosil Yakıtlar"
+        },
+        {
+            "text": "Renewable Energy",
+            "meaning": "Yenilenebilir Enerji"
+        },
+        {
+            "text": "Hydroelectric Power",
+            "meaning": "Hidroelektrik Enerji"
+        },
+        {
+            "text": "Climate Change",
+            "meaning": "İ klim Değişikliği"
+        },
+        {
+            "text": "Carbon Footprint",
+            "meaning": "Karbon Ayak İzi"
+        },
+        {
+            "text": "Carbon Capture and Storage",
+            "meaning": "Karbon Yakalama ve Depolama"
+        },
+        {
+            "text": "Nuclear Energy",
+            "meaning": "Nükleer Enerji"
+        },
+        {
+            "text": "Sustainable Development",
+            "meaning": "Sürdürülebilir Kalkınma"
+        },
+        {
+            "text": "Energy Efficiency",
+            "meaning": "Enerji Verimliliği"
+        },
+        {
+            "text": "Power Plant",
+            "meaning": "Elektrik Santrali"
+        },
+        {
+            "text": "Geothermal Energy",
+            "meaning": "Jeotermal Enerji"
+        },
+        {
+            "text": "Solar Energy",
+            "meaning": "Güneş Enerjisi"
+        },
+        {
+            "text": "Wind Energy",
+            "meaning": "Rüzgar Enerjisi"
+        },
+        {
+            "text": "Energy Transition",
+            "meaning": "Enerji Geçişi"
+        },
+        {
+            "text": "Ecosystem Services",
+            "meaning": "Ekosistem Hizmetleri"
+        },
+        {
+            "text": "Environmental Impact",
+            "meaning": "Çevresel Etki"
+        },
+        {
+            "text": "Emissions Standards",
+            "meaning": "Emisyon Standartları"
+        },
+        {
+            "text": "Aquifer",
+            "meaning": "Su Yatakları"
+        },
+        {
+            "text": "Green Energy",
+            "meaning": "Yeşil Enerji"
+        },
+        {
+            "text": "Hydropower",
+            "meaning": "Su Gücü"
+        },
+        {
+            "text": "Thermal Power",
+            "meaning": "Termal Enerji"
+        },
+        {
+            "text": "Sustainable Energy",
+            "meaning": "Sürdürülebilir Enerji"
+        },
+        {
+            "text": "Barriers to Energy Access",
+            "meaning": "Enerjiye Erişim Engeller i"
+        },
+        {
+            "text": "Carbon Trading",
+            "meaning": "Karbon Ticareti"
+        },
+        {
+            "text": "Decarbonization",
+            "meaning": "Karbon Düşürme"
+        },
+        {
+            "text": "Grid",
+            "meaning": "Elektrik Şebekesi"
+        },
+        {
+            "text": "Water Conservation",
+            "meaning": "Su Koruma"
+        }
+    ]
+}

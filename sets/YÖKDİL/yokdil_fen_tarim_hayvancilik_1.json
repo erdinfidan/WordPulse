@@ -1,0 +1,126 @@
+{
+    "setId": "yokdil_fen_tarim_hayvancilik_1",
+    "version": "1.0.0",
+    "words": [
+        {
+            "text": "Agriculture",
+            "meaning": "Tarım"
+        },
+        {
+            "text": "Horticulture",
+            "meaning": "Bahçecilik"
+        },
+        {
+            "text": "Livestock",
+            "meaning": "Hayvancılık"
+        },
+        {
+            "text": "Crop",
+            "meaning": "Ürün"
+        },
+        {
+            "text": "Farming",
+            "meaning": "Çiftçilik"
+        },
+        {
+            "text": "Sustainable Agriculture",
+            "meaning": "Sürdürülebilir Tarım"
+        },
+        {
+            "text": "Pes ticides",
+            "meaning": "Pestisitler"
+        },
+        {
+            "text": "Fertilizers",
+            "meaning": "Gübreler"
+        },
+        {
+            "text": "Irrigation",
+            "meaning": "Sulama"
+        },
+        {
+            "text": "GMO",
+            "meaning": "Genetically Modified Organism - Genetik Olarak Değiştirilmiş Organizma"
+        },
+        {
+            "text": "Farmers",
+            "meaning": "Ç iftçiler"
+        },
+        {
+            "text": "Agronomist",
+            "meaning": "Tarım Uzmanı"
+        },
+        {
+            "text": "Soil",
+            "meaning": "Toprak"
+        },
+        {
+            "text": "Tillage",
+            "meaning": "Toprak İşleme"
+        },
+        {
+            "text": "Harvest",
+            "meaning": "Hasat"
+        },
+        {
+            "text": "Greenhouse",
+            "meaning": "Sera"
+        },
+        {
+            "text": "Livestock Farming",
+            "meaning": "Hayvancılık Tarımı"
+        },
+        {
+            "text": "Animal Husbandry",
+            "meaning": "Hayvan Yetiştiriciliği"
+        },
+        {
+            "text": "Free -range",
+            "meaning": "Serbest Yetiştirme"
+        },
+        {
+            "text": "Feed",
+            "meaning": "Yem"
+        },
+        {
+            "text": "Poultry",
+            "meaning": "Kanatlı Hayvancılık"
+        },
+        {
+            "text": "Dairy Farming",
+            "meaning": "Süt  Çiftçiliği"
+        },
+        {
+            "text": "Beekeeping",
+            "meaning": "Arıcılık"
+        },
+        {
+            "text": "Manure",
+            "meaning": "Gübre"
+        },
+        {
+            "text": "Agroforestry",
+            "meaning": "Tarım -Orman Sistemi"
+        },
+        {
+            "text": "Animal Welfare",
+            "meaning": "Hayvan Refahı"
+        },
+        {
+            "text": "Cattle",
+            "meaning": "Sığır"
+        },
+        {
+            "text": "Pasture",
+            "meaning": "Meralar"
+        },
+        {
+            "text": "Aquaculture",
+            "meaning": "Su Ürünleri Yetiştiriciliği"
+        },
+        {
+            "text": "Agri -business",
+            "meaning": "Tarım İşletmeciliği"
+        }
+    ]
+}
